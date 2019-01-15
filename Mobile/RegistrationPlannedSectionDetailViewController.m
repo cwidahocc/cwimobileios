@@ -179,21 +179,20 @@
     }
 }
 
-- (void) willRotateToInterfaceOrientation:(UIInterfaceOrientation)toInterfaceOrientation duration:(NSTimeInterval)duration
-{
+- (void) viewWillTransitionToSize:(CGSize)size withTransitionCoordinator:(id<UIViewControllerTransitionCoordinator>)coordinator {
     [self.scrollView setContentOffset:CGPointZero animated:YES];
-}
-
-
--(void) didRotateFromInterfaceOrientation:(UIInterfaceOrientation)fromInterfaceOrientation
-{
-    [self adjustContraintsAccordingToContent];
-    if(self.maskView)
-    {
-        [self.maskView removeFromSuperview];
-        self.maskView = nil;
-        [self clearView];
-    }
+    [super viewWillTransitionToSize:size withTransitionCoordinator:coordinator];
+    [coordinator animateAlongsideTransition:nil completion:^(id<UIViewControllerTransitionCoordinatorContext>  _Nonnull context) {
+       
+        [self adjustContraintsAccordingToContent];
+        if(self.maskView)
+        {
+            [self.maskView removeFromSuperview];
+            self.maskView = nil;
+            [self clearView];
+        }
+        
+    }];
 }
 
 -(void) extractFacultyContentForPhone

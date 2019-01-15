@@ -20,11 +20,11 @@ class LaunchBeaconEntity: GoBeaconEntity {
         return NSFetchRequest<LaunchBeaconEntity>(entityName: LaunchBeaconEntity.launchBeaconEntityName);
     }
     
-    override var hashValue: Int {
-        get {
-            return moduleKey.hashValue
-        }
-    }
+//    override var hashValue: Int {
+//        get {
+//            return moduleKey.hashValue
+//        }
+//    }
     
     @nonobjc static func ==(lhs: LaunchBeaconEntity, rhs: LaunchBeaconEntity) -> Bool {
         return lhs.moduleKey == rhs.moduleKey

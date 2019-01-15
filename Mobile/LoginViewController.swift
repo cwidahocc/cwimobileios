@@ -306,11 +306,11 @@ class LoginViewController : UIViewController, LoginProtocol {
         } else {
             // Unable to access local device authentication
             switch touchIDError!.code {
-            case LAError.touchIDNotEnrolled.rawValue:
+            case LAError.biometryNotEnrolled.rawValue:
                 self.useFingerprintSwitch.isEnabled = false
                 allowTouchId = false
                 print("Touch ID is not enrolled")
-            case LAError.touchIDNotAvailable.rawValue:
+            case LAError.biometryNotAvailable.rawValue:
                 self.useFingerprintSwitch.removeFromSuperview()
                 self.useFingerprintSwitchLabel.removeFromSuperview()
                 allowTouchId = false
@@ -319,7 +319,7 @@ class LoginViewController : UIViewController, LoginProtocol {
                 self.useFingerprintSwitch.isEnabled = false
                 allowTouchId = false
                 print("Passcode has not been set")
-            case LAError.touchIDLockout.rawValue:
+            case LAError.biometryLockout.rawValue:
                 self.useFingerprintSwitch.removeFromSuperview()
                 self.useFingerprintSwitchLabel.removeFromSuperview()
                 self.useFingerprintSwitch.isOn = false

@@ -443,11 +443,6 @@
     });
 }
 
--(BOOL)splitViewController:(UISplitViewController *)svc shouldHideViewController:(UIViewController *)vc inOrientation:(UIInterfaceOrientation)orientation
-{
-    return NO;
-}
-
 //-(void) reloadData:(id)sender
 //{
 //    [self.tableView reloadData];

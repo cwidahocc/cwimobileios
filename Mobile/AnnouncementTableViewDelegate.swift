@@ -49,16 +49,16 @@ class AnnouncementTableViewDelegate: NSObject, UITableViewDataSource, UITableVie
             
             switch type {
             case .insert:
-                self.announcementTableView.insertRows(at: [newIndexPath as IndexPath!], with: .fade)
+                self.announcementTableView.insertRows(at: [newIndexPath!], with: .fade)
             case .update:
-                let cell = self.announcementTableView.cellForRow(at: indexPath as IndexPath!)
-                configureCell(cell!, atIndexPath: indexPath as IndexPath!)
-                announcementTableView.reloadRows(at: [indexPath as IndexPath!], with: .fade)
+                let cell = self.announcementTableView.cellForRow(at: indexPath!)
+                configureCell(cell!, atIndexPath: indexPath!)
+                announcementTableView.reloadRows(at: [indexPath!], with: .fade)
             case .move:
-                announcementTableView.deleteRows(at: [indexPath as IndexPath!], with: .fade)
-                announcementTableView.insertRows(at: [newIndexPath as IndexPath!], with: .fade)
+                announcementTableView.deleteRows(at: [indexPath!], with: .fade)
+                announcementTableView.insertRows(at: [newIndexPath!], with: .fade)
             case .delete:
-                announcementTableView.deleteRows(at: [indexPath as IndexPath!], with: .fade)
+                announcementTableView.deleteRows(at: [indexPath!], with: .fade)
             }
     }
     

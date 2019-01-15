@@ -46,7 +46,6 @@
 		5411368D1AEDDFCC0066E5D5 /* MapsBuildingsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5411368C1AEDDFCC0066E5D5 /* MapsBuildingsController.swift */; };
 		5411368F1AEDE1AE0066E5D5 /* BuildingTableRowController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5411368E1AEDE1AE0066E5D5 /* BuildingTableRowController.swift */; };
 		5411369E1AEDFCF10066E5D5 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 541136A01AEDFCF10066E5D5 /* Localizable.strings */; };
-		5414988617BAAABD00FDF31E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5491340B17B16A7A0001CE29 /* Images.xcassets */; };
 		5416E16B1D2FE47000B0DF26 /* CurrentUser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5416E16A1D2FE47000B0DF26 /* CurrentUser.swift */; };
 		5419C6301B7937B900827DF2 /* EventsStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5419C62E1B7937B900827DF2 /* EventsStoryboard.storyboard */; };
 		5419C6321B79401F00827DF2 /* EventsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5419C6311B79401F00827DF2 /* EventsViewController.swift */; };
@@ -316,7 +315,6 @@
 		54EA962A1893011100BCCF24 /* RegistrationRegisteredSectionsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 54EA96281893011100BCCF24 /* RegistrationRegisteredSectionsViewController.m */; };
 		54EB2F961CF37EDE00B5D143 /* LoginTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54EB2F951CF37EDE00B5D143 /* LoginTests.swift */; };
 		54EB393F1811A5C5002008C8 /* EllucianModules.plist in Resources */ = {isa = PBXBuildFile; fileRef = 54EB393D1811A5C5002008C8 /* EllucianModules.plist */; };
-		54ED3B2B1A71BD2500A43677 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5491340B17B16A7A0001CE29 /* Images.xcassets */; };
 		54EE16091A81531F00BA2292 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 54EE160B1A81531F00BA2292 /* Localizable.strings */; };
 		54EE41431B98E4D400DC73BE /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 54EE41421B98E4D400DC73BE /* libGoogleAnalyticsServices.a */; };
 		54F3DD4C176112D000CEDE57 /* CourseEventsDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 54F3DD4A176112D000CEDE57 /* CourseEventsDetailViewController.m */; };
@@ -337,6 +335,8 @@
 		A9E9F7BE1A852477000639D0 /* AnnouncementTableViewDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9568DE21A6EE344002BB592 /* AnnouncementTableViewDelegate.swift */; };
 		A9E9F7BF1A852477000639D0 /* EventTableViewDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9568DE41A6EE358002BB592 /* EventTableViewDelegate.swift */; };
 		A9F498041A93923600E71CC1 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9F498021A93923600E71CC1 /* SwiftyJSON.swift */; };
+		F4A0182C20FDA6EB00D27F5D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5491340B17B16A7A0001CE29 /* Images.xcassets */; };
+		F4A0182F20FDA72700D27F5D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5491340B17B16A7A0001CE29 /* Images.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -643,7 +643,7 @@
 		546FE11419745E0A000F2A79 /* GAILogger.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GAILogger.h; sourceTree = "<group>"; };
 		546FE11519745E0A000F2A79 /* GAITrackedViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GAITrackedViewController.h; sourceTree = "<group>"; };
 		546FE11619745E0A000F2A79 /* GAITracker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GAITracker.h; sourceTree = "<group>"; };
-		54704BE517B53E4E002D7C1C /* Base */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
+		54704BE517B53E4E002D7C1C /* Base */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
 		54711CAD187CAA5B000DC9DC /* RegistrationSearchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegistrationSearchViewController.h; sourceTree = "<group>"; };
 		54711CAE187CAA5B000DC9DC /* RegistrationSearchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegistrationSearchViewController.m; sourceTree = "<group>"; };
 		54711CB5187DD5DC000DC9DC /* RegistrationTabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegistrationTabBarController.h; sourceTree = "<group>"; };
@@ -1562,7 +1562,7 @@
 		8426029E15AF12D800FE7360 = {
 			isa = PBXGroup;
 			children = (
-				842602B515AF12D900FE7360 /* Ellucian Go */,
+				842602B515AF12D900FE7360 /* Ellucian GO */,
 				544E649A1A715CBD00220746 /* Ellucian GO Assignments Today */,
 				5494D80D1AEAD8E20030EE4A /* Ellucian GO WatchKit Extension */,
 				5494D81F1AEAD8E20030EE4A /* Ellucian GO WatchKit App */,
@@ -1616,7 +1616,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		842602B515AF12D900FE7360 /* Ellucian Go */ = {
+		842602B515AF12D900FE7360 /* Ellucian GO */ = {
 			isa = PBXGroup;
 			children = (
 				A997082215DEC06500B9D25F /* About */,
@@ -1658,7 +1658,7 @@
 				0D2A2FA81D89760400EC35C8 /* WatchConnectivity */,
 				8448F7F615CB707A001D6347 /* Web */,
 			);
-			name = "Ellucian Go";
+			name = "Ellucian GO";
 			path = Mobile;
 			sourceTree = "<group>";
 		};
@@ -2075,18 +2075,18 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
-				LastUpgradeCheck = 1010;
+				LastUpgradeCheck = 1000;
 				ORGANIZATIONNAME = "Ellucian Company L.P. and its affiliates.";
 				TargetAttributes = {
 					5444D0081CB2E33100403AA6 = {
 						CreatedOnToolsVersion = 7.3;
-						DevelopmentTeam = H29YCCJ4PP;
+						DevelopmentTeam = CU629ZRRW3;
 						LastSwiftMigration = 0900;
 						TestTargetID = 54E40B3A1728552E00F661A5;
 					};
 					544E64961A715CBD00220746 = {
 						CreatedOnToolsVersion = 6.1.1;
-						DevelopmentTeam = H29YCCJ4PP;
+						DevelopmentTeam = CU629ZRRW3;
 						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
@@ -2103,7 +2103,7 @@
 					};
 					5494D80B1AEAD8E20030EE4A = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = H29YCCJ4PP;
+						DevelopmentTeam = CU629ZRRW3;
 						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
@@ -2120,11 +2120,11 @@
 					};
 					5494D81A1AEAD8E20030EE4A = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = H29YCCJ4PP;
+						DevelopmentTeam = CU629ZRRW3;
 						ProvisioningStyle = Automatic;
 					};
 					54E40B3A1728552E00F661A5 = {
-						DevelopmentTeam = H29YCCJ4PP;
+						DevelopmentTeam = CU629ZRRW3;
 						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
@@ -2141,9 +2141,6 @@
 								enabled = 0;
 							};
 							com.apple.Keychain = {
-								enabled = 1;
-							};
-							com.apple.Maps.iOS = {
 								enabled = 1;
 							};
 							com.apple.Push = {
@@ -2192,8 +2189,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				54ED3B2B1A71BD2500A43677 /* Images.xcassets in Resources */,
 				54EE16091A81531F00BA2292 /* Localizable.strings in Resources */,
+				F4A0182F20FDA72700D27F5D /* Images.xcassets in Resources */,
 				54412FBB1A7C26D70085AD82 /* InfoPlist.strings in Resources */,
 				54412FA31A7BD9E20085AD82 /* MainInterface.storyboard in Resources */,
 				54E6D41D1B3D9FA20025C651 /* Customizations.plist in Resources */,
@@ -2229,11 +2226,11 @@
 				548F8B421B9F8BA700D13E4E /* ImportantNumbersStoryboard.storyboard in Resources */,
 				549EF3091B505FDC0014851C /* HomeStoryboard.storyboard in Resources */,
 				540F21671B9F546C008CC3EC /* AboutStoryboard.storyboard in Resources */,
-				5414988617BAAABD00FDF31E /* Images.xcassets in Resources */,
 				54E40BB51728552E00F661A5 /* InfoPlist.strings in Resources */,
 				54B2AC4B1B6BF30B00FCDC67 /* NSDateTimeAgo.strings in Resources */,
 				5419C6301B7937B900827DF2 /* EventsStoryboard.storyboard in Resources */,
 				54C2BE731AC987D9004C3736 /* Settings.bundle in Resources */,
+				F4A0182C20FDA6EB00D27F5D /* Images.xcassets in Resources */,
 				542C81931B7BD10C000D6B56 /* WebStoryboard.storyboard in Resources */,
 				545196731D77220D0069A923 /* RegistrationCartTableHeaderView.xib in Resources */,
 				54750BDF1B5DA2B40043443F /* LoginStoryboard.storyboard in Resources */,
@@ -3017,7 +3014,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = H29YCCJ4PP;
+				DEVELOPMENT_TEAM = CU629ZRRW3;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -3053,7 +3050,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = H29YCCJ4PP;
+				DEVELOPMENT_TEAM = CU629ZRRW3;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -3091,7 +3088,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Assignments Today/Assignments Today.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = H29YCCJ4PP;
+				DEVELOPMENT_TEAM = CU629ZRRW3;
 				ENABLE_BITCODE = YES;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -3104,7 +3101,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				INFOPLIST_FILE = "Assignments Today/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				MTL_ENABLE_DEBUG_INFO = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = "edu.cwi.mobile.Assignments-Today";
@@ -3132,9 +3129,9 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CODE_SIGN_ENTITLEMENTS = "Assignments Today/Assignments Today.entitlements";
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Ellucian Inc. (CU629ZRRW3)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = H29YCCJ4PP;
+				DEVELOPMENT_TEAM = CU629ZRRW3;
 				ENABLE_BITCODE = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -3144,7 +3141,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				INFOPLIST_FILE = "Assignments Today/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = "edu.cwi.mobile.Assignments-Today";
@@ -3176,7 +3173,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "iPhone Developer";
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = H29YCCJ4PP;
+				DEVELOPMENT_TEAM = CU629ZRRW3;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = NO;
@@ -3204,7 +3201,7 @@
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = 4;
-				WATCHOS_DEPLOYMENT_TARGET = 3.0;
+				WATCHOS_DEPLOYMENT_TARGET = 4.0;
 			};
 			name = Debug;
 		};
@@ -3221,12 +3218,12 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CODE_SIGN_ENTITLEMENTS = "Ellucian GO WatchKit Extension/Ellucian GO WatchKit Extension.entitlements";
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Ellucian Inc. (CU629ZRRW3)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Ellucian Inc. (CU629ZRRW3)";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = H29YCCJ4PP;
+				DEVELOPMENT_TEAM = CU629ZRRW3;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -3252,7 +3249,7 @@
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = 4;
-				WATCHOS_DEPLOYMENT_TARGET = 3.0;
+				WATCHOS_DEPLOYMENT_TARGET = 4.0;
 			};
 			name = Release;
 		};
@@ -3275,7 +3272,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "iPhone Developer";
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = H29YCCJ4PP;
+				DEVELOPMENT_TEAM = CU629ZRRW3;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -3296,7 +3293,7 @@
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = 4;
-				WATCHOS_DEPLOYMENT_TARGET = 3.0;
+				WATCHOS_DEPLOYMENT_TARGET = 4.0;
 			};
 			name = Debug;
 		};
@@ -3314,12 +3311,12 @@
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Ellucian Inc. (CU629ZRRW3)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Ellucian Inc. (CU629ZRRW3)";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = H29YCCJ4PP;
+				DEVELOPMENT_TEAM = CU629ZRRW3;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -3337,7 +3334,7 @@
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = 4;
-				WATCHOS_DEPLOYMENT_TARGET = 3.0;
+				WATCHOS_DEPLOYMENT_TARGET = 4.0;
 			};
 			name = Release;
 		};
@@ -3353,12 +3350,12 @@
 				"CODE_SIGN_IDENTITY[sdk=*]" = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = H29YCCJ4PP;
+				DEVELOPMENT_TEAM = CU629ZRRW3;
 				ENABLE_BITCODE = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Mobile/Mobile-Prefix.pch";
 				INFOPLIST_FILE = "Mobile/Ellucian GO-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
@@ -3390,17 +3387,17 @@
 				CLANG_ANALYZER_LOCALIZABILITY_EMPTY_CONTEXT = YES;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = "Mobile/Ellucian GO.entitlements";
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Ellucian Inc. (CU629ZRRW3)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				CURRENT_PROJECT_VERSION = 4.1.1.6;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = H29YCCJ4PP;
+				DEVELOPMENT_TEAM = CU629ZRRW3;
 				ENABLE_BITCODE = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Mobile/Mobile-Prefix.pch";
 				INFOPLIST_FILE = "Mobile/Ellucian GO-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
@@ -3466,7 +3463,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -3508,7 +3505,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
 				SDKROOT = iphoneos;
 				SWIFT_OBJC_BRIDGING_HEADER = "";

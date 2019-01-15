@@ -70,7 +70,7 @@ class ILPAssignmentsController: WKInterfaceController {
                     self.spinner.stopAnimating()
                     self.spinner.setHidden(true)
 
-                    self.assignments = data["assignments"] as! [[String:AnyObject]]
+                self.assignments = (data["assignments"] as! [[String:AnyObject]])
                     self.cache?.store(self.assignments)
                     DispatchQueue.main.async(execute: {
                         self.populateTable()
@@ -119,20 +119,20 @@ class ILPAssignmentsController: WKInterfaceController {
         for (index, assignment) in self.assignments.enumerated() {
             displayedAssignments = true
             let row = assignmentsTable.rowController(at: index) as! ILPAssignmentsTableRowController
-            row.titleLabel.setText(assignment["name"] as! String!)
+            row.titleLabel.setText((assignment["name"] as! String))
 
             if assignment["courseName"] != nil && assignment["courseSectionNumber"] != nil {
-                if let courseNameString = assignment["courseName"] as! String!, let courseSectionNumberString = assignment["courseSectionNumber"] as! String! {
+                if let courseNameString = assignment["courseName"] as? String, let courseSectionNumberString = assignment["courseSectionNumber"] as? String {
                     row.courseLabel.setText("\(courseNameString)-\(courseSectionNumberString)")
                 }
             } else if assignment["courseName"] != nil {
-                row.courseLabel.setText(assignment["courseName"] as! String!)
+                row.courseLabel.setText((assignment["courseName"] as! String))
             } else {
                 row.courseLabel.setHidden(true)
             }
 
             if assignment["dueDate"] != nil {
-                if let assignmentDate = assignment["dueDate"] as! Date! {
+                if let assignmentDate = assignment["dueDate"] as? Date {
                     let time = (self.datetimeOutputFormatter.string(from: assignmentDate))
                     row.timeLabel.setText(time)
                 }

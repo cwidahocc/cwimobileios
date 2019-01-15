@@ -273,11 +273,14 @@
     }
 }
 
--(void) didRotateFromInterfaceOrientation:(UIInterfaceOrientation)fromInterfaceOrientation
-{
-    self.widthConstraint.constant = [UIScreen mainScreen].bounds.size.width;
-    [self.descriptionTextView invalidateIntrinsicContentSize];
-    [self resetScrollViewContentOffset];
+- (void) viewWillTransitionToSize:(CGSize)size withTransitionCoordinator:(id<UIViewControllerTransitionCoordinator>)coordinator {
+    [super viewWillTransitionToSize:size withTransitionCoordinator:coordinator];
+    [coordinator animateAlongsideTransition:nil completion:^(id<UIViewControllerTransitionCoordinatorContext>  _Nonnull context) {
+        
+        self.widthConstraint.constant = [UIScreen mainScreen].bounds.size.width;
+        [self.descriptionTextView invalidateIntrinsicContentSize];
+        [self resetScrollViewContentOffset];
+    }];
 }
 -(void) resetScrollViewContentOffset
 {

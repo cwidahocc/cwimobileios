@@ -20,11 +20,11 @@ class LaunchModule: NSManagedObject {
         return NSFetchRequest<LaunchModule>(entityName: LaunchModule.launchModuleEntityName);
     }
     
-    override var hashValue: Int {
-        get {
-            return moduleKey.hashValue
-        }
-    }
+//    override var hashValue: Int {
+//        get {
+//            return moduleKey.hashValue
+//        }
+//    }
     
     @nonobjc static func ==(lhs: LaunchModule, rhs: LaunchModule) -> Bool {
         return lhs.moduleKey == rhs.moduleKey

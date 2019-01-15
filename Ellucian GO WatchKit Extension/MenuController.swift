@@ -383,11 +383,11 @@ class MenuController: WKInterfaceController {
         switch selectedModule["type"] as! String  {
         case "maps":
             let properties = selectedModule["properties"] as! Dictionary<String, String>
-            let url = properties["campuses"] as String!
+            let url = properties["campuses"]
             self.pushController(withName: "maps",  context: ["internalKey": (selectedModule["internalKey"] as! String), "title": (selectedModule["name"] as! String), "campuses": url])
         case "ilp":
             let properties = selectedModule["properties"] as! Dictionary<String, String>
-            let url = properties["ilp"] as String!
+            let url = properties["ilp"]
             self.pushController(withName: "ilp",  context: ["internalKey": (selectedModule["internalKey"] as! String), "title": (selectedModule["name"] as! String), "ilp": url])
         default:
             self.pushController(withName: selectedModule["type"] as! String,  context: nil)

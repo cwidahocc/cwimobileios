@@ -19,9 +19,9 @@ class StudentFinancialsViewController: UIViewController, UITableViewDataSource, 
     
     var transactions: [StudentFinancialsTransaction] = []
     
-    let parsingDateFormatter: DateFormatter = {
-        var formatter = DateFormatter()
-        formatter.dateFormat = "yyyy-MM-dd'T'HH:mm:ss'Z'";
+    let parsingDateFormatter: ISO8601DateFormatter = {
+        var formatter = ISO8601DateFormatter()
+       // formatter.dateFormat = "yyyy-MM-dd'T'HH:mm:ss'Z'";
         formatter.timeZone = TimeZone(abbreviation:"UTC")
         return formatter
         
@@ -30,7 +30,6 @@ class StudentFinancialsViewController: UIViewController, UITableViewDataSource, 
         var formatter = DateFormatter()
         formatter.dateStyle = .medium
         return formatter
-        
         }()
     
     let currencyFormatter: NumberFormatter = {

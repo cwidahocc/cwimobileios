@@ -98,13 +98,13 @@ class AllAnnouncementsViewController : UIViewController, UITableViewDataSource, 
     func controller(_ controller: NSFetchedResultsController<NSFetchRequestResult>, didChange anObject: Any, at indexPath: IndexPath?, for type: NSFetchedResultsChangeType, newIndexPath: IndexPath?) {            
         switch type {
             case .insert:
-                allAnnouncementsTableView.insertRows(at: [newIndexPath as IndexPath!], with: .fade)
+                allAnnouncementsTableView.insertRows(at: [newIndexPath!], with: .fade)
             case .update:
-                let cell = self.allAnnouncementsTableView.cellForRow(at: indexPath as IndexPath!)
-                configureCell(cell!, atIndexPath: indexPath as IndexPath!)
-                allAnnouncementsTableView.reloadRows(at: [indexPath as IndexPath!], with: .fade)
+                let cell = self.allAnnouncementsTableView.cellForRow(at: indexPath!)
+                configureCell(cell!, atIndexPath: indexPath!)
+                allAnnouncementsTableView.reloadRows(at: [indexPath!], with: .fade)
             case .delete:
-                allAnnouncementsTableView.deleteRows(at: [indexPath as IndexPath!], with: .fade)
+                allAnnouncementsTableView.deleteRows(at: [indexPath!], with: .fade)
             default:
                 break
         }

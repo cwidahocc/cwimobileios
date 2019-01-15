@@ -160,13 +160,13 @@ class AllAssignmentsViewController : UIViewController, UITableViewDataSource, UI
     func controller(_ controller: NSFetchedResultsController<NSFetchRequestResult>, didChange anObject: Any, at indexPath: IndexPath?, for type: NSFetchedResultsChangeType, newIndexPath: IndexPath?) {            
             switch type {
             case .insert:
-                allAssignmentsTableView.insertRows(at: [newIndexPath as IndexPath!], with: .fade)
+                allAssignmentsTableView.insertRows(at: [newIndexPath!], with: .fade)
             case .update:
-                let cell = self.allAssignmentsTableView.cellForRow(at: indexPath as IndexPath!)
-                configureCell(cell!, atIndexPath: indexPath as IndexPath!)
-                allAssignmentsTableView.reloadRows(at: [indexPath as IndexPath!], with: .fade)
+                let cell = self.allAssignmentsTableView.cellForRow(at: indexPath!)
+                configureCell(cell!, atIndexPath: indexPath!)
+                allAssignmentsTableView.reloadRows(at: [indexPath!], with: .fade)
             case .delete:
-                allAssignmentsTableView.deleteRows(at: [indexPath as IndexPath!], with: .fade)
+                allAssignmentsTableView.deleteRows(at: [indexPath!], with: .fade)
             default:
                 break
             }

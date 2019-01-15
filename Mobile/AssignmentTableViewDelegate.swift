@@ -99,13 +99,13 @@ class AssignmentTableViewDelegate: NSObject, UITableViewDataSource, UITableViewD
             
             switch type {
             case .insert:
-                assignmentTableView.insertRows(at: [newIndexPath as IndexPath!], with: .fade)
+                assignmentTableView.insertRows(at: [newIndexPath!], with: .fade)
             case .update:
-                let cell = self.assignmentTableView.cellForRow(at: indexPath as IndexPath!)
-                configureCell(cell!, atIndexPath: indexPath as IndexPath!)
-                assignmentTableView.reloadRows(at: [indexPath as IndexPath!], with: .fade)
+                let cell = self.assignmentTableView.cellForRow(at: indexPath!)
+                configureCell(cell!, atIndexPath: indexPath!)
+                assignmentTableView.reloadRows(at: [indexPath!], with: .fade)
             case .delete:
-                assignmentTableView.deleteRows(at: [indexPath as IndexPath!], with: .fade)
+                assignmentTableView.deleteRows(at: [indexPath!], with: .fade)
             default:
                 break
             }

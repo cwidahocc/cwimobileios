@@ -108,7 +108,7 @@ class CurrentUser : NSObject { //TODO objc interop
             self.useFingerprint = false
             if let userauth = self.userauth {
                 do {
-                    try KeychainWrapper.deleteItem(forUsername: userauth.sha1(), andServiceName: Bundle.main.object(forInfoDictionaryKey: "CFBundleIdentifier") as! String)
+                    try KeychainWrapper.deleteItem(forUsername: userauth.sha1(), andServiceName: (Bundle.main.object(forInfoDictionaryKey: "CFBundleIdentifier") as! String))
                 } catch {
                     //No password recorded
                 }
@@ -172,7 +172,7 @@ class CurrentUser : NSObject { //TODO objc interop
         }
         //logging in the user stores the user in the keychain
         
-        try! KeychainWrapper.storeUsername(self.userauth!.sha1(), andPassword: pass, forServiceName: Bundle.main.object(forInfoDictionaryKey: "CFBundleIdentifier") as! String, updateExisting: true)
+        try! KeychainWrapper.storeUsername(self.userauth!.sha1(), andPassword: pass, forServiceName: (Bundle.main.object(forInfoDictionaryKey: "CFBundleIdentifier") as! String), updateExisting: true)
         let defaults = AppGroupUtilities.userDefaults()
         //set the new config for about
         defaults?.set(roleSet, forKey:kLoginRoles)
@@ -231,7 +231,7 @@ class CurrentUser : NSObject { //TODO objc interop
     
     func getPassword() -> String? {
         do {
-            let password = try KeychainWrapper.getPasswordForUsername(self.userauth!.sha1(), andServiceName: Bundle.main.object(forInfoDictionaryKey: "CFBundleIdentifier") as!  String)
+            let password = try KeychainWrapper.getPasswordForUsername(self.userauth!.sha1(), andServiceName: (Bundle.main.object(forInfoDictionaryKey: "CFBundleIdentifier") as!  String))
             return password
         } catch {
             //Not present

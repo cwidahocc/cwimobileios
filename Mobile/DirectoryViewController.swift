@@ -146,12 +146,12 @@ class DirectoryViewController : UITableViewController, UISearchBarDelegate, Dire
                 }
                 
                 let filteredGroups = groupsInUse.map() {
-                    return $0.internalName as String!
+                    return $0.internalName!
                     } as [String]
                 
                 if filteredGroups.count > 0 {
-                    
-                    let encodedSearchString = searchString.addingPercentEncoding(withAllowedCharacters: CharacterSet.urlQueryAllowed)
+                    let modifiedSearchString = searchString.replacingOccurrences(of: "\u{2018}", with: "\u{27}").replacingOccurrences(of: "\u{2019}", with: "\u{27}")
+                    let encodedSearchString = modifiedSearchString.addingPercentEncoding(withAllowedCharacters: CharacterSet.urlQueryAllowed)
                     let encodedDirectories = filteredGroups.joined(separator: ",").addingPercentEncoding(withAllowedCharacters: CharacterSet.urlQueryAllowed)
                     url = "\(url!)?searchString=\(encodedSearchString!)&directories=\(encodedDirectories!)"
                     var request = URLRequest(url: URL(string: url!)!, cachePolicy: .useProtocolCachePolicy, timeoutInterval: 30.0)

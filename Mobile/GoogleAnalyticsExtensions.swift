@@ -75,7 +75,7 @@ extension UIViewController {
     @objc func sendEvent(category: String, action: String, label: String, moduleName: String? = nil) {
             sendEvent(category: category, action: action, label: label, value: nil, moduleName: moduleName)
     }
-    func sendEvent(category: String, action: String, label: String, value: Int, moduleName: String? = nil) {
+    @objc func sendEvent(category: String, action: String, label: String, value: Int, moduleName: String? = nil) {
         sendEvent(category: category, action: action, label: label, value: value, moduleName: moduleName)
     }
     
@@ -118,7 +118,7 @@ extension UIViewController {
     }
     
     private func sendEventToGoogleAnalytics(category: String, action: String, label: String, value: Int? = nil, moduleName: String? = nil, trackingIds: [String]) {
-        let builder: GAIDictionaryBuilder = GAIDictionaryBuilder.createEvent(withCategory: category, action: action, label: label, value: value as NSNumber!)
+        let builder: GAIDictionaryBuilder = GAIDictionaryBuilder.createEvent(withCategory: category, action: action, label: label, value: value as NSNumber?)
         if let defaults: UserDefaults = AppGroupUtilities.userDefaults(), let configurationName = defaults.string(forKey: "configurationName") {
             builder.set(configurationName, forKey: GAIFields.customDimension(for: 1))
         }
@@ -172,7 +172,7 @@ extension UIViewController {
 
     private func sendUserTimingToGoogleAnalytics(category: String?, time: TimeInterval, name: String, label: String?, moduleName: String? = nil, trackingIds: [String]) {
         let interval = time * 1000
-        let builder: GAIDictionaryBuilder = GAIDictionaryBuilder.createTiming(withCategory: category, interval: interval as NSNumber!, name: name, label: label)
+        let builder: GAIDictionaryBuilder = GAIDictionaryBuilder.createTiming(withCategory: category, interval: interval as NSNumber, name: name, label: label)
         if let defaults: UserDefaults = AppGroupUtilities.userDefaults(), let configurationName = defaults.string(forKey: "configurationName") {
             builder.set(configurationName, forKey: GAIFields.customDimension(for: 1))
         }
