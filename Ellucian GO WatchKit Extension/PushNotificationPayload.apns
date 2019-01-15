@@ -1,0 +1,8 @@
+{
+    "aps": {
+        "alert": {
+            "body": "This is a test message, as if it came from the Ellucian Mobile Notification Center API.",
+            "title": "Notification"
+        }
+    }
+}

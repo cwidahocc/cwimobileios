@@ -1,0 +1,75 @@
+
+/* Class = "WKInterfaceLabel"; text = "Name"; ObjectID = "1NZ-xi-AKg"; */
+"1NZ-xi-AKg.text" = "Name";
+
+/* Class = "WKInterfaceLabel"; text = "Website"; ObjectID = "2ac-Oo-nNB"; */
+"2ac-Oo-nNB.text" = "Website";
+
+/* Class = "WKInterfaceController"; title = "Buildings"; ObjectID = "5X0-AI-Iwc"; */
+"5X0-AI-Iwc.title" = "Buildings";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "8C4-Su-i8r"; */
+"8C4-Su-i8r.text" = "Label";
+
+/* Class = "WKInterfaceLabel"; text = "Policy"; ObjectID = "BGD-wW-f5P"; */
+"BGD-wW-f5P.text" = "Policy";
+
+/* Class = "WKInterfaceLabel"; text = "Alert Label"; ObjectID = "BSV-Tg-w1k"; */
+"BSV-Tg-w1k.text" = "Alert Label";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "CKf-nM-Sp7"; */
+"CKf-nM-Sp7.text" = "Label";
+
+/* Class = "WKInterfaceLabel"; text = "Description"; ObjectID = "Gr5-IE-iwe"; */
+"Gr5-IE-iwe.text" = "Description";
+
+/* Class = "WKInterfaceButton"; title = "Privacy"; ObjectID = "JcY-1R-aF6"; */
+"JcY-1R-aF6.title" = "Privacy";
+
+/* Class = "WKInterfaceButton"; title = "Contact"; ObjectID = "LsY-RT-Hpg"; */
+"LsY-RT-Hpg.title" = "Contact";
+
+/* Class = "WKInterfaceLabel"; text = "Phone"; ObjectID = "UJd-kN-itA"; */
+"UJd-kN-itA.text" = "Phone";
+
+/* Class = "WKInterfaceLabel"; text = "Policy Label"; ObjectID = "Voz-Gn-DtV"; */
+"Voz-Gn-DtV.text" = "Policy Label";
+
+/* Class = "WKInterfaceLabel"; text = "Alert Label"; ObjectID = "XkS-y5-khE"; */
+"XkS-y5-khE.text" = "Alert Label";
+
+/* Class = "WKInterfaceLabel"; text = "Additional"; ObjectID = "b79-mc-d9E"; */
+"b79-mc-d9E.text" = "Additional";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "bZT-GE-weQ"; */
+"bZT-GE-weQ.text" = "Label";
+
+/* Class = "WKInterfaceLabel"; text = "Configuration"; ObjectID = "cUm-IM-It6"; */
+"cUm-IM-It6.text" = "Configuration";
+
+/* Class = "WKInterfaceLabel"; text = "Email"; ObjectID = "daq-p3-5mT"; */
+"daq-p3-5mT.text" = "Email";
+
+/* Class = "WKInterfaceLabel"; text = "Address"; ObjectID = "gAH-bc-Vqt"; */
+"gAH-bc-Vqt.text" = "Address";
+
+/* Class = "WKInterfaceLabel"; text = "Contact"; ObjectID = "iJj-8D-p7V"; */
+"iJj-8D-p7V.text" = "Contact";
+
+/* Class = "WKInterfaceButton"; title = "Version"; ObjectID = "lGX-g2-tm5"; */
+"lGX-g2-tm5.title" = "Version";
+
+/* Class = "WKInterfaceController"; title = "Campuses"; ObjectID = "rEb-yG-gVi"; */
+"rEb-yG-gVi.title" = "Campuses";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "sTA-f8-bTt"; */
+"sTA-f8-bTt.text" = "Label";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "vHv-sy-hFe"; */
+"vHv-sy-hFe.text" = "Label";
+
+/* Class = "WKInterfaceLabel"; text = "Server Version"; ObjectID = "xS6-av-ZFg"; */
+"xS6-av-ZFg.text" = "Server Version";
+
+/* Class = "WKInterfaceLabel"; text = "Client Version"; ObjectID = "zo8-NK-Su9"; */
+"zo8-NK-Su9.text" = "Client Version";

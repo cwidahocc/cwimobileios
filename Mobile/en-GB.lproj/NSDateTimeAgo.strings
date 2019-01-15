@@ -1,0 +1,63 @@
+/* %d days ago */
+"%d days ago" = "%d days ago";
+
+/* %d hours ago */
+"%d hours ago" = "%d hours ago";
+
+/* %d minutes ago */
+"%d minutes ago" = "%d minutes ago";
+
+/* %d months ago */
+"%d months ago" = "%d months ago";
+
+/* %d seconds ago */
+"%d seconds ago" = "%d seconds ago";
+
+/* %d weeks ago */
+"%d weeks ago" = "%d weeks ago";
+
+/* %d years ago */
+"%d years ago" = "%d years ago";
+
+/* {value}d for days */
+"%dd" = "%dd";
+
+/* {value}h for hours */
+"%dh" = "%dh";
+
+/* {value}m for minutes */
+"%dm" = "%dm";
+
+/* {value}m for months */
+"%dmo" = "%dmo";
+
+/* {value}s for seconds */
+"%ds" = "%ds";
+
+/* {value}w for weeks */
+"%dw" = "%dw";
+
+/* {value}y for years */
+"%dyr" = "%dyr";
+
+/* A minute ago */
+"A minute ago" = "A minute ago";
+
+/* An hour ago */
+"An hour ago" = "An hour ago";
+
+/* Just now */
+"Just now" = "Just now";
+
+/* Last Year */
+"Last Year" = "Last Year";
+
+/* Last month */
+"Last month" = "Last month";
+
+/* Last week */
+"Last week" = "Last week";
+
+/* Yesterday */
+"Yesterday" = "Yesterday";
+

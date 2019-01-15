@@ -1,0 +1,774 @@
+/* Class = "UILabel"; text = "Section ID:"; ObjectID = "0r0-Zi-Ifz"; */
+"0r0-Zi-Ifz.text" = "معرف الشعبة:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1CK-Rx-Vwf"; */
+"1CK-Rx-Vwf.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1QT-pL-5Sz"; */
+"1QT-pL-5Sz.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1pL-PQ-Wwx"; */
+"1pL-PQ-Wwx.text" = "المسمى";
+
+/* Class = "UINavigationItem"; title = "Buildings"; ObjectID = "1t4-Y0-lFB"; */
+"1t4-Y0-lFB.title" = "المباني";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "1vS-Rb-mEe"; */
+"1vS-Rb-mEe.text" = "التفاصيل";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2IA-SC-G6y"; */
+"2IA-SC-G6y.text" = "المسمى";
+
+/* Class = "UINavigationItem"; title = "Terms"; ObjectID = "2Lr-Sh-71a"; */
+"2Lr-Sh-71a.title" = "الفصول الدراسية";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2bH-co-qB5"; */
+"2bH-co-qB5.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2vG-MR-DDL"; */
+"2vG-MR-DDL.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3TR-0j-Al6"; */
+"3TR-0j-Al6.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "3bs-4f-p1c"; */
+"3bs-4f-p1c.text" = "العنوان";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3xX-L2-fn3"; */
+"3xX-L2-fn3.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4Qc-Uz-gjV"; */
+"4Qc-Uz-gjV.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4Rh-O0-Xs9"; */
+"4Rh-O0-Xs9.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4Sw-NK-sbk"; */
+"4Sw-NK-sbk.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4TW-bx-cDi"; */
+"4TW-bx-cDi.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5T8-YL-lNA"; */
+"5T8-YL-lNA.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5fj-kV-FRh"; */
+"5fj-kV-FRh.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Today's Events"; ObjectID = "6ic-ww-9Ya"; */
+"6ic-ww-9Ya.text" = "فعاليات اليوم";
+
+/* Class = "UILabel"; text = "BALANCE"; ObjectID = "7eM-xY-wdP"; */
+"7eM-xY-wdP.text" = "الرصيد";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7hb-Gj-vJQ"; */
+"7hb-Gj-vJQ.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "7xc-0K-Gxl"; */
+"7xc-0K-Gxl.text" = "اللقب";
+
+/* Class = "UILabel"; text = "Look around without signing in.  Tap or swipe right for the menu."; ObjectID = "8NP-0Z-YlQ"; */
+"8NP-0Z-YlQ.text" = "التصفح دون تسجيل الدخول.  المس أو اسحب إلى اليمين لتظهر القائمة.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8nD-BV-yF7"; */
+"8nD-BV-yF7.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "8tp-s3-oyy"; */
+"8tp-s3-oyy.text" = "الوصف";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8x1-48-OP6"; */
+"8x1-48-OP6.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9Mc-6a-gDc"; */
+"9Mc-6a-gDc.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9nt-tG-8Bn"; */
+"9nt-tG-8Bn.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9wf-e8-pcD"; */
+"9wf-e8-pcD.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "17o-ED-Hrc"; */
+"17o-ED-Hrc.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "22m-2H-nRN"; */
+"22m-2H-nRN.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Faculty"; ObjectID = "39M-Ib-Gvn"; */
+"39M-Ib-Gvn.text" = "أعضاء هيئة التدريس";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "54f-9M-XmF"; */
+"54f-9M-XmF.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UILabel"; text = "End Date:"; ObjectID = "75q-pk-sdU"; */
+"75q-pk-sdU.text" = "تاريخ النهاية:";
+
+/* Class = "UILabel"; text = "Stay signed in"; ObjectID = "97f-pZ-LLK"; */
+"97f-pZ-LLK.text" = "الإبقاء متصلا";
+
+/* Class = "UILabel"; text = "Announcements"; ObjectID = "559-jd-z3t"; */
+"559-jd-z3t.text" = "الإعلانات";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "696-Bg-Vla"; */
+"696-Bg-Vla.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AEG-ad-ZV6"; */
+"AEG-ad-ZV6.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AFH-AF-wuJ"; */
+"AFH-AF-wuJ.text" = "المسمى";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "AK3-hT-iFJ"; */
+"AK3-hT-iFJ.placeholder" = "كلمة المرور";
+
+/* Class = "UILabel"; text = "Mobile"; ObjectID = "AhB-UD-EFQ"; */
+"AhB-UD-EFQ.text" = "رقم الجوال";
+
+/* Class = "UILabel"; text = "Get Directions"; ObjectID = "At7-K0-AnS"; */
+"At7-K0-AnS.text" = "معرفة الطريق";
+
+/* Class = "UILabel"; text = "Remind me on a day"; ObjectID = "BK6-5I-RNl"; */
+"BK6-5I-RNl.text" = "تذكيري يوم";
+
+/* Class = "UILabel"; text = "99"; ObjectID = "BLC-Qj-f3v"; */
+"BLC-Qj-f3v.text" = "99";
+
+/* Class = "UINavigationItem"; title = "Institutions"; ObjectID = "C51-mL-08y"; */
+"C51-mL-08y.title" = "الجامعات";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Cii-0i-y7R"; */
+"Cii-0i-y7R.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Co8-Uj-Emz"; */
+"Co8-Uj-Emz.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "D5f-ve-ddG"; */
+"D5f-ve-ddG.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "DLT-hy-h2X"; */
+"DLT-hy-h2X.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Faculty"; ObjectID = "DQT-RF-YSo"; */
+"DQT-RF-YSo.text" = "أعضاء هيئة التدريس";
+
+/* Class = "UILabel"; text = "Academic Levels:"; ObjectID = "Diu-D6-0FB"; */
+"Diu-D6-0FB.text" = "المراحل الأكاديمية:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "DrJ-Gz-5n3"; */
+"DrJ-Gz-5n3.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "EDj-cV-y6N"; */
+"EDj-cV-y6N.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "EJW-yt-Me7"; */
+"EJW-yt-Me7.text" = "البريد الإلكتروني";
+
+/* Class = "UISegmentedControl"; EPr-qe-WsF.segmentTitles[0] = "By Due Date"; ObjectID = "EPr-qe-WsF"; */
+"EPr-qe-WsF.segmentTitles[0]" = "حسب موعد التسليم";
+
+/* Class = "UISegmentedControl"; EPr-qe-WsF.segmentTitles[1] = "No Due Date"; ObjectID = "EPr-qe-WsF"; */
+"EPr-qe-WsF.segmentTitles[1]" = "دون موعد تسليم";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FAL-zW-o2D"; */
+"FAL-zW-o2D.text" = "المسمى";
+
+/* Class = "UILabel"; text = "End Date:"; ObjectID = "FCg-hg-gKr"; */
+"FCg-hg-gKr.text" = "تاريخ النهاية:";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "FeC-yO-Qzu"; */
+"FeC-yO-Qzu.text" = "البريد الإلكتروني";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Fjx-Sb-trp"; */
+"Fjx-Sb-trp.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Server Version"; ObjectID = "Fpa-gA-itw"; */
+"Fpa-gA-itw.text" = "إصدار الخادم";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Fpo-KK-JEF"; */
+"Fpo-KK-JEF.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "G4I-hB-Noc"; */
+"G4I-hB-Noc.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "GB7-vY-nBG"; */
+"GB7-vY-nBG.text" = "الوصف";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "Gfb-8A-civ"; */
+"Gfb-8A-civ.text" = "البريد الإلكتروني";
+
+/* Class = "UILabel"; text = "Grading:"; ObjectID = "Gmn-LE-lR9"; */
+"Gmn-LE-lR9.text" = "وضع الدرجات:";
+
+/* Class = "UIBarButtonItem"; title = "Terms"; ObjectID = "H0f-iJ-HXh"; */
+"H0f-iJ-HXh.title" = "الفصول الدراسية";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "H4k-On-5Ly"; */
+"H4k-On-5Ly.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "HPb-ye-lMK"; */
+"HPb-ye-lMK.text" = "رقم الهاتف";
+
+/* Class = "UITabBarItem"; title = "Assignments"; ObjectID = "HhG-Wa-Dpy"; */
+"HhG-Wa-Dpy.title" = "الواجبات";
+
+/* Class = "UILabel"; text = "We're Sorry."; ObjectID = "I2k-R4-900"; */
+"I2k-R4-900.text" = "نأسف.";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Irr-yT-wFW"; */
+"Irr-yT-wFW.normalTitle" = "زر";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Izd-jA-UB6"; */
+"Izd-jA-UB6.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Department"; ObjectID = "Jd4-mQ-4DT"; */
+"Jd4-mQ-4DT.text" = "القسم";
+
+/* Class = "UIBarButtonItem"; title = "Filter"; ObjectID = "Jd6-qQ-cwi"; */
+"Jd6-qQ-cwi.title" = "الفرز";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Jkp-ub-6IH"; */
+"Jkp-ub-6IH.text" = "المسمى";
+
+/* Class = "UITableViewController"; title = "Events"; ObjectID = "KWa-IW-KQL"; */
+"KWa-IW-KQL.title" = "الفعاليات";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KgY-dZ-hQ1"; */
+"KgY-dZ-hQ1.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ksj-zn-tiu"; */
+"Ksj-zn-tiu.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "L7h-n2-6Ux"; */
+"L7h-n2-6Ux.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LQ3-h3-xmh"; */
+"LQ3-h3-xmh.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Section Number"; ObjectID = "LSE-d9-y1h"; */
+"LSE-d9-y1h.text" = "رقم الشعبة";
+
+/* Class = "UITabBarItem"; title = "Announcements"; ObjectID = "Ljt-hl-OqR"; */
+"Ljt-hl-OqR.title" = "الإعلانات";
+
+/* Class = "UILabel"; text = "Alarm"; ObjectID = "MGn-5E-DdI"; */
+"MGn-5E-DdI.text" = "المنبه";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "N4F-KJ-BMl"; */
+"N4F-KJ-BMl.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "NOY-pJ-hQP"; */
+"NOY-pJ-hQP.text" = "العنوان";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "NW4-rN-o2Q"; */
+"NW4-rN-o2Q.text" = "الوصف";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "O0m-DQ-R7f"; */
+"O0m-DQ-R7f.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "O4J-KU-FNV"; */
+"O4J-KU-FNV.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OeG-dy-UyA"; */
+"OeG-dy-UyA.text" = "المسمى";
+
+/* Class = "UINavigationItem"; title = "Sign In"; ObjectID = "Okd-La-GIl"; */
+"Okd-La-GIl.title" = "تسجيل الدخول";
+
+/* Class = "UILabel"; text = "Faculty"; ObjectID = "PWk-t6-xSL"; */
+"PWk-t6-xSL.text" = "أعضاء هيئة التدريس";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Pez-6t-Gq9"; */
+"Pez-6t-Gq9.text" = "المسمى";
+
+/* Class = "UILabel"; text = "There are no recent payments."; ObjectID = "PoG-Uv-ehn"; */
+"PoG-Uv-ehn.text" = "لا توجد دفعات حديثة.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Pqn-G8-9m2"; */
+"Pqn-G8-9m2.text" = "المسمى";
+
+/* Class = "UITabBarItem"; title = "Daily View"; ObjectID = "QEQ-m0-qxt"; */
+"QEQ-m0-qxt.title" = "عرض اليوم";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QS1-UT-QIs"; */
+"QS1-UT-QIs.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QVR-Pd-Dc7"; */
+"QVR-Pd-Dc7.text" = "المسمى";
+
+/* Class = "UISegmentedControl"; QjC-Rp-3mY.segmentTitles[0] = "Map"; ObjectID = "QjC-Rp-3mY"; */
+"QjC-Rp-3mY.segmentTitles[0]" = "الخريطة";
+
+/* Class = "UISegmentedControl"; QjC-Rp-3mY.segmentTitles[1] = "Satellite"; ObjectID = "QjC-Rp-3mY"; */
+"QjC-Rp-3mY.segmentTitles[1]" = "طبقة القمر الصناعي";
+
+/* Class = "UISegmentedControl"; QjC-Rp-3mY.segmentTitles[2] = "Hybrid"; ObjectID = "QjC-Rp-3mY"; */
+"QjC-Rp-3mY.segmentTitles[2]" = "الطبقة المختلطة";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "R7w-jn-5Dc"; */
+"R7w-jn-5Dc.text" = "رقم الهاتف";
+
+/* Class = "UILabel"; text = "Office"; ObjectID = "Rtd-54-HAz"; */
+"Rtd-54-HAz.text" = "المكتب";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "S0P-yP-dnX"; */
+"S0P-yP-dnX.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "S30-I0-f4P"; */
+"S30-I0-f4P.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Credits:"; ObjectID = "S68-6x-6HO"; */
+"S68-6x-6HO.text" = "الساعات المعتمدة:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "T4o-xi-9Lh"; */
+"T4o-xi-9Lh.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "T7m-XS-EtO"; */
+"T7m-XS-EtO.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "U2J-AF-HXC"; */
+"U2J-AF-HXC.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "U9X-Nn-7Qk"; */
+"U9X-Nn-7Qk.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UDX-kf-jSd"; */
+"UDX-kf-jSd.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Location:"; ObjectID = "UMZ-6o-XkW"; */
+"UMZ-6o-XkW.text" = "المكان:";
+
+/* Class = "UITabBarItem"; title = "Announcements"; ObjectID = "USn-XQ-OH4"; */
+"USn-XQ-OH4.title" = "الإعلانات";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ubi-kb-vAm"; */
+"Ubi-kb-vAm.text" = "المسمى";
+
+/* Class = "UIBarButtonItem"; title = "Campus"; ObjectID = "V3M-x4-FdC"; */
+"V3M-x4-FdC.title" = "الفرع";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VCg-7o-fHG"; */
+"VCg-7o-fHG.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VlD-Nw-eqe"; */
+"VlD-Nw-eqe.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "W5l-OC-5RH"; */
+"W5l-OC-5RH.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "W6e-RY-xNR"; */
+"W6e-RY-xNR.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WJU-l6-w4o"; */
+"WJU-l6-w4o.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WTH-lf-Rp1"; */
+"WTH-lf-Rp1.text" = "المسمى";
+
+/* Class = "UINavigationItem"; title = "Home"; ObjectID = "WcN-vw-nXx"; */
+"WcN-vw-nXx.title" = "الرئيسية";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "WtM-Y5-Jw1"; */
+"WtM-Y5-Jw1.title" = "البند";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "X55-zO-KoE"; */
+"X55-zO-KoE.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Search criteria"; ObjectID = "XU3-FU-Pq7"; */
+"XU3-FU-Pq7.text" = "معايير البحث";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Xsi-ai-4vO"; */
+"Xsi-ai-4vO.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Section ID:"; ObjectID = "Y3w-d1-exZ"; */
+"Y3w-d1-exZ.text" = "معرف الشعبة:";
+
+/* Class = "UILabel"; text = "Please contact your institution’s IT staff for assistance with login."; ObjectID = "YFZ-bh-3IF"; */
+"YFZ-bh-3IF.text" = "يرجى التواصل مع قسم تقنية المعلومات في جامعتك للمساعدة في تسجيل الدخول.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YTM-Wq-kco"; */
+"YTM-Wq-kco.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Term"; ObjectID = "YVN-su-c3w"; */
+"YVN-su-c3w.text" = "الفصل الدراسي";
+
+/* Class = "UITabBarItem"; title = "Details"; ObjectID = "Yff-ow-vZn"; */
+"Yff-ow-vZn.title" = "التفاصيل";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Z3R-Yf-xqL"; */
+"Z3R-Yf-xqL.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Z6O-uU-0fs"; */
+"Z6O-uU-0fs.text" = "اللقب";
+
+/* Class = "UILabel"; text = "Select a Term and enter Search criteria"; ObjectID = "Z7a-PW-0lx"; */
+"Z7a-PW-0lx.text" = "قم باختيار فصل دراسي وأدخل معايير البحث";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZND-Mu-F1p"; */
+"ZND-Mu-F1p.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Credits:"; ObjectID = "ZfQ-sd-jYJ"; */
+"ZfQ-sd-jYJ.text" = "الساعات المعتمدة:";
+
+/* Class = "UISearchBar"; placeholder = "Search schools"; ObjectID = "aCq-E4-VbG"; */
+"aCq-E4-VbG.placeholder" = "البحث في الجامعات";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "aNm-pv-19M"; */
+"aNm-pv-19M.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "aUk-f5-GXf"; */
+"aUk-f5-GXf.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ajb-bR-4fE"; */
+"ajb-bR-4fE.text" = "المسمى";
+
+/* Class = "UITabBarItem"; title = "Full Schedule"; ObjectID = "ajc-cg-o0I"; */
+"ajc-cg-o0I.title" = "الجدول الكامل";
+
+/* Class = "UILabel"; text = "Start Date:"; ObjectID = "b2W-Cv-P62"; */
+"b2W-Cv-P62.text" = "تاريخ البدء:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bAc-JY-i3p"; */
+"bAc-JY-i3p.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bM8-E7-rDr"; */
+"bM8-E7-rDr.text" = "المسمى";
+
+/* Class = "UIButton"; normalTitle = "Refine Search"; ObjectID = "bV8-j2-w49"; */
+"bV8-j2-w49.normalTitle" = "تضييق البحث";
+
+/* Class = "UINavigationItem"; title = "Add Reminder"; ObjectID = "bcZ-z0-wAr"; */
+"bcZ-z0-wAr.title" = "إضافة تذكير";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bwO-aa-67P"; */
+"bwO-aa-67P.text" = "المسمى";
+
+/* Class = "UIButton"; normalTitle = "Powered by"; ObjectID = "cAZ-do-lgl"; */
+"cAZ-do-lgl.normalTitle" = "مشغل بواسطة";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cF5-6s-Nkw"; */
+"cF5-6s-Nkw.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cJQ-yV-GLz"; */
+"cJQ-yV-GLz.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cR7-Tt-XGc"; */
+"cR7-Tt-XGc.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "cRH-6x-2r8"; */
+"cRH-6x-2r8.text" = "اللقب";
+
+/* Class = "UILabel"; text = "Meeting Information"; ObjectID = "cRJ-0a-q6i"; */
+"cRJ-0a-q6i.text" = "معلومات المحاضرة";
+
+/* Class = "UITabBarItem"; title = "Roster"; ObjectID = "cyd-zX-EAQ"; */
+"cyd-zX-EAQ.title" = "القائمة";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "d0l-in-msB"; */
+"d0l-in-msB.text" = "المسمى";
+
+/* Class = "UIButton"; normalTitle = "Ellucian Privacy Policy"; ObjectID = "d8N-9n-28Q"; */
+"d8N-9n-28Q.normalTitle" = "سياسة خصوصية Ellucian";
+
+/* Class = "UITextField"; placeholder = "Tap to Select"; ObjectID = "dKP-hl-IAS"; */
+"dKP-hl-IAS.placeholder" = "انقر للاختيار";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dPE-MB-DOp"; */
+"dPE-MB-DOp.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dYu-hL-EX5"; */
+"dYu-hL-EX5.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "da9-av-Qdh"; */
+"da9-av-Qdh.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eE2-jT-lyc"; */
+"eE2-jT-lyc.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Section ID:"; ObjectID = "eKs-mh-XSW"; */
+"eKs-mh-XSW.text" = "معرف الشعبة:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eSS-dl-cac"; */
+"eSS-dl-cac.text" = "المسمى";
+
+/* Class = "UIViewController"; title = "Grades"; ObjectID = "elS-z3-eCK"; */
+"elS-z3-eCK.title" = "الدرجات";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "f7x-y7-vlv"; */
+"f7x-y7-vlv.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "f9u-9p-nB4"; */
+"f9u-9p-nB4.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Client Version"; ObjectID = "fC3-ak-lmX"; */
+"fC3-ak-lmX.text" = "إصدار العميل";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fGt-lb-aDh"; */
+"fGt-lb-aDh.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fQo-KN-f2k"; */
+"fQo-KN-f2k.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fR2-Qj-Q40"; */
+"fR2-Qj-Q40.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fRY-gh-BdZ"; */
+"fRY-gh-BdZ.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fY9-eT-CmT"; */
+"fY9-eT-CmT.text" = "المسمى";
+
+/* Class = "UINavigationItem"; title = "Sign In"; ObjectID = "fiz-pS-peM"; */
+"fiz-pS-peM.title" = "تسجيل الدخول";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fs7-pL-m93"; */
+"fs7-pL-m93.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "g1Q-6e-iBu"; */
+"g1Q-6e-iBu.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gCN-Up-66D"; */
+"gCN-Up-66D.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gKk-NO-EDm"; */
+"gKk-NO-EDm.text" = "المسمى";
+
+/* Class = "UITabBarItem"; title = "Grades"; ObjectID = "gQV-aW-o6b"; */
+"gQV-aW-o6b.title" = "الدرجات";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gWA-vc-aMo"; */
+"gWA-vc-aMo.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Faculty"; ObjectID = "glz-1T-QfB"; */
+"glz-1T-QfB.text" = "أعضاء هيئة التدريس";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gwO-Pf-ma6"; */
+"gwO-Pf-ma6.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Meeting Information"; ObjectID = "hBm-p7-2VH"; */
+"hBm-p7-2VH.text" = "معلومات المحاضرة";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "hK7-iJ-2oq"; */
+"hK7-iJ-2oq.normalTitle" = "إلغاء";
+
+/* Class = "UILabel"; text = "Grading:"; ObjectID = "hNt-7T-nt9"; */
+"hNt-7T-nt9.text" = "وضع الدرجات:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hep-RJ-gfn"; */
+"hep-RJ-gfn.text" = "المسمى";
+
+/* Class = "UITabBarItem"; title = "Assignments"; ObjectID = "hog-Wy-N8A"; */
+"hog-Wy-N8A.title" = "الواجبات";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "i4a-IQ-rld"; */
+"i4a-IQ-rld.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iRY-zN-2fI"; */
+"iRY-zN-2fI.text" = "المسمى";
+
+/* Class = "UISearchBar"; placeholder = "Search directory"; ObjectID = "iS4-ME-cUg"; */
+"iS4-ME-cUg.placeholder" = "دليل البحث";
+
+/* Class = "UILabel"; text = "Assignments"; ObjectID = "iSB-Qg-uY9"; */
+"iSB-Qg-uY9.text" = "الواجبات";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "jmp-kD-D9o"; */
+"jmp-kD-D9o.text" = "اللقب";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jvN-do-BL5"; */
+"jvN-do-BL5.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jyB-En-RI3"; */
+"jyB-En-RI3.text" = "المسمى";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "k8q-Td-hPU"; */
+"k8q-Td-hPU.normalTitle" = "البحث";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kIn-T8-Tkv"; */
+"kIn-T8-Tkv.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kV4-WC-MF3"; */
+"kV4-WC-MF3.text" = "المسمى";
+
+/* Class = "UINavigationItem"; title = "Grades"; ObjectID = "kfV-dh-hvq"; */
+"kfV-dh-hvq.title" = "الدرجات";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kyO-xl-qJT"; */
+"kyO-xl-qJT.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "l7h-xa-1FI"; */
+"l7h-xa-1FI.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lLW-CJ-E3L"; */
+"lLW-CJ-E3L.text" = "المسمى";
+
+/* Class = "UIViewController"; title = "Grades"; ObjectID = "lT8-ez-Xtc"; */
+"lT8-ez-Xtc.title" = "الدرجات";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lnT-Nh-UCs"; */
+"lnT-Nh-UCs.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "m67-OG-evC"; */
+"m67-OG-evC.text" = "المسمى";
+
+/* Class = "UIBarButtonItem"; title = "Filter"; ObjectID = "mb6-6x-BeD"; */
+"mb6-6x-BeD.title" = "الفرز";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mbv-lp-170"; */
+"mbv-lp-170.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nTY-29-aWa"; */
+"nTY-29-aWa.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Ineligible for Registration"; ObjectID = "nbc-20-7dD"; */
+"nbc-20-7dD.text" = "غير مؤهل للتسجيل";
+
+/* Class = "UILabel"; text = "Loading configuration.  Please wait..."; ObjectID = "nbl-jr-rw5"; */
+"nbl-jr-rw5.text" = "جاري تحميل التهيئة.  يرجى الانتظار...";
+
+/* Class = "UILabel"; text = "Website"; ObjectID = "o9z-QP-cOL"; */
+"o9z-QP-cOL.text" = "الموقع الإلكتروني";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "oAa-S2-lIX"; */
+"oAa-S2-lIX.text" = "رقم الهاتف";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "otW-v7-irB"; */
+"otW-v7-irB.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ozP-lz-Jd5"; */
+"ozP-lz-Jd5.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pdn-Bx-xkz"; */
+"pdn-Bx-xkz.text" = "المسمى";
+
+/* Class = "UINavigationItem"; title = "Events Filter"; ObjectID = "q2a-Wr-jVI"; */
+"q2a-Wr-jVI.title" = "فرز الفعاليات";
+
+/* Class = "UITabBarItem"; title = "Registered"; ObjectID = "qJA-E1-sjv"; */
+"qJA-E1-sjv.title" = "مسجل";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qJU-ek-R6I"; */
+"qJU-ek-R6I.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qnO-0u-cOk"; */
+"qnO-0u-cOk.text" = "المسمى";
+
+/* Class = "UITabBarItem"; title = "Events"; ObjectID = "qwp-A4-5qb"; */
+"qwp-A4-5qb.title" = "الفعاليات";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sA1-Wl-2wc"; */
+"sA1-Wl-2wc.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sGg-vf-AD6"; */
+"sGg-vf-AD6.text" = "المسمى";
+
+/* Class = "UINavigationItem"; title = "Terms"; ObjectID = "sKd-DU-ql9"; */
+"sKd-DU-ql9.title" = "الفصول الدراسية";
+
+/* Class = "UILabel"; text = "Start Date:"; ObjectID = "sVb-cu-7R4"; */
+"sVb-cu-7R4.text" = "تاريخ البدء:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "swe-cY-hvE"; */
+"swe-cY-hvE.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "t3y-Ba-Rux"; */
+"t3y-Ba-Rux.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tHj-Dn-FzH"; */
+"tHj-Dn-FzH.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tLw-PQ-fJo"; */
+"tLw-PQ-fJo.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Location:"; ObjectID = "tPe-jc-4j5"; */
+"tPe-jc-4j5.text" = "المكان:";
+
+/* Class = "UILabel"; text = "Reminder List"; ObjectID = "tv4-i6-3Wg"; */
+"tv4-i6-3Wg.text" = "قائمة التذكير";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "u3r-Qg-Pnb"; */
+"u3r-Qg-Pnb.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uM8-ed-sYi"; */
+"uM8-ed-sYi.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Section Number"; ObjectID = "uuL-aq-TgN"; */
+"uuL-aq-TgN.text" = "رقم الشعبة";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "v5i-GP-bia"; */
+"v5i-GP-bia.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "v5u-C0-Eye"; */
+"v5u-C0-Eye.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vqy-w5-kCI"; */
+"vqy-w5-kCI.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vt1-4a-KEu"; */
+"vt1-4a-KEu.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vzY-lI-QDZ"; */
+"vzY-lI-QDZ.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "w9i-KX-E7W"; */
+"w9i-KX-E7W.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Credits:"; ObjectID = "wG5-pn-CaP"; */
+"wG5-pn-CaP.text" = "الساعات المعتمدة:";
+
+/* Class = "UITableViewController"; title = "Events Selector"; ObjectID = "wID-0z-046"; */
+"wID-0z-046.title" = "اختيار الفعاليات";
+
+/* Class = "UIBarButtonItem"; title = "Terms"; ObjectID = "wIN-QM-0wd"; */
+"wIN-QM-0wd.title" = "الفصول الدراسية";
+
+/* Class = "UITabBarItem"; title = "Cart"; ObjectID = "wMw-p9-BS9"; */
+"wMw-p9-BS9.title" = "سلة التسجيل";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wju-Gz-sdw"; */
+"wju-Gz-sdw.text" = "المسمى";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "wkC-g4-uNQ"; */
+"wkC-g4-uNQ.text" = "--";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "wv6-JC-xRR"; */
+"wv6-JC-xRR.title" = "البند";
+
+/* Class = "UITabBarItem"; title = "Events"; ObjectID = "wx8-ah-lSq"; */
+"wx8-ah-lSq.title" = "الفعاليات";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "x3v-wd-jS0"; */
+"x3v-wd-jS0.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "x7L-Og-ECF"; */
+"x7L-Og-ECF.text" = "المسمى";
+
+/* Class = "UITextField"; placeholder = "User Name"; ObjectID = "xO1-j7-8f9"; */
+"xO1-j7-8f9.placeholder" = "اسم المستخدم";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yHe-5f-0Ra"; */
+"yHe-5f-0Ra.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Section Number"; ObjectID = "yTP-rU-pYP"; */
+"yTP-rU-pYP.text" = "رقم الشعبة";
+
+/* Class = "UILabel"; text = "Meeting Information"; ObjectID = "yzp-Qf-Uhg"; */
+"yzp-Qf-Uhg.text" = "معلومات المحاضرة";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "z0H-aa-WnJ"; */
+"z0H-aa-WnJ.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "z0S-RM-XG6"; */
+"z0S-RM-XG6.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zOA-Rp-xtb"; */
+"zOA-Rp-xtb.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zU2-7F-VwW"; */
+"zU2-7F-VwW.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Grading:"; ObjectID = "zeP-SA-vCJ"; */
+"zeP-SA-vCJ.text" = "وضع الدرجات:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zrl-W4-IYY"; */
+"zrl-W4-IYY.text" = "المسمى";
+

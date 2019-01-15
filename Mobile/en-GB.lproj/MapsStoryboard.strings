@@ -1,0 +1,36 @@
+/* Class = "UISegmentedControl"; 3GU-mM-uKL.segmentTitles[0] = "Map"; ObjectID = "3GU-mM-uKL"; */
+"3GU-mM-uKL.segmentTitles[0]" = "Map";
+
+/* Class = "UISegmentedControl"; 3GU-mM-uKL.segmentTitles[1] = "Satellite"; ObjectID = "3GU-mM-uKL"; */
+"3GU-mM-uKL.segmentTitles[1]" = "Satellite";
+
+/* Class = "UISegmentedControl"; 3GU-mM-uKL.segmentTitles[2] = "Hybrid"; ObjectID = "3GU-mM-uKL"; */
+"3GU-mM-uKL.segmentTitles[2]" = "Hybrid";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6tp-oI-bcB"; */
+"6tp-oI-bcB.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "09L-AL-ANu"; */
+"09L-AL-ANu.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9ll-RX-0mS"; */
+"9ll-RX-0mS.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "Campus"; ObjectID = "Dze-iU-tk3"; */
+"Dze-iU-tk3.title" = "Campus";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Rqz-ad-e8Z"; */
+"Rqz-ad-e8Z.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bqB-of-m43"; */
+"bqB-of-m43.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Buildings"; ObjectID = "hjp-0o-bpp"; */
+"hjp-0o-bpp.title" = "Buildings";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pWS-tV-eBK"; */
+"pWS-tV-eBK.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yT9-n2-nVn"; */
+"yT9-n2-nVn.text" = "Label";
+

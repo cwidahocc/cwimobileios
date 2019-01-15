@@ -1,0 +1,63 @@
+/* %d days ago */
+"%d days ago" = "Il y a %d jours";
+
+/* %d hours ago */
+"%d hours ago" = "Il y a %d heures";
+
+/* %d minutes ago */
+"%d minutes ago" = "Il y a %d minutes";
+
+/* %d months ago */
+"%d months ago" = "Il y a % mois";
+
+/* %d seconds ago */
+"%d seconds ago" = "Il y a %d secondes";
+
+/* %d weeks ago */
+"%d weeks ago" = "Il y a %d semaines";
+
+/* %d years ago */
+"%d years ago" = "Il y a %d années";
+
+/* {value}d for days */
+"%dd" = "%dd";
+
+/* {value}h for hours */
+"%dh" = "%dh";
+
+/* {value}m for minutes */
+"%dm" = "%dm";
+
+/* {value}m for months */
+"%dmo" = "%dmo";
+
+/* {value}s for seconds */
+"%ds" = "%ds";
+
+/* {value}w for weeks */
+"%dw" = "%dw";
+
+/* {value}y for years */
+"%dyr" = "%dyr";
+
+/* A minute ago */
+"A minute ago" = "Il y a une minute";
+
+/* An hour ago */
+"An hour ago" = "Il y a une heure";
+
+/* Just now */
+"Just now" = "Il y a un instant";
+
+/* Last Year */
+"Last Year" = "L'année dernière";
+
+/* Last month */
+"Last month" = "Le mois dernier";
+
+/* Last week */
+"Last week" = "La semaine dernière";
+
+/* Yesterday */
+"Yesterday" = "Hier";
+

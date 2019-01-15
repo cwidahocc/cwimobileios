@@ -1,0 +1,63 @@
+/* %d days ago */
+"%d days ago" = "منذ %d يوم/أيام";
+
+/* %d hours ago */
+"%d hours ago" = "منذ %d ساعة/ساعات";
+
+/* %d minutes ago */
+"%d minutes ago" = "منذ %d دقيقة/دقائق";
+
+/* %d months ago */
+"%d months ago" = "منذ %d شهر/أشهر";
+
+/* %d seconds ago */
+"%d seconds ago" = "منذ %d ثانية/ثوان";
+
+/* %d weeks ago */
+"%d weeks ago" = "منذ %d أسبوع/أسابيع";
+
+/* %d years ago */
+"%d years ago" = "منذ %d سنة/سنوات";
+
+/* {value}d for days */
+"%dd" = "%dd";
+
+/* {value}h for hours */
+"%dh" = "%dh";
+
+/* {value}m for minutes */
+"%dm" = "%dm";
+
+/* {value}m for months */
+"%dmo" = "%dmo";
+
+/* {value}s for seconds */
+"%ds" = "%ds";
+
+/* {value}w for weeks */
+"%dw" = "%dw";
+
+/* {value}y for years */
+"%dyr" = "%dyr";
+
+/* A minute ago */
+"A minute ago" = "منذ دقيقة";
+
+/* An hour ago */
+"An hour ago" = "منذ ساعة";
+
+/* Just now */
+"Just now" = "الآن";
+
+/* Last Year */
+"Last Year" = "السنة الماضية";
+
+/* Last month */
+"Last month" = "الشهر الماضي";
+
+/* Last week */
+"Last week" = "الأسبوع الماضي";
+
+/* Yesterday */
+"Yesterday" = "الأمس";
+

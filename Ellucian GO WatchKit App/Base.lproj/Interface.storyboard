@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder.WatchKit.Storyboard" version="3.0" toolsVersion="14113" targetRuntime="watchKit" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="AgC-eL-Hgc">
+    <device id="watch38" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBWatchKitPlugin" version="14033"/>
+    </dependencies>
+    <scenes>
+        <!--Ellucian GO-->
+        <scene sceneID="aou-V4-d1y">
+            <objects>
+                <controller title="Ellucian GO" id="AgC-eL-Hgc" customClass="MenuController" customModule="Ellucian_GO_WatchKit_Extension">
+                    <items>
+                        <label alignment="left" hidden="YES" text="Choose a school by running the Ellucian GO application on your iPhone." numberOfLines="0" id="AuB-ab-kpA"/>
+                        <label alignment="left" hidden="YES" text="Retrieving data..." id="kbg-8F-nGn"/>
+                        <imageView alignment="center" verticalAlignment="center" hidden="YES" image="spinner" contentMode="scaleAspectFit" initiallyAnimated="NO" id="UWQ-q2-Tlv"/>
+                        <table alignment="left" id="B1y-bi-pnZ">
+                            <items>
+                                <tableRow identifier="MenuTableRowController" id="o87-ek-Cte" customClass="MenuTableRowController" customModule="Ellucian_GO_WatchKit_Extension">
+                                    <group key="rootItem" width="1" alignment="left" id="5dh-ke-G4o">
+                                        <items>
+                                            <imageView width="20" height="20" alignment="left" verticalAlignment="center" id="IaX-n5-xV0"/>
+                                            <label alignment="left" verticalAlignment="center" text="Label" minimumScaleFactor="0.5" id="vHv-sy-hFe"/>
+                                        </items>
+                                    </group>
+                                    <connections>
+                                        <outlet property="image" destination="IaX-n5-xV0" id="aKz-1l-OVf"/>
+                                        <outlet property="nameLabel" destination="vHv-sy-hFe" id="4b3-aM-YpV"/>
+                                    </connections>
+                                </tableRow>
+                            </items>
+                        </table>
+                    </items>
+                    <connections>
+                        <outlet property="chooseConfigurationLabel" destination="AuB-ab-kpA" id="tz1-oz-ul1"/>
+                        <outlet property="menuTable" destination="B1y-bi-pnZ" id="Srq-4B-xM2"/>
+                        <outlet property="retrievingDataLabel" destination="kbg-8F-nGn" id="5WU-qr-6HR"/>
+                        <outlet property="spinner" destination="UWQ-q2-Tlv" id="OeL-hs-6wc"/>
+                    </connections>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="235" y="347"/>
+        </scene>
+        <!--Campuses-->
+        <scene sceneID="fIi-1O-bHs">
+            <objects>
+                <controller identifier="maps" title="Campuses" id="rEb-yG-gVi" customClass="MapsController" customModule="Ellucian_GO_WatchKit_Extension">
+                    <items>
+                        <label alignment="left" hidden="YES" text="Retrieving data..." id="S8e-VZ-qeV"/>
+                        <label alignment="left" hidden="YES" text="No Campuses Available" id="QtY-NN-VBe"/>
+                        <imageView alignment="center" verticalAlignment="center" hidden="YES" image="spinner" contentMode="scaleAspectFit" initiallyAnimated="NO" id="GvR-uN-pVH"/>
+                        <table alignment="left" id="q4I-g2-xgV">
+                            <items>
+                                <tableRow identifier="CampusTableRowController" id="9w2-LG-o4I" customClass="CampusTableRowController" customModule="Ellucian_GO_WatchKit_Extension">
+                                    <group key="rootItem" width="1" alignment="left" id="6sD-Dc-EC7">
+                                        <items>
+                                            <label alignment="left" verticalAlignment="center" text="Label" numberOfLines="0" minimumScaleFactor="0.50000000000000011" id="CKf-nM-Sp7"/>
+                                        </items>
+                                        <connections>
+                                            <segue destination="5X0-AI-Iwc" kind="push" identifier="maps buildings list" id="thm-lN-Lsh"/>
+                                        </connections>
+                                    </group>
+                                    <connections>
+                                        <outlet property="campusNameLabel" destination="CKf-nM-Sp7" id="FS5-VR-wfD"/>
+                                    </connections>
+                                </tableRow>
+                            </items>
+                        </table>
+                    </items>
+                    <connections>
+                        <outlet property="mapsTable" destination="q4I-g2-xgV" id="hxD-Zj-Hci"/>
+                        <outlet property="noCampusesLabel" destination="QtY-NN-VBe" id="Uvh-Gg-dXN"/>
+                        <outlet property="retrievingDataLabel" destination="S8e-VZ-qeV" id="6yj-Ig-9uG"/>
+                        <outlet property="spinner" destination="GvR-uN-pVH" id="Bzw-6j-oGo"/>
+                    </connections>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="425" y="347"/>
+        </scene>
+        <!--Buildings-->
+        <scene sceneID="8ls-53-CBn">
+            <objects>
+                <controller identifier="maps-buildings" title="Buildings" id="5X0-AI-Iwc" customClass="MapsBuildingsController" customModule="Ellucian_GO_WatchKit_Extension">
+                    <items>
+                        <table alignment="left" id="fpy-cz-cKI">
+                            <items>
+                                <tableRow identifier="BuildingTableRowController" id="NQq-jW-x1l" customClass="BuildingTableRowController" customModule="Ellucian_GO_WatchKit_Extension">
+                                    <group key="rootItem" width="1" alignment="left" id="zoI-tb-C3N">
+                                        <items>
+                                            <label alignment="left" verticalAlignment="center" text="Label" numberOfLines="0" minimumScaleFactor="0.50000000000000011" id="8C4-Su-i8r"/>
+                                        </items>
+                                        <connections>
+                                            <segue destination="XXh-fR-vtI" kind="push" identifier="maps building detail" id="lzx-jC-SMO"/>
+                                        </connections>
+                                    </group>
+                                    <connections>
+                                        <outlet property="buildingNameLabel" destination="8C4-Su-i8r" id="HJF-7f-71u"/>
+                                    </connections>
+                                </tableRow>
+                            </items>
+                        </table>
+                    </items>
+                    <connections>
+                        <outlet property="buildingsTable" destination="fpy-cz-cKI" id="Xzp-R6-0Ph"/>
+                    </connections>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="609" y="346"/>
+        </scene>
+        <!--about-->
+        <scene sceneID="UBK-Lo-209">
+            <objects>
+                <controller identifier="about" id="gpZ-NN-p5l" customClass="AboutPageController" customModule="Ellucian_GO_WatchKit_Extension">
+                    <items>
+                        <label alignment="left" text="Phone" id="UJd-kN-itA"/>
+                        <label alignment="left" text="Email" minimumScaleFactor="0.50000000000000011" id="daq-p3-5mT"/>
+                        <label height="20" alignment="left" text="Website" minimumScaleFactor="0.50000000000000011" id="2ac-Oo-nNB"/>
+                        <button width="1" alignment="left" title="Contact" id="LsY-RT-Hpg">
+                            <connections>
+                                <segue destination="oiQ-42-f52" kind="modal" id="m3d-Up-I7K"/>
+                            </connections>
+                        </button>
+                        <button width="1" alignment="left" title="Privacy" id="JcY-1R-aF6">
+                            <connections>
+                                <segue destination="brU-Qu-q4t" kind="modal" id="fSZ-Sc-cdU"/>
+                            </connections>
+                        </button>
+                        <button width="1" alignment="left" title="Version" id="lGX-g2-tm5">
+                            <connections>
+                                <segue destination="vik-8i-077" kind="modal" id="Jwt-gE-cdU"/>
+                            </connections>
+                        </button>
+                    </items>
+                    <connections>
+                        <outlet property="contactButton" destination="LsY-RT-Hpg" id="JGe-Jm-eQk"/>
+                        <outlet property="emailLabel" destination="daq-p3-5mT" id="TJW-dp-Ukb"/>
+                        <outlet property="phoneLabel" destination="UJd-kN-itA" id="Qbr-BV-57H"/>
+                        <outlet property="privacyButton" destination="JcY-1R-aF6" id="rvm-VT-ibE"/>
+                        <outlet property="websiteLabel" destination="2ac-Oo-nNB" id="msL-DL-kOG"/>
+                    </connections>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="425" y="580"/>
+        </scene>
+        <!--Buildings-->
+        <scene sceneID="9yK-H2-uD2">
+            <objects>
+                <controller identifier="maps-poi" title="Buildings" id="XXh-fR-vtI" customClass="POIController" customModule="Ellucian_GO_WatchKit_Extension">
+                    <items>
+                        <label alignment="left" text="Name" numberOfLines="0" id="1NZ-xi-AKg">
+                            <fontDescription key="font" style="UICTFontTextStyleHeadline"/>
+                        </label>
+                        <map height="100" alignment="left" id="teA-js-WUn"/>
+                        <label alignment="left" text="Address" numberOfLines="0" id="gAH-bc-Vqt"/>
+                        <label alignment="left" text="Description" numberOfLines="0" id="Gr5-IE-iwe"/>
+                        <separator alignment="left" alpha="0.20000000000000001" id="Iou-yT-Wmt"/>
+                        <label alignment="left" text="Additional" numberOfLines="0" id="b79-mc-d9E"/>
+                    </items>
+                    <connections>
+                        <outlet property="additionalServicesLabel" destination="b79-mc-d9E" id="7Ly-RN-ptG"/>
+                        <outlet property="addressLabel" destination="gAH-bc-Vqt" id="hJD-jq-q0z"/>
+                        <outlet property="descriptionLabel" destination="Gr5-IE-iwe" id="INV-SH-zRa"/>
+                        <outlet property="map" destination="teA-js-WUn" id="MJb-VM-Mcg"/>
+                        <outlet property="nameLabel" destination="1NZ-xi-AKg" id="Kuo-Su-ROD"/>
+                    </connections>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="811" y="352"/>
+        </scene>
+        <!--Contact-->
+        <scene sceneID="r04-Ho-8Wj">
+            <objects>
+                <controller title="Contact" id="oiQ-42-f52" customClass="AboutContactPageController" customModule="Ellucian_GO_WatchKit_Extension">
+                    <items>
+                        <label alignment="left" text="Contact" numberOfLines="0" id="iJj-8D-p7V">
+                            <color key="textColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        </label>
+                    </items>
+                    <connections>
+                        <outlet property="contactLabel" destination="iJj-8D-p7V" id="AEb-YK-b1N"/>
+                    </connections>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="593" y="580"/>
+        </scene>
+        <!--Policy-->
+        <scene sceneID="sjp-Ld-LO0">
+            <objects>
+                <controller title="Policy" id="brU-Qu-q4t" customClass="AboutPolicyPageController" customModule="Ellucian_GO_WatchKit_Extension">
+                    <items>
+                        <label alignment="left" text="Policy Label" numberOfLines="0" id="Voz-Gn-DtV">
+                            <fontDescription key="font" style="UICTFontTextStyleHeadline"/>
+                        </label>
+                        <label alignment="left" text="Policy" numberOfLines="0" minimumScaleFactor="0.50000000000000011" id="BGD-wW-f5P"/>
+                    </items>
+                    <connections>
+                        <outlet property="policyLabel" destination="BGD-wW-f5P" id="OqV-Jc-xXU"/>
+                        <outlet property="policyLabelLabel" destination="Voz-Gn-DtV" id="4uZ-Pn-2Rw"/>
+                    </connections>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="755" y="580"/>
+        </scene>
+        <!--Version-->
+        <scene sceneID="GM1-MP-Uaq">
+            <objects>
+                <controller title="Version" id="vik-8i-077" customClass="AboutVersionPageController" customModule="Ellucian_GO_WatchKit_Extension">
+                    <items>
+                        <label alignment="left" text="Client Version" id="zo8-NK-Su9">
+                            <color key="textColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <fontDescription key="font" style="UICTFontTextStyleHeadline"/>
+                        </label>
+                        <label alignment="left" text="-" id="sTA-f8-bTt">
+                            <color key="textColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        </label>
+                        <separator alignment="left" alpha="0.20000000000000001" id="xd3-Ow-gYn"/>
+                        <label alignment="left" text="Server Version" id="xS6-av-ZFg">
+                            <color key="textColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <fontDescription key="font" style="UICTFontTextStyleHeadline"/>
+                        </label>
+                        <label alignment="left" text="Retrieving ..." id="bZT-GE-weQ">
+                            <color key="textColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        </label>
+                    </items>
+                    <connections>
+                        <outlet property="clientVersionLabel" destination="sTA-f8-bTt" id="AH4-RR-fTK"/>
+                        <outlet property="serverVersionLabel" destination="bZT-GE-weQ" id="bYc-7p-TJD"/>
+                    </connections>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="915" y="580"/>
+        </scene>
+        <!--watch-bg-42mm-3-->
+        <scene sceneID="AEw-b0-oYE">
+            <objects>
+                <notificationController backgroundImage="watch-bg-42mm-3" id="YCC-NB-fut">
+                    <items>
+                        <label alignment="left" text="Alert Label" numberOfLines="0" id="XkS-y5-khE"/>
+                    </items>
+                    <notificationCategory key="notificationCategory" id="JfB-70-Muf"/>
+                    <connections>
+                        <outlet property="notificationAlertLabel" destination="XkS-y5-khE" id="49B-RR-99y"/>
+                        <segue destination="RWR-p3-5aw" kind="relationship" relationship="dynamicNotificationInterface" id="il5-Mk-yeJ"/>
+                    </connections>
+                </notificationController>
+            </objects>
+            <point key="canvasLocation" x="235" y="1001"/>
+        </scene>
+        <!--Sign In on iPhone-->
+        <scene sceneID="bIk-R0-5g4">
+            <objects>
+                <controller identifier="Sign In on iPhone" id="IVf-za-znN">
+                    <items>
+                        <label alignment="left" text="Sign In on iPhone" numberOfLines="0" id="kpj-c5-Rxc"/>
+                    </items>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="234" y="1223"/>
+        </scene>
+        <!--You do not have permission-->
+        <scene sceneID="gbs-YG-R8d">
+            <objects>
+                <controller identifier="You do not have permission" id="epp-9N-ZJI">
+                    <items>
+                        <label alignment="left" text="You do not have permission" numberOfLines="0" id="8Vm-T5-5hs"/>
+                    </items>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="410" y="1218"/>
+        </scene>
+        <!--ilp-->
+        <scene sceneID="yOo-vC-t7R">
+            <objects>
+                <controller identifier="ilp" id="ueB-MY-9IN" customClass="ILPAssignmentsController" customModule="Ellucian_GO_WatchKit_Extension">
+                    <items>
+                        <label alignment="left" hidden="YES" text="Sign In on iPhone" id="9Wm-9l-EUd"/>
+                        <label alignment="left" hidden="YES" text="Retrieving data..." id="3FG-ar-Tjd"/>
+                        <label alignment="left" hidden="YES" text="No Items for today" id="qtz-Ti-5Vq"/>
+                        <imageView alignment="center" verticalAlignment="center" hidden="YES" image="spinner" contentMode="scaleAspectFit" initiallyAnimated="NO" id="NHi-Zt-SRA"/>
+                        <table alignment="left" id="LRs-jw-neu">
+                            <items>
+                                <tableRow identifier="ILPAssignmentsTableRowController" id="QcW-WA-NQD" customClass="ILPAssignmentsTableRowController" customModule="Ellucian_GO_WatchKit_Extension">
+                                    <group key="rootItem" width="1" height="0.0" alignment="left" layout="vertical" id="wQq-QX-56T">
+                                        <items>
+                                            <label alignment="left" text="Label" numberOfLines="0" id="lfx-gR-i9o">
+                                                <fontDescription key="font" style="UICTFontTextStyleHeadline"/>
+                                            </label>
+                                            <label alignment="left" text="Label" numberOfLines="0" id="p7K-dS-1He">
+                                                <fontDescription key="font" style="UICTFontTextStyleFootnote"/>
+                                            </label>
+                                            <label alignment="left" text="Label" id="c6q-4e-Szd">
+                                                <fontDescription key="font" style="UICTFontTextStyleFootnote"/>
+                                            </label>
+                                        </items>
+                                        <connections>
+                                            <segue destination="U7k-99-uUI" kind="push" identifier="ilp-assignment-detail" id="4SU-pA-KOO"/>
+                                        </connections>
+                                    </group>
+                                    <connections>
+                                        <outlet property="courseLabel" destination="c6q-4e-Szd" id="j3p-m3-2ak"/>
+                                        <outlet property="timeLabel" destination="p7K-dS-1He" id="6ix-bL-ASe"/>
+                                        <outlet property="titleLabel" destination="lfx-gR-i9o" id="KJA-Nf-FmK"/>
+                                    </connections>
+                                </tableRow>
+                            </items>
+                        </table>
+                    </items>
+                    <connections>
+                        <outlet property="assignmentsTable" destination="LRs-jw-neu" id="g5L-ow-7hM"/>
+                        <outlet property="noAssignments" destination="qtz-Ti-5Vq" id="ppE-81-Brq"/>
+                        <outlet property="retrievingDataLabel" destination="3FG-ar-Tjd" id="2xr-6f-yjL"/>
+                        <outlet property="signInLabel" destination="9Wm-9l-EUd" id="oYh-hH-ofB"/>
+                        <outlet property="spinner" destination="NHi-Zt-SRA" id="koh-77-fND"/>
+                    </connections>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="426" y="811"/>
+        </scene>
+        <!--Assignment-->
+        <scene sceneID="cNZ-Kn-pL4">
+            <objects>
+                <controller identifier="ilp-assignment-detail" title="Assignment" id="U7k-99-uUI" customClass="ILPAssignmentsDetailController" customModule="Ellucian_GO_WatchKit_Extension">
+                    <items>
+                        <label alignment="left" text="Label" numberOfLines="0" id="gG5-ml-ZtX"/>
+                        <group width="1" height="19.5" alignment="left" id="j2B-ar-WXN">
+                            <items>
+                                <label alignment="left" text="Label" numberOfLines="0" id="vBO-IT-Q8j"/>
+                                <label alignment="left" text="Label" numberOfLines="0" id="KrW-tA-4UR"/>
+                            </items>
+                        </group>
+                        <label alignment="left" text="Label" numberOfLines="0" id="mRo-eb-Oqf"/>
+                    </items>
+                    <menu key="menu" id="Lqo-f8-VtP">
+                        <items>
+                            <menuItem title="Remind Me" icon="add" id="rAn-nQ-SLw">
+                                <connections>
+                                    <action selector="addReminder" destination="U7k-99-uUI" id="k4i-He-Bi0"/>
+                                </connections>
+                            </menuItem>
+                            <menuItem title="Add To Calendar" icon="add" id="qde-x3-ESX">
+                                <connections>
+                                    <action selector="addToCalendar" destination="U7k-99-uUI" id="4sK-fp-iYW"/>
+                                </connections>
+                            </menuItem>
+                        </items>
+                    </menu>
+                    <connections>
+                        <outlet property="courseNameLabel" destination="KrW-tA-4UR" id="qtu-YF-u3R"/>
+                        <outlet property="descriptionLabel" destination="mRo-eb-Oqf" id="wpx-sx-3cg"/>
+                        <outlet property="timeLabel" destination="vBO-IT-Q8j" id="zOF-pO-7tX"/>
+                        <outlet property="titleLabel" destination="gG5-ml-ZtX" id="R1k-nc-yW1"/>
+                    </connections>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="613" y="807"/>
+        </scene>
+        <!--Notification Controller-->
+        <scene sceneID="pwN-n2-hel">
+            <objects>
+                <controller id="RWR-p3-5aw" customClass="NotificationController" customModule="Ellucian_GO_WatchKit_Extension">
+                    <items>
+                        <label alignment="left" text="Configuration" numberOfLines="0" id="cUm-IM-It6">
+                            <fontDescription key="font" style="UICTFontTextStyleHeadline"/>
+                        </label>
+                        <label alignment="left" text="Alert Label" numberOfLines="0" id="BSV-Tg-w1k" userLabel="Alert Label"/>
+                    </items>
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="0.14000000000000001" colorSpace="custom" customColorSpace="sRGB"/>
+                    <connections>
+                        <outlet property="configurationLabel" destination="cUm-IM-It6" id="pSR-ti-Bvw"/>
+                        <outlet property="notificationAlertLabel" destination="BSV-Tg-w1k" id="SLV-oZ-eXj"/>
+                    </connections>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="535" y="1001"/>
+        </scene>
+    </scenes>
+    <color key="tintColor" red="0.47058823529411764" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+</document>

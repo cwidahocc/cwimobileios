@@ -1,0 +1,147 @@
+/* Class = "WKInterfaceLabel"; text = "Name"; ObjectID = "1NZ-xi-AKg"; */
+"1NZ-xi-AKg.text" = "Nombre";
+
+/* Class = "WKInterfaceLabel"; text = "Website"; ObjectID = "2ac-Oo-nNB"; */
+"2ac-Oo-nNB.text" = "Sitio Web";
+
+/* Class = "WKInterfaceLabel"; text = "Retrieving data..."; ObjectID = "3FG-ar-Tjd"; */
+"3FG-ar-Tjd.text" = "Recuperando los datos...";
+
+/* Class = "WKInterfaceController"; title = "Buildings"; ObjectID = "5X0-AI-Iwc"; */
+"5X0-AI-Iwc.title" = "Edificios";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "8C4-Su-i8r"; */
+"8C4-Su-i8r.text" = "Etiqueta";
+
+/* Class = "WKInterfaceLabel"; text = "You do not have permission"; ObjectID = "8Vm-T5-5hs"; */
+"8Vm-T5-5hs.text" = "No tiene permiso";
+
+/* Class = "WKInterfaceLabel"; text = "Sign In on iPhone"; ObjectID = "9Wm-9l-EUd"; */
+"9Wm-9l-EUd.text" = "Acceder en iPhone";
+
+/* Class = "WKInterfaceController"; title = "Ellucian GO"; ObjectID = "AgC-eL-Hgc"; */
+"AgC-eL-Hgc.title" = "Ellucian GO";
+
+/* Class = "WKInterfaceLabel"; text = "Choose a school by running the Ellucian GO application on your iPhone."; ObjectID = "AuB-ab-kpA"; */
+"AuB-ab-kpA.text" = "Elegir una escuela al ejecutar la aplicación Ellucian GO en su iPhone.";
+
+/* Class = "WKInterfaceLabel"; text = "Policy"; ObjectID = "BGD-wW-f5P"; */
+"BGD-wW-f5P.text" = "Política";
+
+/* Class = "WKInterfaceLabel"; text = "Alert Label"; ObjectID = "BSV-Tg-w1k"; */
+"BSV-Tg-w1k.text" = "Etiqueta de la alerta";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "CKf-nM-Sp7"; */
+"CKf-nM-Sp7.text" = "Etiqueta";
+
+/* Class = "WKInterfaceLabel"; text = "Description"; ObjectID = "Gr5-IE-iwe"; */
+"Gr5-IE-iwe.text" = "Descripción";
+
+/* Class = "WKInterfaceButton"; title = "Privacy"; ObjectID = "JcY-1R-aF6"; */
+"JcY-1R-aF6.title" = "Privacidad";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "KrW-tA-4UR"; */
+"KrW-tA-4UR.text" = "Etiqueta";
+
+/* Class = "WKInterfaceButton"; title = "Contact"; ObjectID = "LsY-RT-Hpg"; */
+"LsY-RT-Hpg.title" = "Contacto";
+
+/* Class = "WKInterfaceLabel"; text = "No Campuses Available"; ObjectID = "QtY-NN-VBe"; */
+"QtY-NN-VBe.text" = "No hay campus disponibles";
+
+/* Class = "WKInterfaceLabel"; text = "Retrieving data..."; ObjectID = "S8e-VZ-qeV"; */
+"S8e-VZ-qeV.text" = "Recuperando los datos...";
+
+/* Class = "WKInterfaceController"; title = "Assignment"; ObjectID = "U7k-99-uUI"; */
+"U7k-99-uUI.title" = "Asignación";
+
+/* Class = "WKInterfaceLabel"; text = "Phone"; ObjectID = "UJd-kN-itA"; */
+"UJd-kN-itA.text" = "Teléfono";
+
+/* Class = "WKInterfaceLabel"; text = "Policy Label"; ObjectID = "Voz-Gn-DtV"; */
+"Voz-Gn-DtV.text" = "Etiqueta de la política";
+
+/* Class = "WKInterfaceController"; title = "Buildings"; ObjectID = "XXh-fR-vtI"; */
+"XXh-fR-vtI.title" = "Edificios";
+
+/* Class = "WKInterfaceLabel"; text = "Alert Label"; ObjectID = "XkS-y5-khE"; */
+"XkS-y5-khE.text" = "Etiqueta de la alerta";
+
+/* Class = "WKInterfaceLabel"; text = "Additional"; ObjectID = "b79-mc-d9E"; */
+"b79-mc-d9E.text" = "Adicional";
+
+/* Class = "WKInterfaceLabel"; text = "Retrieving ..."; ObjectID = "bZT-GE-weQ"; */
+"bZT-GE-weQ.text" = "Recuperando...";
+
+/* Class = "WKInterfaceController"; title = "Policy"; ObjectID = "brU-Qu-q4t"; */
+"brU-Qu-q4t.title" = "Política";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "c6q-4e-Szd"; */
+"c6q-4e-Szd.text" = "Etiqueta";
+
+/* Class = "WKInterfaceLabel"; text = "Configuration"; ObjectID = "cUm-IM-It6"; */
+"cUm-IM-It6.text" = "Configuración";
+
+/* Class = "WKInterfaceLabel"; text = "Email"; ObjectID = "daq-p3-5mT"; */
+"daq-p3-5mT.text" = "Correo-e";
+
+/* Class = "WKInterfaceLabel"; text = "Address"; ObjectID = "gAH-bc-Vqt"; */
+"gAH-bc-Vqt.text" = "Dirección";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "gG5-ml-ZtX"; */
+"gG5-ml-ZtX.text" = "Etiqueta";
+
+/* Class = "WKInterfaceLabel"; text = "Contact"; ObjectID = "iJj-8D-p7V"; */
+"iJj-8D-p7V.text" = "Contacto";
+
+/* Class = "WKInterfaceLabel"; text = "Retrieving data..."; ObjectID = "kbg-8F-nGn"; */
+"kbg-8F-nGn.text" = "Recuperando los datos...";
+
+/* Class = "WKInterfaceLabel"; text = "Sign In on iPhone"; ObjectID = "kpj-c5-Rxc"; */
+"kpj-c5-Rxc.text" = "Acceder en iPhone";
+
+/* Class = "WKInterfaceButton"; title = "Version"; ObjectID = "lGX-g2-tm5"; */
+"lGX-g2-tm5.title" = "Versión";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "lfx-gR-i9o"; */
+"lfx-gR-i9o.text" = "Etiqueta";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "mRo-eb-Oqf"; */
+"mRo-eb-Oqf.text" = "Etiqueta";
+
+/* Class = "WKInterfaceController"; title = "Contact"; ObjectID = "oiQ-42-f52"; */
+"oiQ-42-f52.title" = "Contacto";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "p7K-dS-1He"; */
+"p7K-dS-1He.text" = "Etiqueta";
+
+/* Class = "WKInterfaceMenuItem"; title = "Add To Calendar"; ObjectID = "qde-x3-ESX"; */
+"qde-x3-ESX.title" = "Agregar al calendario";
+
+/* Class = "WKInterfaceLabel"; text = "No Items for today"; ObjectID = "qtz-Ti-5Vq"; */
+"qtz-Ti-5Vq.text" = "No hay elementos para hoy";
+
+/* Class = "WKInterfaceMenuItem"; title = "Remind Me"; ObjectID = "rAn-nQ-SLw"; */
+"rAn-nQ-SLw.title" = "Recuérdeme";
+
+/* Class = "WKInterfaceController"; title = "Campuses"; ObjectID = "rEb-yG-gVi"; */
+"rEb-yG-gVi.title" = "Campus";
+
+/* Class = "WKInterfaceLabel"; text = "-"; ObjectID = "sTA-f8-bTt"; */
+"sTA-f8-bTt.text" = "-";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "vBO-IT-Q8j"; */
+"vBO-IT-Q8j.text" = "Etiqueta";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "vHv-sy-hFe"; */
+"vHv-sy-hFe.text" = "Etiqueta";
+
+/* Class = "WKInterfaceController"; title = "Version"; ObjectID = "vik-8i-077"; */
+"vik-8i-077.title" = "Versión";
+
+/* Class = "WKInterfaceLabel"; text = "Server Version"; ObjectID = "xS6-av-ZFg"; */
+"xS6-av-ZFg.text" = "Versión del servidor";
+
+/* Class = "WKInterfaceLabel"; text = "Client Version"; ObjectID = "zo8-NK-Su9"; */
+"zo8-NK-Su9.text" = "Versión del cliente";
+

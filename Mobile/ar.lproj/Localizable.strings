@@ -1,0 +1,597 @@
+/* divider CEUs label for registration */
+" | %@ CEUs" = " | %@ وحدة/وحدات تعليم مستمر";
+
+/* | ceus and CEUs label and grading type for registration */
+" | %@ CEUs %@" = " | %1$@ وحدة/وحدات تعليم مستمر %2$@";
+
+/* divider Credits label for registration */
+" | %@ Credits" = " | %@ ساعة/ساعات معتمدة";
+
+/* | credits and Credits label and grading type for registration */
+" | %@ Credits %@" = " | %1$@ ساعة/ساعات معتمدة %2$@";
+
+/* event start - end */
+"%@ - %@" = "%1$@ - %2$@";
+
+/* CEU (singular) label for registration */
+"%@ CEU" = "%@ وحدة تعليم مستمر";
+
+/* CEUs label for registration */
+"%@ CEUs" = "%@ وحدة/وحدات تعليم مستمر";
+
+/* ceus and CEUs label and grading type for registration */
+"%@ CEUs %@" = "%1$@ وحدة/وحدات تعليم مستمر %2$@";
+
+/* Credits label for registration */
+"%@ Credits" = "%@ ساعة/ساعات معتمدة";
+
+/* credits and Credits label and grading type for registration */
+"%@ Credits %@" = "%1$@ ساعة/ساعات معتمدة %2$@";
+
+/* phone number with phone extension */
+"%@ ext. %@" = "%1$@ تحويلة رقم %2$@";
+
+/* label for all day event */
+"%@, All Day" = "%@، طوال اليوم";
+
+/* label - building name, room number */
+"%@, Room %@" = "%1$@، غرفة %2$@";
+
+/* item already in cart error */
+"%@-%@ failed to add to cart. Section is already registered or exists in the cart." = "تعذر إضافة %1$@-%2$@ إلى السلة. الشعبة مسجلة مسبقا أو موجودة في سلة التسجيل.";
+
+/* Outdated alert message */
+"A new version is available." = "يوجد إصدار جديد لهذا التطبيق.";
+
+/* About menu item */
+"About" = "عن التطبيق";
+
+/* Academic Levels label for registration filter */
+"Academic Levels" = "المراحل الأكاديمية";
+
+/* access denied error message */
+"Access Denied" = "تم رفض الوصول";
+
+/* Actions menu heading */
+"Actions" = "الإجراءات";
+
+/* Add To Cart button */
+"Add To Cart" = "الإضافة إلى سلة التسجيل";
+
+/* label for add to cart button in registration search */
+"Add To Cart (%d)" = "الإضافة إلى سلة التسجيل (%d)";
+
+/* label for all day event */
+"All Day" = "طوال اليوم";
+
+/* ILP View: Announcements Card Title */
+"Announcements" = "الإعلانات";
+
+/* Applications menu heading */
+"Applications" = "التطبيقات";
+
+/* ILP View: Assignments Card Title */
+"Assignments" = "الواجبات";
+
+/* Audit label for registration */
+"Audit" = "التدقيق";
+
+/* Authorization Code Heading
+   Authorization Code placeholder text */
+"Authorization Code" = "رمز التصريح";
+
+/* Message to encourage them to turn on bluetooth */
+"Bluetooth is used at your institution to alert you when you are near location specific information or services. Please enable Bluetooth in your device settings." = "يتم استخدام Bluetooth في جامعتك لتنبيهك عندما تكون بالقرب من خدمات أو لتوفير معلومات عن الأماكن. يرجى تفعيل Bluetooth في إعدادات جهازك.";
+
+/* CEU (singular) label for registration */
+"CEU" = "وحدة التعليم المستمر";
+
+/* CEUs label for registration */
+"CEUs" = "وحدات التعليم المستمر";
+
+/* Calendar app name */
+"Calendar" = "التقويم";
+
+/* Cancel
+   Cancel action */
+"Cancel" = "إلغاء";
+
+/* checking registration eligibility message */
+"Checking Eligibility" = "جاري التحقق من الأهلية";
+
+/* Close */
+"Close" = "إغلاق";
+
+/* VoiceOver hint for button that collapses a text description */
+"Collapses description." = "يطوي الوصف.";
+
+/* Watch communication to phone error title */
+"Communication Error" = "خطأ اتصال";
+
+/* Confirm biometrics to continue */
+"Confirm biometrics to continue" = "تأكيد البيانات الحيوية للمتابعة";
+
+/* VoiceOver label for button that displays course details */
+"Course detail" = "تفاصيل المقرر";
+
+/* message for add to cart alert */
+"Course(s) added to cart." = "المقررات التي تم إضافتها لسلة التسجيل.";
+
+/* Credits label for registration */
+"Credits" = "الساعات المعتمدة";
+
+/* message for heading of messages during registration */
+"Critical" = "هام";
+
+/* assignment due today indicator for ilp module
+   due today assignment indicator for ilp module */
+"DUE TODAY" = "تسليمه اليوم";
+
+/* No comment provided by engineer. */
+"Data could not be reached" = "تعذر الوصول للبيانات";
+
+/* message when data cannot load due to a poor netwrok connection */
+"Data could not be retrieved." = "تعذر استرجاع البيانات.";
+
+/* Delete button */
+"Delete" = "حذف";
+
+/* Dismiss label */
+"Dismiss" = "تجاهل";
+
+/* VoiceOver hint for button that displays a course's details */
+"Displays course detail." = "يعرض تفاصيل المقرر.";
+
+/* VoiceOver hint for button that locates the user on a map */
+"Displays current location." = "يعرض المكان الحالي.";
+
+/* Registration Drop button */
+"Drop" = "حذف";
+
+/* label for drop button in registered list */
+"Drop (%d)" = "حذف (%d)";
+
+/* message for heading of successful dropped classes */
+"Dropped Successfully!" = "تم الحذف بنجاح!";
+
+/* loading message while waiting for dropping */
+"Dropping" = "جاري الحذف";
+
+/* due date label with date */
+"Due: %@" = "المستحق: %@";
+
+/* no due date for assignment */
+"Due: None assigned" = "المستحق: لم يتم أي تخصيص";
+
+/* Ellucian */
+"Ellucian" = "Ellucian";
+
+/* Ellucian privacy policy label */
+"Ellucian Privacy" = "سياسة خصوصية Ellucian";
+
+/* text for variable credits prompt with two options */
+"Enter course credit value %@ or %@" = "أدخل عدد الساعات المعتمدة للمقرر %1$@ أو %2$@";
+
+/* text for variable credits prompt */
+"Enter course credit value between %@ and %@" = "أدخل عدد الساعات المعتمدة للمقرر بين %1$@ و %2$@";
+
+/* text for variable credits with credit increment prompt */
+"Enter course credit value between %@ and %@ in increments of %@" = "دخل عدد الساعات المعتمدة للمقرر بين %1$@ و %2$@ بتزايد %3$@";
+
+/* PIN label for registration */
+"Enter the registration PIN" = "أدخل الرمز السري للتسجيل";
+
+/* Enter your authorization code message */
+"Enter your authorization code." = "أدخل رمز التصريح.";
+
+/* Error */
+"Error" = "خطأ";
+
+/* title when error loading audio */
+"Error Loading Audio" = "خطأ في تحميل المقطع الصوتي";
+
+/* title when error loading webpage */
+"Error Loading Page" = "خطأ في تحميل الصفحة";
+
+/* title when error loading video */
+"Error Loading Video" = "خطأ في تحميل المقطع المرئي";
+
+/* heading for event detail page */
+"Event Detail" = "تفاصيل الفعالية";
+
+/* ILP View: Events Card Title */
+"Events" = "الفعاليات";
+
+/* VoiceOver hint for button that expands a text description */
+"Expands description." = "يوسع الوصف.";
+
+/* Faculty label
+   title for faculty no match */
+"Faculty" = "أعضاء هيئة التدريس";
+
+/* facilty/staff search scope in directory */
+"Faculty/Staff" = "طاقم الجامعة";
+
+/* Fetching saved course sections message */
+"Fetching saved course sections" = "جاري إحضار شعب المقرر الذي تم حفظه";
+
+/* User can get directions for this location */
+"Get Directions" = "معرفة الطريق";
+
+/* Graded label for registration */
+"Graded" = "تم وضع درجاتها";
+
+/* Home menu item */
+"Home" = "الرئيسية";
+
+/* Ineligible for Registration */
+"Ineligible for Registration" = "غير مؤهل للتسجيل";
+
+/* Install App title */
+"Install App" = "تثبيت التطبيق";
+
+/* Last Updated date */
+"Last Updated %@" = "آخر تحديث %@";
+
+/* Last Updated date unknown */
+"Last Updated Unknown" = "آخر تحديث غير معروف";
+
+/* loading message while fetching recent transactions
+   loading message while waiting for data to load */
+"Loading" = "جاري التحميل";
+
+/* VoiceOver label for button that locates the user on a map */
+"Locate" = "تحديد الموقع";
+
+/* Location Access Disabled */
+"Location Access Disabled" = "الوصول إلى الموقع معطل";
+
+/* Description shown to user if location access disabled.  The text in quotes is the label used by iOS. Arabic=دائما Spanish=Siempre French=Tourjous Portuguese=Sempre
+   Message to encourage them to turn on Location Access to Always. The text in quotes is the label used by iOS. Arabic=دائما Spanish=Siempre French=Tourjous Portuguese=Sempre */
+"Location services are used at your institution to alert you when you are near location specific information or services. Please allow location access \"Always\" in your device settings." = "يتم استخدام خدمات تحديد المواقع في جامعتك لتنبيهك عندما تكون بالقرب من خدمات أو لتوفير معلومات عن الأماكن. يرجى السماح \"دائما\" بالوصول إلى الموقع في إعدادات جهازك.";
+
+/* Locations label for registration filter */
+"Locations" = "المكان";
+
+/* Accessibility menu label */
+"Menu" = "القائمة";
+
+/* Message in directory suggesting to sign in for more information */
+"More contact information may be displayed if you are signed in." = "قد يتم عرض معلومات تواصل أكثر إذا قمت بتسجيل الدخول.";
+
+/* Mute For Today button label
+   Mute For Today label */
+"Mute For Today" = "كتم لليوم";
+
+/* Mute Forever label */
+"Mute Forever" = "كتم للأبد";
+
+/* new notification has arrived */
+"New Notification" = "تنبيه جديد";
+
+/* no course announcements recorded message */
+"No Announcements Recorded" = "لا توجد إعلانات مسجلة";
+
+/* no assignments recorded message */
+"No Assignments Recorded" = "لا توجد واجبات مسجلة";
+
+/* generic message for no data present */
+"No Data" = "لا توجد بيانات";
+
+/* no events recorded message */
+"No Events Recorded" = "لا توجد فعاليات مسجلة";
+
+/* no announcements for today message */
+"No announcements for today" = "لا توجد إعلانات اليوم";
+
+/* no assignments due today message */
+"No assignments due today" = "لا توجد واجبات تسليمها اليوم";
+
+/* no events scheduled for today message */
+"No events scheduled for today" = "لا توجد فعاليات اليوم";
+
+/* message when there is no information to show the user about a building they selected */
+"No information available for this building." = "لا توجد معلومات عن هذا المبنى.";
+
+/* No registered classes for open terms message */
+"No registered classes for open terms." = "لا توجد فصول دراسية مسجلة للفصول الدراسية المفتوحة.";
+
+/* no date for announcement */
+"None announcement date available" = "تاريخ الإعلان غير متوفر";
+
+/* OK
+   OK action
+   OK button on alert view */
+"OK" = "موافق";
+
+/* overdue assignment indicator for ilp module */
+"OVERDUE" = "متأخر";
+
+/* label to open link in Safari */
+"Open in Safari" = "فتح الرابط في Safari";
+
+/* Outdated alert title */
+"Outdated" = "قديم";
+
+/* PIN label for registration */
+"PIN" = "الرمز السري";
+
+/* PassFail label for registration */
+"Pass/Fail" = "نجاح/رسوب";
+
+/* Password */
+"Password" = "كلمة المرور";
+
+/* Permission not granted title */
+"Permission not granted" = "لم يعطى الأذن";
+
+/* Person was not found */
+"Person was not found" = "تعذر العثور على الشخص";
+
+/* VoiceOver hint for button that plays a video */
+"Plays the video." = "تشغيل الفيديو";
+
+/* Watch communication to phone error message */
+"Please ensure the phone is nearby and launch" = "يرجى التأكد أن الهاتف قريب ثم أطلق";
+
+/* Watch communication to phone error message */
+"Please ensure the phone is nearby and launch %@ on the phone" = "يرجى التأكد أن الهاتف قريب ثم أطلق %@ على الهاتف";
+
+/* title when data cannot load due to a poor netwrok connection */
+"Poor Network Connection" = "اتصال ضعيف بالشبكة";
+
+/* Table section header RECENT PAYMENTS */
+"RECENT PAYMENTS" = "دفعات حديثة";
+
+/* Register button */
+"Register" = "تسجيل";
+
+/* label for register button in cart */
+"Register (%d)" = "تسجيل (%d)";
+
+/* message for heading of successful registered classes */
+"Registered!" = "تم التسجيل!";
+
+/* loading message while waiting for registration */
+"Registering" = "جاري التسجيل";
+
+/* message for add to cart title */
+"Registration" = "التسجيل";
+
+/* empty registration cart message */
+"Registration Cart Empty" = "سلة التسجيل فارغة";
+
+/* title of reminder list alert picker */
+"Reminder List" = "قائمة التذكير";
+
+/* Reminder setting title */
+"Reminder Type" = "نوع التذكير";
+
+/* Reminders app name */
+"Reminders" = "رسائل التذكير";
+
+/* Remove button */
+"Remove" = "إزالة";
+
+/* loading message while fetching terms to use for search */
+"Retrieving terms" = "جاري استرجاع الفصول الدراسية";
+
+/* label - room number */
+"Room %@" = "غرفة رقم %@";
+
+/* title for roster no match */
+"Roster" = "القائمة";
+
+/* empty Search Results message */
+"Search Results Empty" = "نتائج البحث فارغة";
+
+/* Placeholder text in search bar for switch schools */
+"Search Schools" = "البحث في الجامعات";
+
+/* searching message */
+"Searching" = "جاري البحث";
+
+/* title of action sheet for user to select which campus to see on the map */
+"Select Campus" = "اختيار الفرع";
+
+/* Title of the action sheet to select a reminder list to save the reminder */
+"Select the name of the reminder list to use." = "اختر قائمة التذكير التي تريد استخدامها.";
+
+/* VoiceOver hint for button that selects a school */
+"Selects a school." = "يختار مدرسة.";
+
+/* VoiceOver hint for button that selects a term */
+"Selects a term." = "يختار فصلا دراسيا.";
+
+/* VoiceOver hint for button that selects a course to add to the cart */
+"Selects course to add to cart." = "يختار مقررا لإضافته في سلة التسجيل.";
+
+/* VoiceOver hint for button that selects a course to drop */
+"Selects course to drop." = "يختار مقررا لحذفه.";
+
+/* Settings application name. This is part of iOS.  Apple translates this to be Arabic = الإعدادات Spanish/Portuguese=Ajustes French=Réglages
+   Settings menu item */
+"Settings" = "الإعدادات";
+
+/* label to sign in
+   Sign In menu item */
+"Sign In" = "تسجيل الدخول";
+
+/* title for failed sign in */
+"Sign In Failed" = "تعذر تسجيل الدخول";
+
+/* Sign Out menu item */
+"Sign Out" = "تسجيل الخروج";
+
+/* student search scope in directory */
+"Students" = "الطلاب";
+
+/* Switch school menu item */
+"Switch School" = "تغيير الجامعة";
+
+/* Force update alert message */
+"The application must be upgraded to the latest version." = "يجب تحديث التطبيق إلى آخر إصدار.";
+
+/* message for failed sign in */
+"The password or user name you entered is incorrect. Please try again." = "اسم المستخدم و كلمة المرور غير صحيحين. يرجى المحاولة مرة أخرى.";
+
+/* Targeted app not installed alert message */
+"There are no installed applications available to respond to this request." = "لا توجد تطبيقات مثبتة متاحة للاستجابة لهذا الطلب.";
+
+/* configurations cannot be downloaded */
+"There are no institutions to display at this time." = "لا توجد جامعات للعرض حاليا.";
+
+/* second message for heading of failed drop classes */
+"These issues may have prevented drop." = "هذه المشاكل ربما حالت دون الحذف.";
+
+/* second message for heading of failed registered classes */
+"These issues may have prevented registration." = "هذه المشاكل ربما حالت دون التسجيل.";
+
+/* Unsupported feature alert message */
+"This application is not available on iOS." = "هذا التطبيق غير متوفر في نظام تشغيل iOS.";
+
+/* Accessibility label for toggle menu section button */
+"Toggle menu section" = "فتح/غلق القائمة";
+
+/* unable to access contacts alert view title */
+"Unable to access contacts" = "تعذر الوصول إلى جهات الإتصال";
+
+/* unable to access contacts alert view message. Settings application is part of iOS.  Apple translates this to be Arabic = الإعدادات Spanish/Portuguese=Ajustes French=Réglages */
+"Unable to access contacts. Go to Settings to grant permission to Ellucian GO" = "تعذر الوصول إلى جهات الإتصال. يتم إعطاء Ellucian GO الإذن من خلال الإعدادات";
+
+/* unable to download configuration message */
+"Unable to download the configuration from that link" = "تعذر تحميل التهيئة من ذلك الرابط";
+
+/* unable to download configuration title */
+"Unable to launch configuration" = "تعذر إطلاق التهيئة";
+
+/* Unavailable Application alert title */
+"Unavailable Application" = "التطبيق غير متوفر";
+
+/* error message when address cannot be used for getting directions */
+"Unknown address" = "عنوان غير معروف";
+
+/* Unsupported alert title */
+"Unsupported" = "غير مدعوم";
+
+/* Upgrade software button label */
+"Upgrade" = "تحديث";
+
+/* User Name */
+"User Name" = "اسم المستخدم";
+
+/* view label
+   View label */
+"View" = "عرض";
+
+/* second message for heading of failed drop classes */
+"We couldn't drop these courses:" = "تعذر حذف هذه المقررات:";
+
+/* second message for heading of failed registered classes */
+"We couldn't register these courses:" = "تعذر تسجيل هذه المقررات:";
+
+/* message for heading of failed registered classes */
+"We're sorry." = "نأسف.";
+
+/* WebView loading error (description failure) */
+"WebView loading error" = "%1$@ %2$@";
+
+/* Reminder setting message */
+"What application would you like to use for reminders?" = "ما هو التطبيق الذي تريد استخدامه للتذكير؟";
+
+/* message to user when network is not present */
+"You are unable to connect to retrieve information. The Internet connection seems to be down." = "لا يمكنك الاتصال لاسترجاع المعلومات. يبدو أن الاتصال بالإنترنت لا يعمل حاليا.";
+
+/* permission access error message */
+"You do not have permission to use this feature." = "ليس لديك إذن لاستخدام هذه الخاصية.";
+
+/* You do not have the required app. Would you like to install it? message */
+"You do not have the required app. Would you like to install it?" = "ليس لديك التطبيق المطلوب. هل ترغب في تثبيته؟";
+
+/* Permission not granted message
+   Permission not granted message. Settings application is part of iOS.  Apple translates this to be Arabic = الإعدادات Spanish/Portuguese=Ajustes French=Réglages
+   Permission not granted message. Settings is part of iOS.  Apple translates this to be Arabic = الإعدادات Spanish/Portuguese=Ajustes French=Réglages
+   Permission not granted message. Settings is the name of an app that is part of iOS. Apple translates this to be Arabic = الإعدادات Spanish/Portuguese=Ajustes French=Réglages */
+"You must give permission in Settings to allow access" = "يجب إعطاء الصلاحية في الإعدادات للسماح بالوصول";
+
+/* available seats/capacity */
+"available seats/capacity" = "%2$@/%1$@";
+
+/* building name/address */
+"building name/address" = "%2$@/%1$@";
+
+/* course calendar course name-course section - title */
+"course calendar course name-course section - title" = "%1$@-%2$@ - %3$@";
+
+/* course days: start time - end */
+"course days: start time - end" = "%1$@: %2$@ - %3$@";
+
+/* course event start - end date */
+"course event start - end date" = "%1$@ - %2$@";
+
+/* course first meeting - last meeting */
+"course first meeting - last meeting" = "%1$@ - %2$@";
+
+/* course name-section number */
+"course name-section number" = "%1$@-%2$@";
+
+/* day of week date */
+"day of week date" = "%1$@ %2$@";
+
+/* days start - end */
+"days start - end" = "%1$@ %2$@ - %3$@";
+
+/* days start - end method */
+"days start - end method" = "%1$@ %2$@ - %3$@ %4$@";
+
+/* days startdate - enddate starttime - endtime */
+"days startdate - enddate starttime - endtime" = "%1$@ %2$@ - %3$@ %4$@ - %5$@";
+
+/* days startdate - enddate starttime - endtime method */
+"days startdate - enddate starttime - endtime method" = "%1$@ %2$@ - %3$@ %4$@ - %5$@ %6$@";
+
+/* days startdate starttime - endtime */
+"days startdate starttime - endtime" = "%1$@ %2$@ %3$@ - %4$@";
+
+/* days startdate starttime - endtime method */
+"days startdate starttime - endtime method" = "%1$@ %2$@ - %3$@ %4$@ - %5$@";
+
+/* days: */
+"days:" = "%@: ";
+
+/* phone extension */
+"ext. %@" = "تحويلة رقم %@";
+
+/* faculty last name, first initial */
+"faculty last name, first initial" = "%1$@، %2$@";
+
+/* registration divider min or max Credits */
+"registration divider min or max Credits" = " | %1$@/%2$@ ساعة/ساعات معتمدة";
+
+/* registration divider min to max Credits */
+"registration divider min to max Credits" = " | %1$@-%2$@ ساعة/ساعات معتمدة";
+
+/* registration min or max Credits */
+"registration min or max Credits" = "%1$@/%2$@ ساعة/ساعات معتمدة";
+
+/* registration min to max Credits */
+"registration min to max Credits" = "%1$@-%2$@ ساعة/ساعات معتمدة";
+
+/* registration planned section detail variable credits (or) */
+"registration planned section detail variable credits (or)" = "%1$@ / %2$@";
+
+/* registration planned section detail variable credits (to) */
+"registration planned section detail variable credits (to)" = "%1$@ - %2$@";
+
+/* registration search results instructional method */
+"registration search results instructional method" = " | %@";
+
+/* registration search results meeting pattern */
+"registration search results meeting pattern" = "%@";
+
+/* Audit label for registration */
+"| Audit" = "| التدقيق";
+
+/* PassFail abbrev label for registration cart */
+"| P/F" = "| نجاح/رسوب";
+

@@ -1,0 +1,129 @@
+/* Class = "UILabel"; text = "Label"; ObjectID = "0BY-xi-7fz"; */
+"0BY-xi-7fz.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2Kk-0E-zy9"; */
+"2Kk-0E-zy9.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3TR-0j-Al6"; */
+"3TR-0j-Al6.text" = "Label";
+
+/* Class = "UILabel"; text = "Events"; ObjectID = "6ic-ww-9Ya"; */
+"6ic-ww-9Ya.text" = "Events";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7hb-Gj-vJQ"; */
+"7hb-Gj-vJQ.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8nD-BV-yF7"; */
+"8nD-BV-yF7.text" = "Label";
+
+/* Class = "UILabel"; text = "Announcements"; ObjectID = "559-jd-z3t"; */
+"559-jd-z3t.text" = "Announcements";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "825-b2-cZQ"; */
+"825-b2-cZQ.text" = "Label";
+
+/* Class = "UIButton"; accessibilityLabel = "Add to reminders"; ObjectID = "904-OA-pRc"; */
+"904-OA-pRc.accessibilityLabel" = "Add to reminders";
+
+/* Class = "UISegmentedControl"; EPr-qe-WsF.segmentTitles[0] = "By Due Date"; ObjectID = "EPr-qe-WsF"; */
+"EPr-qe-WsF.segmentTitles[0]" = "By Due Date";
+
+/* Class = "UISegmentedControl"; EPr-qe-WsF.segmentTitles[1] = "No Due Date"; ObjectID = "EPr-qe-WsF"; */
+"EPr-qe-WsF.segmentTitles[1]" = "No Due Date";
+
+/* Class = "UILabel"; text = "End Date:"; ObjectID = "FCg-hg-gKr"; */
+"FCg-hg-gKr.text" = "End Date:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KgY-dZ-hQ1"; */
+"KgY-dZ-hQ1.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ksj-zn-tiu"; */
+"Ksj-zn-tiu.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Pez-6t-Gq9"; */
+"Pez-6t-Gq9.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QVR-Pd-Dc7"; */
+"QVR-Pd-Dc7.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "S30-I0-f4P"; */
+"S30-I0-f4P.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "U2J-AF-HXC"; */
+"U2J-AF-HXC.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UDX-kf-jSd"; */
+"UDX-kf-jSd.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Announcements"; ObjectID = "USn-XQ-OH4"; */
+"USn-XQ-OH4.title" = "Announcements";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UiY-57-F3b"; */
+"UiY-57-F3b.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ajb-bR-4fE"; */
+"ajb-bR-4fE.text" = "Label";
+
+/* Class = "UILabel"; text = "Start Date:"; ObjectID = "b2W-Cv-P62"; */
+"b2W-Cv-P62.text" = "Start Date:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bwO-aa-67P"; */
+"bwO-aa-67P.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cR7-Tt-XGc"; */
+"cR7-Tt-XGc.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "d0l-in-msB"; */
+"d0l-in-msB.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "da9-av-Qdh"; */
+"da9-av-Qdh.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "etM-FA-clV"; */
+"etM-FA-clV.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "f7x-y7-vlv"; */
+"f7x-y7-vlv.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fRY-gh-BdZ"; */
+"fRY-gh-BdZ.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gwO-Pf-ma6"; */
+"gwO-Pf-ma6.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Assignments"; ObjectID = "hog-Wy-N8A"; */
+"hog-Wy-N8A.title" = "Assignments";
+
+/* Class = "UILabel"; text = "Assignments"; ObjectID = "iSB-Qg-uY9"; */
+"iSB-Qg-uY9.text" = "Assignments";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "l7h-xa-1FI"; */
+"l7h-xa-1FI.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lnT-Nh-UCs"; */
+"lnT-Nh-UCs.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Events"; ObjectID = "qwp-A4-5qb"; */
+"qwp-A4-5qb.title" = "Events";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sfW-6i-68b"; */
+"sfW-6i-68b.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tHj-Dn-FzH"; */
+"tHj-Dn-FzH.text" = "Label";
+
+/* Class = "UILabel"; text = "Location:"; ObjectID = "tPe-jc-4j5"; */
+"tPe-jc-4j5.text" = "Location:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "u3r-Qg-Pnb"; */
+"u3r-Qg-Pnb.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "v5i-GP-bia"; */
+"v5i-GP-bia.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zU2-7F-VwW"; */
+"zU2-7F-VwW.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zrl-W4-IYY"; */
+"zrl-W4-IYY.text" = "Label";
+

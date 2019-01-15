@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>Title</key>
+			<string>Un-mute All Locations</string>
+			<key>Key</key>
+			<string>settings-notification-reset-muted-locations</string>
+			<key>DefaultValue</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Security</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>FooterText</key>
+			<string>Use Biometrics To Unlock</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>Title</key>
+			<string>Biometrics</string>
+			<key>Key</key>
+			<string>login-fingerprint</string>
+			<key>DefaultValue</key>
+			<string>Reminders</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Assignments</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>Title</key>
+			<string>Reminder Type</string>
+			<key>Key</key>
+			<string>settings-assignments-reminder</string>
+			<key>DefaultValue</key>
+			<string>Reminders</string>
+			<key>Titles</key>
+			<array>
+				<string>Calendar</string>
+				<string>Reminders</string>
+			</array>
+			<key>Values</key>
+			<array>
+				<string>Calendar</string>
+				<string>Reminders</string>
+			</array>
+		</dict>
+	</array>
+	<key>StringsTable</key>
+	<string>Root</string>
+</dict>
+</plist>

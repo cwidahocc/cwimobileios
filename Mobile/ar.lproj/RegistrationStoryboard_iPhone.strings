@@ -1,0 +1,309 @@
+/* Class = "UILabel"; text = "Section ID:"; ObjectID = "0r0-Zi-Ifz"; */
+"0r0-Zi-Ifz.text" = "معرف الشعبة:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1CK-Rx-Vwf"; */
+"1CK-Rx-Vwf.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Available Seats:"; ObjectID = "1oH-hb-pyb"; */
+"1oH-hb-pyb.text" = "المقاعد المتاحة:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3xX-L2-fn3"; */
+"3xX-L2-fn3.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3zm-ep-Nxd"; */
+"3zm-ep-Nxd.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4Rh-O0-Xs9"; */
+"4Rh-O0-Xs9.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4TW-bx-cDi"; */
+"4TW-bx-cDi.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Section ID:"; ObjectID = "4ap-F7-Vmy"; */
+"4ap-F7-Vmy.text" = "معرف الشعبة:";
+
+/* Class = "UILabel"; text = "Grading:"; ObjectID = "5TQ-qa-ymN"; */
+"5TQ-qa-ymN.text" = "وضع الدرجات:";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "8tp-s3-oyy"; */
+"8tp-s3-oyy.text" = "الوصف";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9Mc-6a-gDc"; */
+"9Mc-6a-gDc.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9QN-MZ-0sg"; */
+"9QN-MZ-0sg.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "35t-l8-2LF"; */
+"35t-l8-2LF.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Faculty"; ObjectID = "39M-Ib-Gvn"; */
+"39M-Ib-Gvn.text" = "أعضاء هيئة التدريس";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "58f-3E-CTN"; */
+"58f-3E-CTN.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "696-Bg-Vla"; */
+"696-Bg-Vla.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Cii-0i-y7R"; */
+"Cii-0i-y7R.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Academic Levels:"; ObjectID = "Diu-D6-0FB"; */
+"Diu-D6-0FB.text" = "المراحل الأكاديمية:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FAL-zW-o2D"; */
+"FAL-zW-o2D.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Fpo-KK-JEF"; */
+"Fpo-KK-JEF.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "GB7-vY-nBG"; */
+"GB7-vY-nBG.text" = "الوصف";
+
+/* Class = "UILabel"; text = "Grading:"; ObjectID = "Gmn-LE-lR9"; */
+"Gmn-LE-lR9.text" = "وضع الدرجات:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "H4k-On-5Ly"; */
+"H4k-On-5Ly.text" = "المسمى";
+
+/* Class = "UILabel"; text = "We're Sorry."; ObjectID = "I2k-R4-900"; */
+"I2k-R4-900.text" = "نأسف.";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "IFn-Py-Hfb"; */
+"IFn-Py-Hfb.text" = "اللقب";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ikn-we-XIr"; */
+"Ikn-we-XIr.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JAM-Iq-W2d"; */
+"JAM-Iq-W2d.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KQd-l2-uy3"; */
+"KQd-l2-uy3.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LQ3-h3-xmh"; */
+"LQ3-h3-xmh.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Section Number"; ObjectID = "LSE-d9-y1h"; */
+"LSE-d9-y1h.text" = "رقم الشعبة";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "NW4-rN-o2Q"; */
+"NW4-rN-o2Q.text" = "الوصف";
+
+/* Class = "UILabel"; text = "Faculty"; ObjectID = "PWk-t6-xSL"; */
+"PWk-t6-xSL.text" = "أعضاء هيئة التدريس";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QS1-UT-QIs"; */
+"QS1-UT-QIs.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "S0P-yP-dnX"; */
+"S0P-yP-dnX.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Credits:"; ObjectID = "S68-6x-6HO"; */
+"S68-6x-6HO.text" = "الساعات المعتمدة:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "T4o-xi-9Lh"; */
+"T4o-xi-9Lh.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "T7m-XS-EtO"; */
+"T7m-XS-EtO.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ubi-kb-vAm"; */
+"Ubi-kb-vAm.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VCg-7o-fHG"; */
+"VCg-7o-fHG.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Credits:"; ObjectID = "VRh-Kl-CwZ"; */
+"VRh-Kl-CwZ.text" = "الساعات المعتمدة:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Vee-IV-xWF"; */
+"Vee-IV-xWF.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VlD-Nw-eqe"; */
+"VlD-Nw-eqe.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "W6e-RY-xNR"; */
+"W6e-RY-xNR.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WJU-l6-w4o"; */
+"WJU-l6-w4o.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WTH-lf-Rp1"; */
+"WTH-lf-Rp1.text" = "المسمى";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "WtM-Y5-Jw1"; */
+"WtM-Y5-Jw1.title" = "البند";
+
+/* Class = "UILabel"; text = "Search criteria"; ObjectID = "XU3-FU-Pq7"; */
+"XU3-FU-Pq7.text" = "معايير البحث";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Xsi-ai-4vO"; */
+"Xsi-ai-4vO.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Section ID:"; ObjectID = "Y3w-d1-exZ"; */
+"Y3w-d1-exZ.text" = "معرف الشعبة:";
+
+/* Class = "UILabel"; text = "Term"; ObjectID = "YVN-su-c3w"; */
+"YVN-su-c3w.text" = "الفصل الدراسي";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Z3R-Yf-xqL"; */
+"Z3R-Yf-xqL.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Z6O-uU-0fs"; */
+"Z6O-uU-0fs.text" = "اللقب";
+
+/* Class = "UILabel"; text = "Select a Term and enter Search criteria"; ObjectID = "Z7a-PW-0lx"; */
+"Z7a-PW-0lx.text" = "قم باختيار فصل دراسي وأدخل معايير البحث";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZND-Mu-F1p"; */
+"ZND-Mu-F1p.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Credits:"; ObjectID = "ZfQ-sd-jYJ"; */
+"ZfQ-sd-jYJ.text" = "الساعات المعتمدة:";
+
+/* Class = "UILabel"; text = "Meeting Information"; ObjectID = "b4s-TH-tKU"; */
+"b4s-TH-tKU.text" = "معلومات المحاضرة";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bAc-JY-i3p"; */
+"bAc-JY-i3p.text" = "المسمى";
+
+/* Class = "UIButton"; normalTitle = "Refine Search"; ObjectID = "bV8-j2-w49"; */
+"bV8-j2-w49.normalTitle" = "تضييق البحث";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cF5-6s-Nkw"; */
+"cF5-6s-Nkw.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "cRH-6x-2r8"; */
+"cRH-6x-2r8.text" = "اللقب";
+
+/* Class = "UILabel"; text = "Meeting Information"; ObjectID = "cRJ-0a-q6i"; */
+"cRJ-0a-q6i.text" = "معلومات المحاضرة";
+
+/* Class = "UITextField"; placeholder = "Tap to Select"; ObjectID = "dKP-hl-IAS"; */
+"dKP-hl-IAS.placeholder" = "انقر للاختيار";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dYu-hL-EX5"; */
+"dYu-hL-EX5.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "e32-y5-dm4"; */
+"e32-y5-dm4.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eE2-jT-lyc"; */
+"eE2-jT-lyc.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Section ID:"; ObjectID = "eKs-mh-XSW"; */
+"eKs-mh-XSW.text" = "معرف الشعبة:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "f9u-9p-nB4"; */
+"f9u-9p-nB4.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fY9-eT-CmT"; */
+"fY9-eT-CmT.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fs7-pL-m93"; */
+"fs7-pL-m93.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "g1Q-6e-iBu"; */
+"g1Q-6e-iBu.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Faculty"; ObjectID = "glz-1T-QfB"; */
+"glz-1T-QfB.text" = "أعضاء هيئة التدريس";
+
+/* Class = "UILabel"; text = "Meeting Information"; ObjectID = "hBm-p7-2VH"; */
+"hBm-p7-2VH.text" = "معلومات المحاضرة";
+
+/* Class = "UILabel"; text = "Grading:"; ObjectID = "hNt-7T-nt9"; */
+"hNt-7T-nt9.text" = "وضع الدرجات:";
+
+/* Class = "UILabel"; text = "Academic Levels:"; ObjectID = "jGx-5p-sqy"; */
+"jGx-5p-sqy.text" = "المراحل الأكاديمية:";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "jmp-kD-D9o"; */
+"jmp-kD-D9o.text" = "اللقب";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "k8q-Td-hPU"; */
+"k8q-Td-hPU.normalTitle" = "البحث";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kIn-T8-Tkv"; */
+"kIn-T8-Tkv.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kV4-WC-MF3"; */
+"kV4-WC-MF3.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mbv-lp-170"; */
+"mbv-lp-170.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nTv-Ed-8sB"; */
+"nTv-Ed-8sB.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Ineligible for Registration"; ObjectID = "nbc-20-7dD"; */
+"nbc-20-7dD.text" = "غير مؤهل للتسجيل";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "otW-v7-irB"; */
+"otW-v7-irB.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ozP-lz-Jd5"; */
+"ozP-lz-Jd5.text" = "المسمى";
+
+/* Class = "UITabBarItem"; title = "Registered"; ObjectID = "qJA-E1-sjv"; */
+"qJA-E1-sjv.title" = "مسجَّل";
+
+/* Class = "UITabBarItem"; title = "Search"; ObjectID = "sSy-HI-DTq"; */
+"sSy-HI-DTq.title" = "البحث";
+
+/* Class = "UILabel"; text = "Section Number"; ObjectID = "t0t-I7-XAE"; */
+"t0t-I7-XAE.text" = "رقم الشعبة";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ual-Va-pzd"; */
+"ual-Va-pzd.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "unE-sH-fqi"; */
+"unE-sH-fqi.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Section Number"; ObjectID = "uuL-aq-TgN"; */
+"uuL-aq-TgN.text" = "رقم الشعبة";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "v5u-C0-Eye"; */
+"v5u-C0-Eye.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vba-cV-Yff"; */
+"vba-cV-Yff.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vqy-w5-kCI"; */
+"vqy-w5-kCI.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "w9i-KX-E7W"; */
+"w9i-KX-E7W.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Credits:"; ObjectID = "wG5-pn-CaP"; */
+"wG5-pn-CaP.text" = "الساعات المعتمدة:";
+
+/* Class = "UITableViewController"; title = "Events Selector"; ObjectID = "wID-0z-046"; */
+"wID-0z-046.title" = "اختيار الفعاليات";
+
+/* Class = "UITabBarItem"; title = "Cart"; ObjectID = "wMw-p9-BS9"; */
+"wMw-p9-BS9.title" = "سلة التسجيل";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "wv6-JC-xRR"; */
+"wv6-JC-xRR.title" = "البند";
+
+/* Class = "UILabel"; text = "Faculty"; ObjectID = "yPh-fT-0zm"; */
+"yPh-fT-0zm.text" = "أعضاء هيئة التدريس";
+
+/* Class = "UILabel"; text = "Section Number"; ObjectID = "yTP-rU-pYP"; */
+"yTP-rU-pYP.text" = "رقم الشعبة";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "yYF-P4-pNh"; */
+"yYF-P4-pNh.text" = "الوصف";
+
+/* Class = "UILabel"; text = "Meeting Information"; ObjectID = "yzp-Qf-Uhg"; */
+"yzp-Qf-Uhg.text" = "معلومات المحاضرة";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "z0H-aa-WnJ"; */
+"z0H-aa-WnJ.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Grading:"; ObjectID = "zeP-SA-vCJ"; */
+"zeP-SA-vCJ.text" = "وضع الدرجات:";
+

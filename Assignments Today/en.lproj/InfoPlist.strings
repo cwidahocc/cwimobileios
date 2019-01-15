@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  Mobile
+
+  Created by Jason Hocker on 1/30/15.
+  Copyright (c) 2015 Ellucian Company L.P. and its affiliates. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "Assignments Today";

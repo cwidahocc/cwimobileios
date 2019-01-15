@@ -1,0 +1,36 @@
+/* Class = "UIBarButtonItem"; title = "Filter"; ObjectID = "4RT-fE-WK3"; */
+"4RT-fE-WK3.title" = "Filtre";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6EO-82-oeF"; */
+"6EO-82-oeF.text" = "Libellé";
+
+/* Class = "UILabel"; text = "No Events Item Selected"; ObjectID = "6oL-uo-Dga"; */
+"6oL-uo-Dga.text" = "Aucun élément d'événement sélectionné";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QDk-e4-sea"; */
+"QDk-e4-sea.text" = "Libellé";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "S9z-en-YRW"; */
+"S9z-en-YRW.text" = "Libellé";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VT2-PR-xvS"; */
+"VT2-PR-xvS.text" = "Libellé";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "a8G-NC-b7W"; */
+"a8G-NC-b7W.text" = "Libellé";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fBu-lQ-Gwj"; */
+"fBu-lQ-Gwj.text" = "Libellé";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nAk-hS-pQL"; */
+"nAk-hS-pQL.text" = "Libellé";
+
+/* Class = "UILabel"; text = "•"; ObjectID = "ok6-k6-8tj"; */
+"ok6-k6-8tj.text" = "•";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uYE-gp-c8N"; */
+"uYE-gp-c8N.text" = "Libellé";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ycg-LE-bfs"; */
+"ycg-LE-bfs.text" = "Libellé";
+

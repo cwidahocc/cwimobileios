@@ -1,0 +1,129 @@
+/* Class = "UILabel"; text = "Label"; ObjectID = "0BY-xi-7fz"; */
+"0BY-xi-7fz.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2Kk-0E-zy9"; */
+"2Kk-0E-zy9.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3TR-0j-Al6"; */
+"3TR-0j-Al6.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Events"; ObjectID = "6ic-ww-9Ya"; */
+"6ic-ww-9Ya.text" = "Eventos";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7hb-Gj-vJQ"; */
+"7hb-Gj-vJQ.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8nD-BV-yF7"; */
+"8nD-BV-yF7.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Announcements"; ObjectID = "559-jd-z3t"; */
+"559-jd-z3t.text" = "Comunicados";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "825-b2-cZQ"; */
+"825-b2-cZQ.text" = "Rótulo";
+
+/* Class = "UIButton"; accessibilityLabel = "Add to reminders"; ObjectID = "904-OA-pRc"; */
+"904-OA-pRc.accessibilityLabel" = "Adicionar aos lembretes";
+
+/* Class = "UISegmentedControl"; EPr-qe-WsF.segmentTitles[0] = "By Due Date"; ObjectID = "EPr-qe-WsF"; */
+"EPr-qe-WsF.segmentTitles[0]" = "Com data de vencimento";
+
+/* Class = "UISegmentedControl"; EPr-qe-WsF.segmentTitles[1] = "No Due Date"; ObjectID = "EPr-qe-WsF"; */
+"EPr-qe-WsF.segmentTitles[1]" = "Sem data de vencimento";
+
+/* Class = "UILabel"; text = "End Date:"; ObjectID = "FCg-hg-gKr"; */
+"FCg-hg-gKr.text" = "Data final:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KgY-dZ-hQ1"; */
+"KgY-dZ-hQ1.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ksj-zn-tiu"; */
+"Ksj-zn-tiu.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Pez-6t-Gq9"; */
+"Pez-6t-Gq9.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QVR-Pd-Dc7"; */
+"QVR-Pd-Dc7.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "S30-I0-f4P"; */
+"S30-I0-f4P.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "U2J-AF-HXC"; */
+"U2J-AF-HXC.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UDX-kf-jSd"; */
+"UDX-kf-jSd.text" = "Rótulo";
+
+/* Class = "UITabBarItem"; title = "Announcements"; ObjectID = "USn-XQ-OH4"; */
+"USn-XQ-OH4.title" = "Comunicados";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UiY-57-F3b"; */
+"UiY-57-F3b.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ajb-bR-4fE"; */
+"ajb-bR-4fE.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Start Date:"; ObjectID = "b2W-Cv-P62"; */
+"b2W-Cv-P62.text" = "Data de início:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bwO-aa-67P"; */
+"bwO-aa-67P.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cR7-Tt-XGc"; */
+"cR7-Tt-XGc.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "d0l-in-msB"; */
+"d0l-in-msB.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "da9-av-Qdh"; */
+"da9-av-Qdh.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "etM-FA-clV"; */
+"etM-FA-clV.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "f7x-y7-vlv"; */
+"f7x-y7-vlv.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fRY-gh-BdZ"; */
+"fRY-gh-BdZ.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gwO-Pf-ma6"; */
+"gwO-Pf-ma6.text" = "Rótulo";
+
+/* Class = "UITabBarItem"; title = "Assignments"; ObjectID = "hog-Wy-N8A"; */
+"hog-Wy-N8A.title" = "Tarefas";
+
+/* Class = "UILabel"; text = "Assignments"; ObjectID = "iSB-Qg-uY9"; */
+"iSB-Qg-uY9.text" = "Tarefas";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "l7h-xa-1FI"; */
+"l7h-xa-1FI.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lnT-Nh-UCs"; */
+"lnT-Nh-UCs.text" = "Rótulo";
+
+/* Class = "UITabBarItem"; title = "Events"; ObjectID = "qwp-A4-5qb"; */
+"qwp-A4-5qb.title" = "Eventos";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sfW-6i-68b"; */
+"sfW-6i-68b.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tHj-Dn-FzH"; */
+"tHj-Dn-FzH.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Location:"; ObjectID = "tPe-jc-4j5"; */
+"tPe-jc-4j5.text" = "Localização:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "u3r-Qg-Pnb"; */
+"u3r-Qg-Pnb.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "v5i-GP-bia"; */
+"v5i-GP-bia.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zU2-7F-VwW"; */
+"zU2-7F-VwW.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zrl-W4-IYY"; */
+"zrl-W4-IYY.text" = "Rótulo";
+

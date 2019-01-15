@@ -1,0 +1,18 @@
+/* Class = "UILabel"; text = "Label"; ObjectID = "95F-d5-EF9"; */
+"95F-d5-EF9.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GMy-VP-oml"; */
+"GMy-VP-oml.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "H9U-AE-siL"; */
+"H9U-AE-siL.text" = "المسمى";
+
+/* Class = "UILabel"; text = "There are no recent payments."; ObjectID = "VH4-BG-HC3"; */
+"VH4-BG-HC3.text" = "لا توجد دفعات حديثة.";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "Vnv-dO-S4K"; */
+"Vnv-dO-S4K.text" = "--";
+
+/* Class = "UILabel"; text = "BALANCE"; ObjectID = "jmg-FY-1CT"; */
+"jmg-FY-1CT.text" = "الرصيد";
+

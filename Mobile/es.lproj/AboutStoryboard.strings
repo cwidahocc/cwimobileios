@@ -1,0 +1,39 @@
+/* Class = "UILabel"; text = "Label"; ObjectID = "Bd8-Ev-dx6"; */
+"Bd8-Ev-dx6.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Server Version"; ObjectID = "Unv-BZ-jCN"; */
+"Unv-BZ-jCN.text" = "Versión del servidor";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "VE7-5E-OVa"; */
+"VE7-5E-OVa.text" = "Teléfono";
+
+/* Class = "UIButton"; normalTitle = "Powered by"; ObjectID = "W9v-QP-EPK"; */
+"W9v-QP-EPK.normalTitle" = "Desarrollado por";
+
+/* Class = "UIButton"; normalTitle = "Ellucian Privacy Policy"; ObjectID = "WUk-Hg-02u"; */
+"WUk-Hg-02u.normalTitle" = "Política de privacidad de Ellucian";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Wyp-zp-4Xw"; */
+"Wyp-zp-4Xw.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XCw-7z-JKj"; */
+"XCw-7z-JKj.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Client Version"; ObjectID = "evF-VH-GMi"; */
+"evF-VH-GMi.text" = "Versión del cliente";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mmj-A3-pzw"; */
+"mmj-A3-pzw.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uNn-lo-hcn"; */
+"uNn-lo-hcn.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xLQ-Zx-ewm"; */
+"xLQ-Zx-ewm.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Website"; ObjectID = "yxJ-it-tJJ"; */
+"yxJ-it-tJJ.text" = "Sitio Web";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "zq1-Vn-YjD"; */
+"zq1-Vn-YjD.text" = "Correo-e";
+

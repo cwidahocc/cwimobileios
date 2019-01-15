@@ -1,0 +1,36 @@
+/* About menu item */
+"About" = "Sobre";
+
+/* Watch communication to phone error title */
+"Communication Error" = "Erro de comunicação";
+
+/* due date label with date */
+"Due: %@" = "Vencido: %@";
+
+/* Not Interested label */
+"Not Interested" = "Sem interesse";
+
+/* OK button on alert view */
+"OK" = "OK";
+
+/* Watch communication to phone error message */
+"Please ensure the phone is nearby and launch" = "Coloque o iPhone próximo e baixe";
+
+/* Watch communication to phone error message */
+"Please ensure the phone is nearby and launch %@ on the phone" = "Coloque o iPhone próximo e baixe %@ no Apple Watch";
+
+/* Handoff message */
+"Please use Handoff to complete to view the content" = "Use o recurso de continuidade (Handoff) para concluir e visualizar o conteúdo";
+
+/* View label */
+"View" = "Visualizar";
+
+/* View on phone */
+"View  on phone" = "Visualizar no iPhone";
+
+/* course days: start time - end */
+"course days: start time - end" = "%1$@: %2$@ - %3$@";
+
+/* faculty last name, first initial */
+"faculty last name, first initial" = "%1$@, %2$@";
+

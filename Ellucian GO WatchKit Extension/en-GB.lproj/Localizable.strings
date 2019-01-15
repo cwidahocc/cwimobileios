@@ -1,0 +1,36 @@
+/* About menu item */
+"About" = "About";
+
+/* Watch communication to phone error title */
+"Communication Error" = "Communication Error";
+
+/* due date label with date */
+"Due: %@" = "Due: %@";
+
+/* Not Interested label */
+"Not Interested" = "Not Interested";
+
+/* OK button on alert view */
+"OK" = "OK";
+
+/* Watch communication to phone error message */
+"Please ensure the phone is nearby and launch" = "Please ensure the phone is nearby and launch";
+
+/* Watch communication to phone error message */
+"Please ensure the phone is nearby and launch %@ on the phone" = "Please ensure the phone is nearby and launch %@ on the phone";
+
+/* Handoff message */
+"Please use Handoff to complete to view the content" = "Please use Handoff to complete to view the content";
+
+/* View label */
+"View" = "View";
+
+/* View on phone */
+"View  on phone" = "View on phone";
+
+/* course days: start time - end */
+"course days: start time - end" = "%1$@: %2$@ - %3$@";
+
+/* faculty last name, first initial */
+"faculty last name, first initial" = "%1$@, %2$@";
+

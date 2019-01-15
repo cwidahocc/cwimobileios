@@ -1,0 +1,9 @@
+/* Class = "UILabel"; text = "Label"; ObjectID = "8mz-tJ-mej"; */
+"8mz-tJ-mej.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Loading configuration.  Please wait..."; ObjectID = "nbl-jr-rw5"; */
+"nbl-jr-rw5.text" = "Carregando a configuração. Aguarde...";
+
+/* Class = "UINavigationItem"; title = "Institutions"; ObjectID = "oBV-Iy-GzW"; */
+"oBV-Iy-GzW.title" = "Instituições";
+

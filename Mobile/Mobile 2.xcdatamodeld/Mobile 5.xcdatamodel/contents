@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11232" systemVersion="15G1004" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="CourseAnnouncement" representedClassName="CourseAnnouncement" syncable="YES">
+        <attribute name="content" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="courseName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="courseSectionNumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="date" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="displayDateSectionHeader" optional="YES" transient="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sectionId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="website" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="CourseAssignment" representedClassName="CourseAssignment" syncable="YES">
+        <attribute name="assignmentDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="courseName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="courseSectionNumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="displayDateSectionHeader" optional="YES" transient="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dueDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="overDueWarningSectionHeader" optional="YES" transient="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sectionId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="url" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="CourseDetail" representedClassName="CourseDetail" syncable="YES">
+        <attribute name="ceus" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="courseDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="courseName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="courseSectionNumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="credits" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="firstMeetingDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="lastMeetingDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="learningProvider" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="learningProviderSiteId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="primarySectionId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sectionId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sectionTitle" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="termId" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="instructors" optional="YES" toMany="YES" deletionRule="Cascade" ordered="YES" destinationEntity="CourseDetailInstructor" inverseName="course" inverseEntity="CourseDetailInstructor" syncable="YES"/>
+        <relationship name="meetingPatterns" optional="YES" toMany="YES" deletionRule="Cascade" ordered="YES" destinationEntity="CourseMeetingPattern" inverseName="course" inverseEntity="CourseMeetingPattern" syncable="YES"/>
+    </entity>
+    <entity name="CourseDetailInstructor" representedClassName="CourseDetailInstructor" syncable="YES">
+        <attribute name="firstName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="formattedName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="instructorId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lastName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="middleInitial" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="primary" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <relationship name="course" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="CourseDetail" inverseName="instructors" inverseEntity="CourseDetail" syncable="YES"/>
+    </entity>
+    <entity name="CourseEvent" representedClassName="CourseEvent" syncable="YES">
+        <attribute name="courseName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="courseSectionNumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="displayDateSectionHeader" optional="YES" transient="YES" attributeType="String" syncable="YES"/>
+        <attribute name="endDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="eventDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isAllDay" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="location" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sectionId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="startDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="CourseMeetingPattern" representedClassName="CourseMeetingPattern" syncable="YES">
+        <attribute name="building" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="buildingId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="campus" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="campusId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="daysOfWeek" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="endDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="endTime" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="frequency" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="instructionalMethodCode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="startDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="startTime" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <relationship name="course" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="CourseDetail" inverseName="meetingPatterns" inverseEntity="CourseDetail" syncable="YES"/>
+    </entity>
+    <entity name="CourseRoster" representedClassName="CourseRoster" syncable="YES">
+        <attribute name="firstName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lastName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="middleName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="photo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sectionId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sectionKey" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="studentId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="termId" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="CourseSection" representedClassName="CourseSection" syncable="YES">
+        <attribute name="courseName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="courseSectionNumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isInstructor" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="sectionId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sectionTitle" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="term" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="CourseTerm" inverseName="sections" inverseEntity="CourseTerm" syncable="YES"/>
+    </entity>
+    <entity name="CourseTerm" representedClassName="CourseTerm" syncable="YES">
+        <attribute name="endDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="startDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="termId" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="sections" optional="YES" toMany="YES" deletionRule="Cascade" ordered="YES" destinationEntity="CourseSection" inverseName="term" inverseEntity="CourseSection" syncable="YES"/>
+    </entity>
+    <entity name="DirectoryDefinition" representedClassName=".DirectoryDefinition" syncable="YES">
+        <attribute name="authenticatedOnly" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="displayName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="internalName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="key" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Event" representedClassName="Event" syncable="YES">
+        <attribute name="allDay" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="contact" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dateLabel" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="description_" optional="YES" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="endDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="location" optional="YES" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="startDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="summary" optional="YES" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="uid" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="category" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="EventCategory" inverseName="event" inverseEntity="EventCategory" syncable="YES"/>
+        <relationship name="module" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="EventModule" inverseName="events" inverseEntity="EventModule" syncable="YES"/>
+    </entity>
+    <entity name="EventCategory" representedClassName="EventCategory" syncable="YES">
+        <attribute name="moduleName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="event" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Event" inverseName="category" inverseEntity="Event" syncable="YES"/>
+    </entity>
+    <entity name="EventModule" representedClassName="EventModule" syncable="YES">
+        <attribute name="hiddenCategories" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="events" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Event" inverseName="module" inverseEntity="Event" syncable="YES"/>
+    </entity>
+    <entity name="Feed" representedClassName="Feed" syncable="YES">
+        <attribute name="content" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dateLabel" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="entryId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="link" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="logo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="logoData" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="postDateTime" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="category" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="FeedCategory" inverseName="feed" inverseEntity="FeedCategory" syncable="YES"/>
+        <relationship name="module" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="FeedModule" inverseName="feeds" inverseEntity="FeedModule" syncable="YES"/>
+    </entity>
+    <entity name="FeedCategory" representedClassName="FeedCategory" syncable="YES">
+        <attribute name="moduleName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="feed" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Feed" inverseName="category" inverseEntity="Feed" syncable="YES"/>
+    </entity>
+    <entity name="FeedModule" representedClassName="FeedModule" syncable="YES">
+        <attribute name="hiddenCategories" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="feeds" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Feed" inverseName="module" inverseEntity="Feed" syncable="YES"/>
+    </entity>
+    <entity name="GoBeacon" representedClassName="GoBeaconEntity" syncable="YES">
+        <attribute name="major" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="minor" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="owner" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="triggerDistance" attributeType="String" syncable="YES"/>
+        <attribute name="uuid" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Grade" representedClassName="Grade" syncable="YES">
+        <attribute name="lastUpdated" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="value" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="course" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="GradeCourse" inverseName="grades" inverseEntity="GradeCourse" syncable="YES"/>
+    </entity>
+    <entity name="GradeCourse" representedClassName="GradeCourse" syncable="YES">
+        <attribute name="courseName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="courseSectionNumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sectionId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sectionTitle" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="grades" optional="YES" toMany="YES" deletionRule="Cascade" ordered="YES" destinationEntity="Grade" inverseName="course" inverseEntity="Grade" syncable="YES"/>
+        <relationship name="term" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="GradeTerm" inverseName="courses" inverseEntity="GradeTerm" syncable="YES"/>
+    </entity>
+    <entity name="GradeTerm" representedClassName="GradeTerm" syncable="YES">
+        <attribute name="endDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="startDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="termId" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="courses" optional="YES" toMany="YES" deletionRule="Cascade" ordered="YES" destinationEntity="GradeCourse" inverseName="term" inverseEntity="GradeCourse" syncable="YES"/>
+    </entity>
+    <entity name="ImportantNumbersDirectoryEntry" representedClassName="ImportantNumbersDirectoryEntry" syncable="YES">
+        <attribute name="address" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="buildingId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="campusId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="category" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="moduleName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phoneExtension" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="LaunchBeacon" representedClassName="LaunchBeaconEntity" parentEntity="GoBeacon" syncable="YES">
+        <attribute name="message" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="moduleKey" attributeType="String" syncable="YES"/>
+        <compoundIndexes>
+            <compoundIndex>
+                <index value="moduleKey"/>
+            </compoundIndex>
+        </compoundIndexes>
+    </entity>
+    <entity name="LaunchModule" representedClassName="LaunchModule" syncable="YES">
+        <attribute name="moduleKey" attributeType="String" syncable="YES"/>
+        <attribute name="muteNotification" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES" syncable="YES"/>
+    </entity>
+    <entity name="Map" representedClassName="Map" syncable="YES">
+        <attribute name="moduleName" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="campuses" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="MapCampus" inverseName="map" inverseEntity="MapCampus" syncable="YES"/>
+    </entity>
+    <entity name="MapCampus" representedClassName="MapCampus" syncable="YES">
+        <attribute name="campusId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="centerLatitude" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="centerLongitude" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="spanLatitude" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="spanLongitude" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <relationship name="map" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Map" inverseName="campuses" inverseEntity="Map" syncable="YES"/>
+        <relationship name="points" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="MapPOI" inverseName="campus" inverseEntity="MapPOI" syncable="YES"/>
+    </entity>
+    <entity name="MapPOI" representedClassName="MapPOI" syncable="YES">
+        <attribute name="additionalServices" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="address" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="buildingId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="description_" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imageUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="key" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="moduleInternalKey" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="campus" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="MapCampus" inverseName="points" inverseEntity="MapCampus" syncable="YES"/>
+        <relationship name="types" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="MapPOIType" inverseName="pointsOfInterest" inverseEntity="MapPOIType" syncable="YES"/>
+    </entity>
+    <entity name="MapPOIType" representedClassName="MapPOIType" syncable="YES">
+        <attribute name="moduleInternalKey" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="pointsOfInterest" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="MapPOI" inverseName="types" inverseEntity="MapPOI" syncable="YES"/>
+    </entity>
+    <entity name="Module" representedClassName="Module" syncable="YES">
+        <attribute name="displayInMenu" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="hideBeforeLogin" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="homeScreenOrder" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="iconUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="index" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="internalKey" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="properties" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="ModuleProperty" inverseName="module" inverseEntity="ModuleProperty" syncable="YES"/>
+        <relationship name="roles" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="ModuleRole" inverseName="module" inverseEntity="ModuleRole" syncable="YES"/>
+        <compoundIndexes>
+            <compoundIndex>
+                <index value="internalKey"/>
+            </compoundIndex>
+        </compoundIndexes>
+    </entity>
+    <entity name="ModuleProperty" representedClassName="ModuleProperty" syncable="YES">
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="value" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="module" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Module" inverseName="properties" inverseEntity="Module" syncable="YES"/>
+    </entity>
+    <entity name="ModuleRole" representedClassName="ModuleRole" syncable="YES">
+        <attribute name="role" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="module" optional="YES" minCount="1" maxCount="1" deletionRule="Cascade" destinationEntity="Module" inverseName="roles" inverseEntity="Module" syncable="YES"/>
+    </entity>
+    <entity name="Notification" representedClassName="EllucianNotification" syncable="YES">
+        <attribute name="hyperlink" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="linkLabel" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="noticeDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="notificationDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="notificationId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="read" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="sticky" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="RegistrationAcademicLevel" representedClassName="RegistrationAcademicLevel" syncable="YES">
+        <attribute name="code" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="moduleId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="RegistrationLocation" representedClassName="RegistrationLocation" syncable="YES">
+        <attribute name="code" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="moduleId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="CourseAnnouncement" positionX="0" positionY="0" width="128" height="163"/>
+        <element name="CourseAssignment" positionX="0" positionY="0" width="128" height="178"/>
+        <element name="CourseDetail" positionX="0" positionY="0" width="128" height="270"/>
+        <element name="CourseDetailInstructor" positionX="0" positionY="0" width="128" height="150"/>
+        <element name="CourseEvent" positionX="0" positionY="0" width="128" height="195"/>
+        <element name="CourseMeetingPattern" positionX="0" positionY="0" width="128" height="240"/>
+        <element name="CourseRoster" positionX="0" positionY="0" width="128" height="180"/>
+        <element name="CourseSection" positionX="205" positionY="261" width="128" height="135"/>
+        <element name="CourseTerm" positionX="313" positionY="393" width="128" height="120"/>
+        <element name="DirectoryDefinition" positionX="9" positionY="117" width="128" height="105"/>
+        <element name="Event" positionX="351" positionY="-216" width="128" height="210"/>
+        <element name="EventCategory" positionX="511" positionY="-207" width="128" height="90"/>
+        <element name="EventModule" positionX="511" positionY="-0" width="128" height="90"/>
+        <element name="Feed" positionX="259" positionY="18" width="128" height="195"/>
+        <element name="FeedCategory" positionX="522" positionY="108" width="128" height="90"/>
+        <element name="FeedModule" positionX="511" positionY="288" width="128" height="90"/>
+        <element name="GoBeacon" positionX="-495" positionY="-54" width="128" height="120"/>
+        <element name="Grade" positionX="-252" positionY="543" width="128" height="105"/>
+        <element name="GradeCourse" positionX="-470" positionY="477" width="128" height="135"/>
+        <element name="GradeTerm" positionX="-632" positionY="375" width="128" height="120"/>
+        <element name="ImportantNumbersDirectoryEntry" positionX="-711" positionY="135" width="128" height="210"/>
+        <element name="LaunchBeacon" positionX="-468" positionY="168" width="128" height="75"/>
+        <element name="LaunchModule" positionX="-504" positionY="-63" width="128" height="75"/>
+        <element name="Map" positionX="-353" positionY="375" width="128" height="75"/>
+        <element name="MapCampus" positionX="-108" positionY="222" width="128" height="165"/>
+        <element name="MapPOI" positionX="72" positionY="-63" width="128" height="225"/>
+        <element name="MapPOIType" positionX="79" positionY="-198" width="128" height="90"/>
+        <element name="Module" positionX="-407" positionY="-135" width="128" height="195"/>
+        <element name="ModuleProperty" positionX="-657" positionY="-180" width="128" height="90"/>
+        <element name="ModuleRole" positionX="-657" positionY="-30" width="128" height="75"/>
+        <element name="Notification" positionX="-198" positionY="-198" width="128" height="165"/>
+        <element name="RegistrationAcademicLevel" positionX="-261" positionY="90" width="128" height="88"/>
+        <element name="RegistrationLocation" positionX="-252" positionY="236" width="128" height="88"/>
+    </elements>
+</model>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11185.3" systemVersion="15G31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" colorMatched="YES" initialViewController="Taf-3c-PRF">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11151.4"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Today View Controller-->
+        <scene sceneID="Q8j-f0-BB1">
+            <objects>
+                <tableViewController id="Taf-3c-PRF" customClass="TodayViewController" customModule="Assignments_Today" customModuleProvider="target" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="48" sectionHeaderHeight="22" sectionFooterHeight="22" id="kQH-RH-55D">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <inset key="separatorInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                        <prototypes>
+                            <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="0.0" reuseIdentifier="Assignment Today Cell" id="v43-hK-qY6">
+                                <frame key="frameInset" minY="22" width="375" height="48"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="v43-hK-qY6" id="F30-AI-Frj">
+                                    <frame key="frameInset" width="375" height="47"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                    <subviews>
+                                        <label opaque="NO" userInteractionEnabled="NO" tag="1" contentMode="left" horizontalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rJS-lZ-rCS">
+                                            <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                            <nil key="textColor"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                        <label opaque="NO" userInteractionEnabled="NO" tag="2" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Gdc-Un-WSk">
+                                            <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                                            <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                    </subviews>
+                                    <constraints>
+                                        <constraint firstItem="rJS-lZ-rCS" firstAttribute="leading" secondItem="Gdc-Un-WSk" secondAttribute="leading" id="3av-hV-vnQ"/>
+                                        <constraint firstAttribute="bottomMargin" secondItem="Gdc-Un-WSk" secondAttribute="bottom" id="LcP-Uh-P5g"/>
+                                        <constraint firstItem="rJS-lZ-rCS" firstAttribute="leading" secondItem="F30-AI-Frj" secondAttribute="leadingMargin" id="POf-rQ-rUo"/>
+                                        <constraint firstItem="rJS-lZ-rCS" firstAttribute="top" secondItem="F30-AI-Frj" secondAttribute="topMargin" id="hAm-de-p3k"/>
+                                        <constraint firstAttribute="trailingMargin" relation="greaterThanOrEqual" secondItem="rJS-lZ-rCS" secondAttribute="trailing" id="rPo-Ao-2fQ"/>
+                                        <constraint firstAttribute="trailingMargin" relation="greaterThanOrEqual" secondItem="Gdc-Un-WSk" secondAttribute="trailing" id="v2A-oq-hQT"/>
+                                    </constraints>
+                                </tableViewCellContentView>
+                            </tableViewCell>
+                            <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="0.0" reuseIdentifier="Assignment Today Cell iOS 9" id="iKk-eP-nml">
+                                <frame key="frameInset" minY="70" width="375" height="48"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="iKk-eP-nml" id="c9V-B1-0Eq">
+                                    <frame key="frameInset" width="375" height="47"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                    <subviews>
+                                        <label opaque="NO" userInteractionEnabled="NO" tag="1" contentMode="left" horizontalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JIr-yt-DGg">
+                                            <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                            <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                        <label opaque="NO" userInteractionEnabled="NO" tag="2" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nVU-ri-Ym6">
+                                            <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                                            <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                    </subviews>
+                                    <constraints>
+                                        <constraint firstAttribute="bottomMargin" secondItem="nVU-ri-Ym6" secondAttribute="bottom" id="FVT-o4-GJy"/>
+                                        <constraint firstItem="JIr-yt-DGg" firstAttribute="leading" secondItem="nVU-ri-Ym6" secondAttribute="leading" id="ZGj-HI-Pel"/>
+                                        <constraint firstAttribute="trailingMargin" relation="greaterThanOrEqual" secondItem="JIr-yt-DGg" secondAttribute="trailing" id="dc6-t0-8Mn"/>
+                                        <constraint firstItem="JIr-yt-DGg" firstAttribute="top" secondItem="c9V-B1-0Eq" secondAttribute="topMargin" id="hgf-3C-SqV"/>
+                                        <constraint firstAttribute="trailingMargin" relation="greaterThanOrEqual" secondItem="nVU-ri-Ym6" secondAttribute="trailing" id="icM-34-E0n"/>
+                                        <constraint firstItem="JIr-yt-DGg" firstAttribute="leading" secondItem="c9V-B1-0Eq" secondAttribute="leadingMargin" id="vU9-Pm-lJk"/>
+                                    </constraints>
+                                </tableViewCellContentView>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="Taf-3c-PRF" id="stB-23-m6N"/>
+                            <outlet property="delegate" destination="Taf-3c-PRF" id="5V4-aB-3GQ"/>
+                        </connections>
+                    </tableView>
+                    <connections>
+                        <outlet property="disconnectedFooter" destination="RWu-Yu-rrZ" id="Wu5-AG-bSp"/>
+                        <outlet property="disconnectedFooterIOS9" destination="Epi-Xy-SKo" id="YhO-i2-pSq"/>
+                        <outlet property="noILPFooter" destination="0Ui-qr-cah" id="Qxh-tY-KoF"/>
+                        <outlet property="noILPFooterIOS9" destination="GeD-e5-oms" id="SLJ-Ul-smv"/>
+                        <outlet property="noItemsFooter" destination="Kcs-ze-jUH" id="cjX-Wu-xin"/>
+                        <outlet property="noItemsFooterIOS9" destination="0o6-Uh-Bdi" id="RfU-YJ-TcN"/>
+                    </connections>
+                </tableViewController>
+                <view contentMode="scaleToFill" id="Epi-Xy-SKo" userLabel="Disconnected Footer">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="80"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Not connected. Sign In to refresh data." lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" adjustsLetterSpacingToFitWidth="YES" translatesAutoresizingMaskIntoConstraints="NO" id="eOE-rc-9Bn">
+                            <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Assignments Today Warning" translatesAutoresizingMaskIntoConstraints="NO" id="X6G-Oq-7R3">
+                            <constraints>
+                                <constraint firstAttribute="width" constant="16" id="6aF-Lg-VR4"/>
+                            </constraints>
+                        </imageView>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vZe-7w-9v3">
+                            <color key="backgroundColor" white="1" alpha="0.5" colorSpace="calibratedWhite"/>
+                            <state key="normal" title="Sign In">
+                                <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <userDefinedRuntimeAttributes>
+                                <userDefinedRuntimeAttribute type="boolean" keyPath="layer.masksToBounds" value="YES"/>
+                                <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                    <integer key="value" value="3"/>
+                                </userDefinedRuntimeAttribute>
+                            </userDefinedRuntimeAttributes>
+                            <connections>
+                                <action selector="signIn:" destination="Taf-3c-PRF" eventType="touchUpInside" id="Jdz-yL-rYM"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <constraints>
+                        <constraint firstAttribute="trailingMargin" secondItem="vZe-7w-9v3" secondAttribute="trailing" constant="64" id="1W5-pz-IA1"/>
+                        <constraint firstItem="eOE-rc-9Bn" firstAttribute="top" secondItem="Epi-Xy-SKo" secondAttribute="topMargin" id="37w-iX-RiV"/>
+                        <constraint firstItem="vZe-7w-9v3" firstAttribute="top" secondItem="eOE-rc-9Bn" secondAttribute="bottom" constant="10.5" id="94H-gG-28i"/>
+                        <constraint firstItem="vZe-7w-9v3" firstAttribute="leading" secondItem="Epi-Xy-SKo" secondAttribute="leadingMargin" constant="16" id="Cjf-x6-83v"/>
+                        <constraint firstItem="X6G-Oq-7R3" firstAttribute="leading" secondItem="Epi-Xy-SKo" secondAttribute="leadingMargin" id="HPW-A0-ywi"/>
+                        <constraint firstItem="eOE-rc-9Bn" firstAttribute="leading" secondItem="X6G-Oq-7R3" secondAttribute="trailing" constant="8" id="QDj-Wq-Bet"/>
+                        <constraint firstItem="X6G-Oq-7R3" firstAttribute="centerY" secondItem="eOE-rc-9Bn" secondAttribute="centerY" id="Vd1-i6-owP"/>
+                        <constraint firstAttribute="trailing" secondItem="eOE-rc-9Bn" secondAttribute="trailingMargin" id="l11-OG-dan"/>
+                    </constraints>
+                </view>
+                <view contentMode="scaleToFill" id="GeD-e5-oms" userLabel="No ILP Footer">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Assignments are not available at your institution" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wMP-ea-og0">
+                            <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                            <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <constraints>
+                        <constraint firstItem="wMP-ea-og0" firstAttribute="leading" secondItem="GeD-e5-oms" secondAttribute="leadingMargin" id="Vn5-96-Rqa"/>
+                        <constraint firstAttribute="trailingMargin" relation="greaterThanOrEqual" secondItem="wMP-ea-og0" secondAttribute="trailing" id="Zo5-Or-9au"/>
+                        <constraint firstAttribute="centerY" secondItem="wMP-ea-og0" secondAttribute="centerY" id="lZM-S3-DWS"/>
+                    </constraints>
+                </view>
+                <view contentMode="scaleToFill" id="0o6-Uh-Bdi" userLabel="No Items Footer">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="No assignments due today" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="WBs-Dl-JWU">
+                            <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                            <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <constraints>
+                        <constraint firstItem="WBs-Dl-JWU" firstAttribute="leading" secondItem="0o6-Uh-Bdi" secondAttribute="leadingMargin" id="1De-MD-wQ2"/>
+                        <constraint firstAttribute="centerY" secondItem="WBs-Dl-JWU" secondAttribute="centerY" id="emb-3k-MgY"/>
+                        <constraint firstAttribute="trailingMargin" relation="greaterThanOrEqual" secondItem="WBs-Dl-JWU" secondAttribute="trailing" id="gDV-IE-fn0"/>
+                    </constraints>
+                </view>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="hxz-tR-2Gb" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <view contentMode="scaleToFill" id="RWu-Yu-rrZ" userLabel="Disconnected Footer">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="80"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Not connected. Sign In to refresh data." lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" adjustsLetterSpacingToFitWidth="YES" translatesAutoresizingMaskIntoConstraints="NO" id="dhL-h3-ui2">
+                            <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Assignments Today Warning" translatesAutoresizingMaskIntoConstraints="NO" id="RmG-dr-hmi">
+                            <constraints>
+                                <constraint firstAttribute="width" constant="16" id="SSk-GK-Kbk"/>
+                            </constraints>
+                        </imageView>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Yfy-jt-Jrl">
+                            <color key="backgroundColor" red="1" green="1" blue="1" alpha="0.5" colorSpace="calibratedRGB"/>
+                            <state key="normal" title="Sign In">
+                                <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <userDefinedRuntimeAttributes>
+                                <userDefinedRuntimeAttribute type="boolean" keyPath="layer.masksToBounds" value="YES"/>
+                                <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                    <integer key="value" value="5"/>
+                                </userDefinedRuntimeAttribute>
+                            </userDefinedRuntimeAttributes>
+                            <connections>
+                                <action selector="signIn:" destination="Taf-3c-PRF" eventType="touchUpInside" id="FDb-Qk-pX7"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <constraints>
+                        <constraint firstAttribute="trailingMargin" secondItem="Yfy-jt-Jrl" secondAttribute="trailing" constant="8" id="D5H-4o-2aT"/>
+                        <constraint firstItem="dhL-h3-ui2" firstAttribute="leading" secondItem="RmG-dr-hmi" secondAttribute="trailing" constant="8" id="DVC-e8-FOl"/>
+                        <constraint firstAttribute="trailing" secondItem="dhL-h3-ui2" secondAttribute="trailingMargin" id="EpU-GW-cC2"/>
+                        <constraint firstItem="dhL-h3-ui2" firstAttribute="top" secondItem="RWu-Yu-rrZ" secondAttribute="topMargin" id="JTd-tX-5JS"/>
+                        <constraint firstItem="Yfy-jt-Jrl" firstAttribute="leading" secondItem="RWu-Yu-rrZ" secondAttribute="leadingMargin" constant="8" id="Oyc-nF-Hl6"/>
+                        <constraint firstItem="RmG-dr-hmi" firstAttribute="centerY" secondItem="dhL-h3-ui2" secondAttribute="centerY" id="Sfb-w8-g5h"/>
+                        <constraint firstItem="Yfy-jt-Jrl" firstAttribute="top" secondItem="dhL-h3-ui2" secondAttribute="bottom" constant="10.5" id="Yck-1h-uMT"/>
+                        <constraint firstItem="RmG-dr-hmi" firstAttribute="leading" secondItem="RWu-Yu-rrZ" secondAttribute="leadingMargin" id="dy2-lP-iec"/>
+                    </constraints>
+                </view>
+                <view contentMode="scaleToFill" id="0Ui-qr-cah" userLabel="No ILP Footer">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Assignments are not available at your institution" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ADW-8x-gx5">
+                            <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <constraints>
+                        <constraint firstAttribute="centerY" secondItem="ADW-8x-gx5" secondAttribute="centerY" id="MIg-Rc-ZNN"/>
+                        <constraint firstAttribute="trailingMargin" secondItem="ADW-8x-gx5" secondAttribute="trailingMargin" id="TDn-yM-KkI"/>
+                        <constraint firstItem="ADW-8x-gx5" firstAttribute="leading" secondItem="0Ui-qr-cah" secondAttribute="leadingMargin" id="x92-8F-yvA"/>
+                    </constraints>
+                </view>
+                <view contentMode="scaleToFill" id="Kcs-ze-jUH" userLabel="No Items Footer">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="No assignments due today" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uRQ-qw-o01">
+                            <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <constraints>
+                        <constraint firstItem="uRQ-qw-o01" firstAttribute="leading" secondItem="Kcs-ze-jUH" secondAttribute="leadingMargin" id="dze-7M-qZu"/>
+                        <constraint firstAttribute="centerY" secondItem="uRQ-qw-o01" secondAttribute="centerY" id="nou-j1-uiW"/>
+                        <constraint firstAttribute="trailingMargin" secondItem="uRQ-qw-o01" secondAttribute="trailingMargin" id="vfn-ew-mbF"/>
+                    </constraints>
+                </view>
+            </objects>
+            <point key="canvasLocation" x="152" y="261"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Assignments Today Warning" width="15" height="14"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4_7.fullscreen"/>
+    </simulatedMetricsContainer>
+</document>

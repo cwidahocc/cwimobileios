@@ -1,0 +1,36 @@
+/* Class = "UILabel"; text = "Assignments are not available at your institution"; ObjectID = "ADW-8x-gx5"; */
+"ADW-8x-gx5.text" = "Les devoirs ne sont pas disponibles pour votre établissement";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Gdc-Un-WSk"; */
+"Gdc-Un-WSk.text" = "Libellé";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JIr-yt-DGg"; */
+"JIr-yt-DGg.text" = "Libellé";
+
+/* Class = "UILabel"; text = "No assignments due today"; ObjectID = "WBs-Dl-JWU"; */
+"WBs-Dl-JWU.text" = "Aucun devoir à rendre aujourd'hui";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "Yfy-jt-Jrl"; */
+"Yfy-jt-Jrl.normalTitle" = "Connexion";
+
+/* Class = "UILabel"; text = "Not connected. Sign In to refresh data."; ObjectID = "dhL-h3-ui2"; */
+"dhL-h3-ui2.text" = "Pas de connexion. Connectez-vous pour actualiser les données.";
+
+/* Class = "UILabel"; text = "Not connected. Sign In to refresh data."; ObjectID = "eOE-rc-9Bn"; */
+"eOE-rc-9Bn.text" = "Pas de connexion. Connectez-vous pour actualiser les données.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nVU-ri-Ym6"; */
+"nVU-ri-Ym6.text" = "Libellé";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rJS-lZ-rCS"; */
+"rJS-lZ-rCS.text" = "Libellé";
+
+/* Class = "UILabel"; text = "No assignments due today"; ObjectID = "uRQ-qw-o01"; */
+"uRQ-qw-o01.text" = "Aucun devoir à rendre aujourd'hui";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "vZe-7w-9v3"; */
+"vZe-7w-9v3.normalTitle" = "Connexion";
+
+/* Class = "UILabel"; text = "Assignments are not available at your institution"; ObjectID = "wMP-ea-og0"; */
+"wMP-ea-og0.text" = "Les devoirs ne sont pas disponibles pour votre établissement";
+

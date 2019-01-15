@@ -1,0 +1,63 @@
+/* %d days ago */
+"%d days ago" = "%d dias atrás";
+
+/* %d hours ago */
+"%d hours ago" = "%d horas atrás";
+
+/* %d minutes ago */
+"%d minutes ago" = "%d minutos atrás";
+
+/* %d months ago */
+"%d months ago" = "%d meses atrás";
+
+/* %d seconds ago */
+"%d seconds ago" = "%d segundos atrás";
+
+/* %d weeks ago */
+"%d weeks ago" = "%d semanas atrás";
+
+/* %d years ago */
+"%d years ago" = "%d anos atrás";
+
+/* {value}d for days */
+"%dd" = "%dd";
+
+/* {value}h for hours */
+"%dh" = "%dh";
+
+/* {value}m for minutes */
+"%dm" = "%dm";
+
+/* {value}m for months */
+"%dmo" = "%dmo";
+
+/* {value}s for seconds */
+"%ds" = "%ds";
+
+/* {value}w for weeks */
+"%dw" = "%dw";
+
+/* {value}y for years */
+"%dyr" = "%dyr";
+
+/* A minute ago */
+"A minute ago" = "Um minuto atrás";
+
+/* An hour ago */
+"An hour ago" = "Uma hora atrás";
+
+/* Just now */
+"Just now" = "Neste momento";
+
+/* Last Year */
+"Last Year" = "Ano passado";
+
+/* Last month */
+"Last month" = "Mês passado";
+
+/* Last week */
+"Last week" = "Semana passada";
+
+/* Yesterday */
+"Yesterday" = "Ontem";
+

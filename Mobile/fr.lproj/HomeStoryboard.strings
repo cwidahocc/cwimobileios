@@ -1,0 +1,57 @@
+/* Class = "UILabel"; text = "Label"; ObjectID = "1Or-gR-gpv"; */
+"1Or-gR-gpv.text" = "Libellé";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "54o-18-HsO"; */
+"54o-18-HsO.text" = "Libellé";
+
+/* Class = "UILabel"; text = "99"; ObjectID = "Bgt-sF-b3T"; */
+"Bgt-sF-b3T.text" = "99";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CSp-zB-MR5"; */
+"CSp-zB-MR5.text" = "Libellé";
+
+/* Class = "UIImageView"; accessibilityLabel = "Lock"; ObjectID = "IMl-Rd-cBt"; */
+"IMl-Rd-cBt.accessibilityLabel" = "Verrouiller";
+
+/* Class = "UILabel"; text = "99"; ObjectID = "NwT-KJ-cb2"; */
+"NwT-KJ-cb2.text" = "99";
+
+/* Class = "UIImageView"; accessibilityLabel = "Lock"; ObjectID = "OG9-I3-mwE"; */
+"OG9-I3-mwE.accessibilityLabel" = "Verrouiller";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PEq-Hn-ysU"; */
+"PEq-Hn-ysU.text" = "Libellé";
+
+/* Class = "UILabel"; text = "99"; ObjectID = "Shr-a1-EIg"; */
+"Shr-a1-EIg.text" = "99";
+
+/* Class = "UIImageView"; accessibilityLabel = "Lock"; ObjectID = "W01-5c-Hf4"; */
+"W01-5c-Hf4.accessibilityLabel" = "Verrouiller";
+
+/* Class = "UIImageView"; accessibilityLabel = "Lock"; ObjectID = "cG3-hs-BNf"; */
+"cG3-hs-BNf.accessibilityLabel" = "Verrouiller";
+
+/* Class = "UILabel"; text = "99"; ObjectID = "fP2-l6-Lw8"; */
+"fP2-l6-Lw8.text" = "99";
+
+/* Class = "UIImageView"; accessibilityLabel = "Lock"; ObjectID = "fxG-nU-X6N"; */
+"fxG-nU-X6N.accessibilityLabel" = "Verrouiller";
+
+/* Class = "UILabel"; text = "99"; ObjectID = "hl6-xu-vYI"; */
+"hl6-xu-vYI.text" = "99";
+
+/* Class = "UILabel"; text = "99"; ObjectID = "ims-4V-J4g"; */
+"ims-4V-J4g.text" = "99";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mwe-ZW-OfW"; */
+"mwe-ZW-OfW.text" = "Libellé";
+
+/* Class = "UILabel"; text = "Loading configuration.  Please wait..."; ObjectID = "nbl-jr-rw5"; */
+"nbl-jr-rw5.text" = "Chargement de la configuration. Veuillez patienter...";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pMU-AM-cM4"; */
+"pMU-AM-cM4.text" = "Libellé";
+
+/* Class = "UIImageView"; accessibilityLabel = "Lock"; ObjectID = "sQm-aE-UNG"; */
+"sQm-aE-UNG.accessibilityLabel" = "Verrouiller";
+

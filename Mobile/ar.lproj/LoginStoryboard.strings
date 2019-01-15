@@ -1,0 +1,42 @@
+/* Class = "UILabel"; text = "Use fingerprint to unlock"; ObjectID = "2hl-z9-Z9I"; */
+"2hl-z9-Z9I.text" = "استخدم البيانات الحيوية لإزالة القفل";
+
+/* Class = "UISwitch"; accessibilityLabel = "Use fingerprint to unlock"; ObjectID = "N4H-yE-iCk"; */
+"N4H-yE-iCk.accessibilityLabel" = "استخدم البيانات الحيوية لإزالة القفل";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "SaI-s3-PvD"; */
+"SaI-s3-PvD.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UILabel"; text = "Use fingerprint to unlock"; ObjectID = "TCG-SB-18W"; */
+"TCG-SB-18W.text" = "استخدم البيانات الحيوية لإزالة القفل";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "cb7-zo-SNF"; */
+"cb7-zo-SNF.placeholder" = "كلمة المرور";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "dBE-Te-rAK"; */
+"dBE-Te-rAK.normalTitle" = "إلغاء";
+
+/* Class = "UITextField"; placeholder = "User Name"; ObjectID = "deE-wm-pJ1"; */
+"deE-wm-pJ1.placeholder" = "اسم المستخدم";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lTf-2H-GuK"; */
+"lTf-2H-GuK.normalTitle" = "زر";
+
+/* Class = "UINavigationItem"; title = "Sign In"; ObjectID = "rQD-yx-JzM"; */
+"rQD-yx-JzM.title" = "تسجيل الدخول";
+
+/* Class = "UITextView"; text = "Please contact your institution’s IT staff for assistance with login."; ObjectID = "rjC-kC-UYk"; */
+"rjC-kC-UYk.text" = "يرجى التواصل مع قسم تقنية المعلومات في جامعتك للمساعدة في تسجيل الدخول.";
+
+/* Class = "UILabel"; text = "Stay signed in"; ObjectID = "rqP-WS-xnh"; */
+"rqP-WS-xnh.text" = "الإبقاء متصلا";
+
+/* Class = "UILabel"; text = "Device passcode is required to stay signed in"; ObjectID = "sm7-yB-Dor"; */
+"sm7-yB-Dor.text" = "مطلوب رمز الدخول للجهاز للبقاء متصلا";
+
+/* Class = "UISwitch"; accessibilityLabel = "Stay signed in"; ObjectID = "t3D-1t-4pB"; */
+"t3D-1t-4pB.accessibilityLabel" = "الإبقاء متصلا";
+
+/* Class = "UINavigationItem"; title = "Sign In"; ObjectID = "zgo-mK-goA"; */
+"zgo-mK-goA.title" = "تسجيل الدخول";
+

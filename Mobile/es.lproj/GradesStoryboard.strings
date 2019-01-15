@@ -1,0 +1,36 @@
+/* Class = "UILabel"; text = "Label"; ObjectID = "4Av-6h-Rtv"; */
+"4Av-6h-Rtv.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "No Grades Recorded"; ObjectID = "4UF-PC-Ico"; */
+"4UF-PC-Ico.text" = "No hay calificaciones registradas";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6ad-JB-HWi"; */
+"6ad-JB-HWi.text" = "Etiqueta";
+
+/* Class = "UIBarButtonItem"; title = "Terms"; ObjectID = "7dp-kM-hAU"; */
+"7dp-kM-hAU.title" = "Periodos";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CVH-ev-TDj"; */
+"CVH-ev-TDj.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Kgt-PK-TAd"; */
+"Kgt-PK-TAd.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "No Grades Recorded"; ObjectID = "KqY-iF-mie"; */
+"KqY-iF-mie.text" = "No hay calificaciones registradas";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "Qk7-HK-Uqh"; */
+"Qk7-HK-Uqh.title" = "Controlador de la vista principal";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Xdn-pe-AJg"; */
+"Xdn-pe-AJg.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nnO-LO-vWg"; */
+"nnO-LO-vWg.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wxe-vn-Hgb"; */
+"wxe-vn-Hgb.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zMU-BZ-jZT"; */
+"zMU-BZ-jZT.text" = "Etiqueta";
+

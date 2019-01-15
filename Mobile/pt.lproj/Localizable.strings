@@ -1,0 +1,597 @@
+/* divider CEUs label for registration */
+" | %@ CEUs" = " | %@ UECs";
+
+/* | ceus and CEUs label and grading type for registration */
+" | %@ CEUs %@" = " | %1$@ UECs %2$@";
+
+/* divider Credits label for registration */
+" | %@ Credits" = " | %@ Créditos";
+
+/* | credits and Credits label and grading type for registration */
+" | %@ Credits %@" = " | %1$@ Créditos %2$@";
+
+/* event start - end */
+"%@ - %@" = "%1$@ - %2$@";
+
+/* CEU (singular) label for registration */
+"%@ CEU" = "%@ UEC";
+
+/* CEUs label for registration */
+"%@ CEUs" = "%@ UECs";
+
+/* ceus and CEUs label and grading type for registration */
+"%@ CEUs %@" = "%1$@ UECs %2$@";
+
+/* Credits label for registration */
+"%@ Credits" = "%@ Créditos";
+
+/* credits and Credits label and grading type for registration */
+"%@ Credits %@" = "%1$@ Créditos %2$@";
+
+/* phone number with phone extension */
+"%@ ext. %@" = "%1$@ ramal %2$@";
+
+/* label for all day event */
+"%@, All Day" = "%@, o dia todo";
+
+/* label - building name, room number */
+"%@, Room %@" = "%1$@, sala %2$@";
+
+/* item already in cart error */
+"%@-%@ failed to add to cart. Section is already registered or exists in the cart." = "%1$@-%2$@ falhou ao adicionar no carrinho. Esta disciplina já está no carrinho ou você já se matriculou nela.";
+
+/* Outdated alert message */
+"A new version is available." = "Uma nova versão está disponível.";
+
+/* About menu item */
+"About" = "Sobre";
+
+/* Academic Levels label for registration filter */
+"Academic Levels" = "Níveis acadêmicos";
+
+/* access denied error message */
+"Access Denied" = "Acesso negado";
+
+/* Actions menu heading */
+"Actions" = "Ações";
+
+/* Add To Cart button */
+"Add To Cart" = "Adicionar ao carrinho";
+
+/* label for add to cart button in registration search */
+"Add To Cart (%d)" = "Adicionar ao carrinho (%d)";
+
+/* label for all day event */
+"All Day" = "Todo o dia";
+
+/* ILP View: Announcements Card Title */
+"Announcements" = "Comunicados";
+
+/* Applications menu heading */
+"Applications" = "Aplicativos";
+
+/* ILP View: Assignments Card Title */
+"Assignments" = "Tarefas";
+
+/* Audit label for registration */
+"Audit" = "Aluno ouvinte";
+
+/* Authorization Code Heading
+   Authorization Code placeholder text */
+"Authorization Code" = "Código de autorização";
+
+/* Message to encourage them to turn on bluetooth */
+"Bluetooth is used at your institution to alert you when you are near location specific information or services. Please enable Bluetooth in your device settings." = "O Bluetooth será usado em sua instituição para alertar você quando estiver próximo a um local com informações específicas ou serviços. Ative o Bluetooth nas configurações do seu dispositivo móvel. ";
+
+/* CEU (singular) label for registration */
+"CEU" = "UEC";
+
+/* CEUs label for registration */
+"CEUs" = "UECs";
+
+/* Calendar app name */
+"Calendar" = "Calendário";
+
+/* Cancel
+   Cancel action */
+"Cancel" = "Cancelar";
+
+/* checking registration eligibility message */
+"Checking Eligibility" = "Verificando a elegibilidade";
+
+/* Close */
+"Close" = "Fechar";
+
+/* VoiceOver hint for button that collapses a text description */
+"Collapses description." = "Descrição de recolha.";
+
+/* Watch communication to phone error title */
+"Communication Error" = "Erro de comunicação";
+
+/* Confirm biometrics to continue */
+"Confirm biometrics to continue" = "Confirme a identificação biométrica para continuar";
+
+/* VoiceOver label for button that displays course details */
+"Course detail" = "Detalhes da disciplina";
+
+/* message for add to cart alert */
+"Course(s) added to cart." = "As disciplinas foram adicionadas no carrinho.";
+
+/* Credits label for registration */
+"Credits" = "Créditos";
+
+/* message for heading of messages during registration */
+"Critical" = "Crítico";
+
+/* assignment due today indicator for ilp module
+   due today assignment indicator for ilp module */
+"DUE TODAY" = "VENCE HOJE";
+
+/* No comment provided by engineer. */
+"Data could not be reached" = "Não foi possível obter os dados.";
+
+/* message when data cannot load due to a poor netwrok connection */
+"Data could not be retrieved." = "Não foi possível recuperar os dados";
+
+/* Delete button */
+"Delete" = "Excluir";
+
+/* Dismiss label */
+"Dismiss" = "Ignorar";
+
+/* VoiceOver hint for button that displays a course's details */
+"Displays course detail." = "Exibe detalhes da disciplina.";
+
+/* VoiceOver hint for button that locates the user on a map */
+"Displays current location." = "Exibe a localização atual.";
+
+/* Registration Drop button */
+"Drop" = "Trancar";
+
+/* label for drop button in registered list */
+"Drop (%d)" = "Trancar (%d)";
+
+/* message for heading of successful dropped classes */
+"Dropped Successfully!" = "Trancamento realizado com sucesso!";
+
+/* loading message while waiting for dropping */
+"Dropping" = "Trancamento";
+
+/* due date label with date */
+"Due: %@" = "Vencido: %@";
+
+/* no due date for assignment */
+"Due: None assigned" = "Vencido: não há tarefas";
+
+/* Ellucian */
+"Ellucian" = "Ellucian";
+
+/* Ellucian privacy policy label */
+"Ellucian Privacy" = "Política de privacidade da Ellucian";
+
+/* text for variable credits prompt with two options */
+"Enter course credit value %@ or %@" = "Digite o valor do crédito da disciplina %1$@ ou %2$@";
+
+/* text for variable credits prompt */
+"Enter course credit value between %@ and %@" = "Digite o valor do crédito da disciplina entre %1$@ e %2$@";
+
+/* text for variable credits with credit increment prompt */
+"Enter course credit value between %@ and %@ in increments of %@" = "Digite o valor do crédito da disciplina entre %1$@ e %2$@ com incrementos de %3$@";
+
+/* PIN label for registration */
+"Enter the registration PIN" = "Digite a senha da matrícula";
+
+/* Enter your authorization code message */
+"Enter your authorization code." = "Digite seu código de autorização.";
+
+/* Error */
+"Error" = "Erro";
+
+/* title when error loading audio */
+"Error Loading Audio" = "Erro ao carregar o áudio";
+
+/* title when error loading webpage */
+"Error Loading Page" = "Erro ao carregar a página";
+
+/* title when error loading video */
+"Error Loading Video" = "Erro ao carregar o vídeo";
+
+/* heading for event detail page */
+"Event Detail" = "Detalhes do evento";
+
+/* ILP View: Events Card Title */
+"Events" = "Eventos";
+
+/* VoiceOver hint for button that expands a text description */
+"Expands description." = "Expandir a descrição.";
+
+/* Faculty label
+   title for faculty no match */
+"Faculty" = "Docente";
+
+/* facilty/staff search scope in directory */
+"Faculty/Staff" = "Docentes/Funcionários";
+
+/* Fetching saved course sections message */
+"Fetching saved course sections" = "Buscando turmas com disciplinas salvas";
+
+/* User can get directions for this location */
+"Get Directions" = "Como chegar";
+
+/* Graded label for registration */
+"Graded" = "Com nota";
+
+/* Home menu item */
+"Home" = "Home";
+
+/* Ineligible for Registration */
+"Ineligible for Registration" = "Matrícula não autorizada";
+
+/* Install App title */
+"Install App" = "Instalar app";
+
+/* Last Updated date */
+"Last Updated %@" = "Última atualização %@";
+
+/* Last Updated date unknown */
+"Last Updated Unknown" = "Última atualização desconhecida";
+
+/* loading message while fetching recent transactions
+   loading message while waiting for data to load */
+"Loading" = "Carregando";
+
+/* VoiceOver label for button that locates the user on a map */
+"Locate" = "Localização";
+
+/* Location Access Disabled */
+"Location Access Disabled" = "Acesso à localização desativado";
+
+/* Description shown to user if location access disabled.  The text in quotes is the label used by iOS. Arabic=دائما Spanish=Siempre French=Tourjous Portuguese=Sempre
+   Message to encourage them to turn on Location Access to Always. The text in quotes is the label used by iOS. Arabic=دائما Spanish=Siempre French=Tourjous Portuguese=Sempre */
+"Location services are used at your institution to alert you when you are near location specific information or services. Please allow location access \"Always\" in your device settings." = "Os serviços de localização são usados em sua instituição para alertar que você está próximo a um local com informações específicas ou serviços. Ajuste para \"Sempre\" o acesso à localização nas configurações do seu dispositivo móvel. ";
+
+/* Locations label for registration filter */
+"Locations" = "Localizações";
+
+/* Accessibility menu label */
+"Menu" = "Menu";
+
+/* Message in directory suggesting to sign in for more information */
+"More contact information may be displayed if you are signed in." = "Se você estiver logado, mais contatos serão exibidos.";
+
+/* Mute For Today button label
+   Mute For Today label */
+"Mute For Today" = "Silenciar eventos para hoje";
+
+/* Mute Forever label */
+"Mute Forever" = "Silenciar sempre";
+
+/* new notification has arrived */
+"New Notification" = "Nova notificação";
+
+/* no course announcements recorded message */
+"No Announcements Recorded" = "Não há comunicados registrados";
+
+/* no assignments recorded message */
+"No Assignments Recorded" = "Não há tarefas registradas";
+
+/* generic message for no data present */
+"No Data" = "Dados inexistentes";
+
+/* no events recorded message */
+"No Events Recorded" = "Não há eventos registrados";
+
+/* no announcements for today message */
+"No announcements for today" = "Não há comunicados para hoje";
+
+/* no assignments due today message */
+"No assignments due today" = "Não há tarefas vencendo hoje";
+
+/* no events scheduled for today message */
+"No events scheduled for today" = "Não há eventos programados para hoje";
+
+/* message when there is no information to show the user about a building they selected */
+"No information available for this building." = "Não há informações disponíveis para este prédio.";
+
+/* No registered classes for open terms message */
+"No registered classes for open terms." = "Não há turmas matriculadas no período aberto.";
+
+/* no date for announcement */
+"None announcement date available" = "Não há nenhuma data disponível para comunicados";
+
+/* OK
+   OK action
+   OK button on alert view */
+"OK" = "OK";
+
+/* overdue assignment indicator for ilp module */
+"OVERDUE" = "VENCIDO";
+
+/* label to open link in Safari */
+"Open in Safari" = "Abrir no Safari";
+
+/* Outdated alert title */
+"Outdated" = "Desatualizado";
+
+/* PIN label for registration */
+"PIN" = "Senha";
+
+/* PassFail label for registration */
+"Pass/Fail" = "Aprovado/Reprovado";
+
+/* Password */
+"Password" = "Senha";
+
+/* Permission not granted title */
+"Permission not granted" = "Permissão não concedida";
+
+/* Person was not found */
+"Person was not found" = "A pessoa não foi encontrada";
+
+/* VoiceOver hint for button that plays a video */
+"Plays the video." = "Inicia o vídeo.";
+
+/* Watch communication to phone error message */
+"Please ensure the phone is nearby and launch" = "Coloque o iPhone próximo e baixe";
+
+/* Watch communication to phone error message */
+"Please ensure the phone is nearby and launch %@ on the phone" = "Coloque o iPhone próximo e baixe %@ no Apple Watch";
+
+/* title when data cannot load due to a poor netwrok connection */
+"Poor Network Connection" = "Conexão de rede insatisfatória";
+
+/* Table section header RECENT PAYMENTS */
+"RECENT PAYMENTS" = "PAGAMENTOS RECENTES";
+
+/* Register button */
+"Register" = "Matricular-se";
+
+/* label for register button in cart */
+"Register (%d)" = "Matricular-se (%d)";
+
+/* message for heading of successful registered classes */
+"Registered!" = "Matriculado!";
+
+/* loading message while waiting for registration */
+"Registering" = "Matriculando...";
+
+/* message for add to cart title */
+"Registration" = "Matrícula";
+
+/* empty registration cart message */
+"Registration Cart Empty" = "Carrinho de matrícula vazio";
+
+/* title of reminder list alert picker */
+"Reminder List" = "Lista de lembretes";
+
+/* Reminder setting title */
+"Reminder Type" = "Tipo de lembrete";
+
+/* Reminders app name */
+"Reminders" = "Lembretes";
+
+/* Remove button */
+"Remove" = "Remover";
+
+/* loading message while fetching terms to use for search */
+"Retrieving terms" = "Recuperando períodos";
+
+/* label - room number */
+"Room %@" = "Sala %@";
+
+/* title for roster no match */
+"Roster" = "Lista de presença";
+
+/* empty Search Results message */
+"Search Results Empty" = "A busca não encontrou nenhum resultado.";
+
+/* Placeholder text in search bar for switch schools */
+"Search Schools" = "Buscar instituições";
+
+/* searching message */
+"Searching" = "Buscando";
+
+/* title of action sheet for user to select which campus to see on the map */
+"Select Campus" = "Selecionar o campus";
+
+/* Title of the action sheet to select a reminder list to save the reminder */
+"Select the name of the reminder list to use." = "Selecione o nome da lista de lembretes para ser usado.";
+
+/* VoiceOver hint for button that selects a school */
+"Selects a school." = "Seleciona uma instituição.";
+
+/* VoiceOver hint for button that selects a term */
+"Selects a term." = "Seleciona um período.";
+
+/* VoiceOver hint for button that selects a course to add to the cart */
+"Selects course to add to cart." = "Seleciona a disciplina para adicionar ao carrinho.";
+
+/* VoiceOver hint for button that selects a course to drop */
+"Selects course to drop." = "Seleciona a disciplina para trancamento.";
+
+/* Settings application name. This is part of iOS.  Apple translates this to be Arabic = الإعدادات Spanish/Portuguese=Ajustes French=Réglages
+   Settings menu item */
+"Settings" = "Ajustes";
+
+/* label to sign in
+   Sign In menu item */
+"Sign In" = "Entrar";
+
+/* title for failed sign in */
+"Sign In Failed" = "Falha na autenticação";
+
+/* Sign Out menu item */
+"Sign Out" = "Sair";
+
+/* student search scope in directory */
+"Students" = "Alunos";
+
+/* Switch school menu item */
+"Switch School" = "Alterar a instituição";
+
+/* Force update alert message */
+"The application must be upgraded to the latest version." = "O aplicativo deve ser atualizado para a versão mais recente.";
+
+/* message for failed sign in */
+"The password or user name you entered is incorrect. Please try again." = "A senha ou nome de usuário digitados estão incorretos. Tente novamente.";
+
+/* Targeted app not installed alert message */
+"There are no installed applications available to respond to this request." = "Não há aplicativos instalados e disponíveis para responder esta solicitação.";
+
+/* configurations cannot be downloaded */
+"There are no institutions to display at this time." = "Não há instituições para exibição neste momento.";
+
+/* second message for heading of failed drop classes */
+"These issues may have prevented drop." = "Os itens abaixo não permitem o trancamento.";
+
+/* second message for heading of failed registered classes */
+"These issues may have prevented registration." = "Os itens abaixo não permitem a matrícula.";
+
+/* Unsupported feature alert message */
+"This application is not available on iOS." = "Este aplicativo não está disponível no iOS.";
+
+/* Accessibility label for toggle menu section button */
+"Toggle menu section" = "Alternar entre a seção do menu";
+
+/* unable to access contacts alert view title */
+"Unable to access contacts" = "Não é possível acessar os contatos";
+
+/* unable to access contacts alert view message. Settings application is part of iOS.  Apple translates this to be Arabic = الإعدادات Spanish/Portuguese=Ajustes French=Réglages */
+"Unable to access contacts. Go to Settings to grant permission to Ellucian GO" = "Não é possível acessar os contatos. Vá em Ajustes para permitir o acesso ao Ellucian GO";
+
+/* unable to download configuration message */
+"Unable to download the configuration from that link" = "Não é possível baixar a configuração a partir deste link";
+
+/* unable to download configuration title */
+"Unable to launch configuration" = "Não é possível iniciar a configuração";
+
+/* Unavailable Application alert title */
+"Unavailable Application" = "Aplicativo não disponível";
+
+/* error message when address cannot be used for getting directions */
+"Unknown address" = "Endereço desconhecido";
+
+/* Unsupported alert title */
+"Unsupported" = "Sem suporte ";
+
+/* Upgrade software button label */
+"Upgrade" = "Atualizar";
+
+/* User Name */
+"User Name" = "Nome de usuário";
+
+/* view label
+   View label */
+"View" = "Visualizar";
+
+/* second message for heading of failed drop classes */
+"We couldn't drop these courses:" = "Não foi possível trancar estas disciplinas:";
+
+/* second message for heading of failed registered classes */
+"We couldn't register these courses:" = "Não foi possível se matricular nestas disciplinas:";
+
+/* message for heading of failed registered classes */
+"We're sorry." = "Desculpe!";
+
+/* WebView loading error (description failure) */
+"WebView loading error" = "%1$@ %2$@";
+
+/* Reminder setting message */
+"What application would you like to use for reminders?" = "Qual aplicativo você gostaria de usar como lembrete?";
+
+/* message to user when network is not present */
+"You are unable to connect to retrieve information. The Internet connection seems to be down." = "Não foi possível se conectar para recuperar a informação. Você perdeu a conexão com a internet.";
+
+/* permission access error message */
+"You do not have permission to use this feature." = "Você não tem permissão para usar este recurso.";
+
+/* You do not have the required app. Would you like to install it? message */
+"You do not have the required app. Would you like to install it?" = "Você não tem o app necessário. Gostaria de instalar?";
+
+/* Permission not granted message
+   Permission not granted message. Settings application is part of iOS.  Apple translates this to be Arabic = الإعدادات Spanish/Portuguese=Ajustes French=Réglages
+   Permission not granted message. Settings is part of iOS.  Apple translates this to be Arabic = الإعدادات Spanish/Portuguese=Ajustes French=Réglages
+   Permission not granted message. Settings is the name of an app that is part of iOS. Apple translates this to be Arabic = الإعدادات Spanish/Portuguese=Ajustes French=Réglages */
+"You must give permission in Settings to allow access" = "Para permitir o acesso vá em Ajustes para autorizar.";
+
+/* available seats/capacity */
+"available seats/capacity" = "%1$@/%2$@";
+
+/* building name/address */
+"building name/address" = "%1$@/%2$@";
+
+/* course calendar course name-course section - title */
+"course calendar course name-course section - title" = "%1$@-%2$@ - %3$@";
+
+/* course days: start time - end */
+"course days: start time - end" = "%1$@: %2$@ - %3$@";
+
+/* course event start - end date */
+"course event start - end date" = "%1$@ - %2$@";
+
+/* course first meeting - last meeting */
+"course first meeting - last meeting" = "%1$@ - %2$@";
+
+/* course name-section number */
+"course name-section number" = "%1$@-%2$@";
+
+/* day of week date */
+"day of week date" = "%1$@ %2$@";
+
+/* days start - end */
+"days start - end" = "%1$@ %2$@ - %3$@";
+
+/* days start - end method */
+"days start - end method" = "%1$@ %2$@ - %3$@ %4$@";
+
+/* days startdate - enddate starttime - endtime */
+"days startdate - enddate starttime - endtime" = "%1$@ %2$@ - %3$@ %4$@ - %5$@";
+
+/* days startdate - enddate starttime - endtime method */
+"days startdate - enddate starttime - endtime method" = "%1$@ %2$@ - %3$@ %4$@ - %5$@ %6$@";
+
+/* days startdate starttime - endtime */
+"days startdate starttime - endtime" = "%1$@ %2$@ %3$@ - %4$@";
+
+/* days startdate starttime - endtime method */
+"days startdate starttime - endtime method" = "%1$@ %2$@ %3$@ - %4$@ %5$@";
+
+/* days: */
+"days:" = "%@: ";
+
+/* phone extension */
+"ext. %@" = "ramal %@";
+
+/* faculty last name, first initial */
+"faculty last name, first initial" = "%1$@, %2$@";
+
+/* registration divider min or max Credits */
+"registration divider min or max Credits" = " | %1$@/%2$@ Créditos";
+
+/* registration divider min to max Credits */
+"registration divider min to max Credits" = " | %1$@-%2$@ Créditos";
+
+/* registration min or max Credits */
+"registration min or max Credits" = "| %1$@/%2$@ Créditos";
+
+/* registration min to max Credits */
+"registration min to max Credits" = "| %1$@-%2$@ Créditos";
+
+/* registration planned section detail variable credits (or) */
+"registration planned section detail variable credits (or)" = "%1$@ / %2$@";
+
+/* registration planned section detail variable credits (to) */
+"registration planned section detail variable credits (to)" = "%1$@ - %2$@";
+
+/* registration search results instructional method */
+"registration search results instructional method" = " | %@";
+
+/* registration search results meeting pattern */
+"registration search results meeting pattern" = "%@";
+
+/* Audit label for registration */
+"| Audit" = "| Aluno ouvinte";
+
+/* PassFail abbrev label for registration cart */
+"| P/F" = "| A/R";
+

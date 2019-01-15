@@ -1,0 +1,9 @@
+/* Class = "UILabel"; text = "Label"; ObjectID = "L7h-n2-6Ux"; */
+"L7h-n2-6Ux.text" = "Etiqueta";
+
+/* Class = "UIImageView"; accessibilityLabel = "Play"; ObjectID = "og9-da-mqn"; */
+"og9-da-mqn.accessibilityLabel" = "Reproducir";
+
+/* Class = "UISlider"; accessibilityLabel = "Media time elapsed"; ObjectID = "r2e-lw-BLO"; */
+"r2e-lw-BLO.accessibilityLabel" = "Tiempo transcurrido";
+

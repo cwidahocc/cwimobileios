@@ -1,0 +1,36 @@
+/* About menu item */
+"About" = "عن التطبيق";
+
+/* Watch communication to phone error title */
+"Communication Error" = "خطأ اتصال";
+
+/* due date label with date */
+"Due: %@" = "المستحق: %@";
+
+/* Not Interested label */
+"Not Interested" = "لست مهتماً";
+
+/* OK button on alert view */
+"OK" = "موافق";
+
+/* Watch communication to phone error message */
+"Please ensure the phone is nearby and launch" = "يرجى التأكد أن الهاتف قريب ثم أطلق";
+
+/* Watch communication to phone error message */
+"Please ensure the phone is nearby and launch %@ on the phone" = "يرجى التأكد أن الهاتف قريب ثم أطلق %@ على الهاتف";
+
+/* Handoff message */
+"Please use Handoff to complete to view the content" = "يرجى استخدام Handoff لإتمام عرض المحتوى";
+
+/* View label */
+"View" = "عرض";
+
+/* View on phone */
+"View  on phone" = "العرض في الهاتف";
+
+/* course days: start time - end */
+"course days: start time - end" = "%1$@: %2$@ - %3$@";
+
+/* faculty last name, first initial */
+"faculty last name, first initial" = "%1$@، %2$@";
+

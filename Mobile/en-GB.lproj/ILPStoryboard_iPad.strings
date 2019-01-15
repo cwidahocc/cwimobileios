@@ -1,0 +1,153 @@
+/* Class = "UILabel"; text = "Label"; ObjectID = "1AR-c7-6vB"; */
+"1AR-c7-6vB.text" = "Label";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "1vS-Rb-mEe"; */
+"1vS-Rb-mEe.text" = "Detail";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2o7-vV-Jg4"; */
+"2o7-vV-Jg4.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3TR-0j-Al6"; */
+"3TR-0j-Al6.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4Qc-Uz-gjV"; */
+"4Qc-Uz-gjV.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4wS-F7-tFF"; */
+"4wS-F7-tFF.text" = "Label";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "7xc-0K-Gxl"; */
+"7xc-0K-Gxl.text" = "Title";
+
+/* Class = "UILabel"; text = "Announcements"; ObjectID = "8Qe-cb-zTQ"; */
+"8Qe-cb-zTQ.text" = "Announcements";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9il-vT-O51"; */
+"9il-vT-O51.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "47O-2Q-9Fi"; */
+"47O-2Q-9Fi.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AiV-U2-biX"; */
+"AiV-U2-biX.text" = "Label";
+
+/* Class = "UILabel"; text = "Remind me on a day"; ObjectID = "BK6-5I-RNl"; */
+"BK6-5I-RNl.text" = "Remind me on a day";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CNt-MY-JvR"; */
+"CNt-MY-JvR.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "D5f-ve-ddG"; */
+"D5f-ve-ddG.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "D7H-uw-xDM"; */
+"D7H-uw-xDM.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Assignments"; ObjectID = "DgV-Dz-OJt"; */
+"DgV-Dz-OJt.title" = "Assignments";
+
+/* Class = "UILabel"; text = "End Date:"; ObjectID = "FCg-hg-gKr"; */
+"FCg-hg-gKr.text" = "End Date:";
+
+/* Class = "UISegmentedControl"; I1z-Dw-zkY.segmentTitles[0] = "By Due Date"; ObjectID = "I1z-Dw-zkY"; */
+"I1z-Dw-zkY.segmentTitles[0]" = "By Due Date";
+
+/* Class = "UISegmentedControl"; I1z-Dw-zkY.segmentTitles[1] = "No Due Date"; ObjectID = "I1z-Dw-zkY"; */
+"I1z-Dw-zkY.segmentTitles[1]" = "No Due Date";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Jij-PU-iCj"; */
+"Jij-PU-iCj.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KgY-dZ-hQ1"; */
+"KgY-dZ-hQ1.text" = "Label";
+
+/* Class = "UILabel"; text = "Today's Assignments"; ObjectID = "Kgc-o5-Bfi"; */
+"Kgc-o5-Bfi.text" = "Today's Assignments";
+
+/* Class = "UILabel"; text = "Alarm"; ObjectID = "MGn-5E-DdI"; */
+"MGn-5E-DdI.text" = "Alarm";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NP7-Hv-WGO"; */
+"NP7-Hv-WGO.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RD6-WP-JsZ"; */
+"RD6-WP-JsZ.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "S25-VS-SPs"; */
+"S25-VS-SPs.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Announcements"; ObjectID = "SaF-ul-rrM"; */
+"SaF-ul-rrM.title" = "Announcements";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Vwo-wc-ZlO"; */
+"Vwo-wc-ZlO.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "aUk-f5-GXf"; */
+"aUk-f5-GXf.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "als-mr-fas"; */
+"als-mr-fas.text" = "Label";
+
+/* Class = "UILabel"; text = "Start Date:"; ObjectID = "b2W-Cv-P62"; */
+"b2W-Cv-P62.text" = "Start Date:";
+
+/* Class = "UINavigationItem"; title = "Add Reminder"; ObjectID = "bcZ-z0-wAr"; */
+"bcZ-z0-wAr.title" = "Add Reminder";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "f8N-Iu-T8W"; */
+"f8N-Iu-T8W.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fEt-xU-Of5"; */
+"fEt-xU-Of5.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iJk-tS-n2z"; */
+"iJk-tS-n2z.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Events"; ObjectID = "jjH-G9-TdQ"; */
+"jjH-G9-TdQ.title" = "Events";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lnT-Nh-UCs"; */
+"lnT-Nh-UCs.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "loD-id-i7M"; */
+"loD-id-i7M.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nFR-jA-WoZ"; */
+"nFR-jA-WoZ.text" = "Label";
+
+/* Class = "UISplitViewController"; title = "Events"; ObjectID = "qqe-gH-jg7"; */
+"qqe-gH-jg7.title" = "Events";
+
+/* Class = "UILabel"; text = "Events for today"; ObjectID = "sE6-xr-EYy"; */
+"sE6-xr-EYy.text" = "Events for today";
+
+/* Class = "UIButton"; accessibilityLabel = "Add to reminders"; ObjectID = "sT9-BZ-dGG"; */
+"sT9-BZ-dGG.accessibilityLabel" = "Add to reminders";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "scQ-3n-K5V"; */
+"scQ-3n-K5V.text" = "Label";
+
+/* Class = "UILabel"; text = "Location:"; ObjectID = "tPe-jc-4j5"; */
+"tPe-jc-4j5.text" = "Location:";
+
+/* Class = "UILabel"; text = "Reminder List"; ObjectID = "tv4-i6-3Wg"; */
+"tv4-i6-3Wg.text" = "Reminder List";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "unM-lK-DMl"; */
+"unM-lK-DMl.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vst-hz-7pW"; */
+"vst-hz-7pW.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wju-Gz-sdw"; */
+"wju-Gz-sdw.text" = "Label";
+
+/* Class = "UISplitViewController"; title = "Assignments"; ObjectID = "x84-fa-Yay"; */
+"x84-fa-Yay.title" = "Assignments";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zSs-QD-sGS"; */
+"zSs-QD-sGS.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zrl-W4-IYY"; */
+"zrl-W4-IYY.text" = "Label";
+

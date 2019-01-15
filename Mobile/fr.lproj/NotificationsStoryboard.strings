@@ -1,0 +1,18 @@
+/* Class = "UILabel"; text = "Label"; ObjectID = "5Y8-30-Ol6"; */
+"5Y8-30-Ol6.text" = "Libellé";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7LJ-e8-Lyp"; */
+"7LJ-e8-Lyp.normalTitle" = "Bouton";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IpV-uS-wka"; */
+"IpV-uS-wka.text" = "Libellé";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LQ1-Pm-ak8"; */
+"LQ1-Pm-ak8.text" = "Libellé";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "bbb-S5-uYb"; */
+"bbb-S5-uYb.title" = "Contrôleur de vue racine";
+
+/* Class = "UILabel"; text = "No Notifications to display"; ObjectID = "nzY-Fy-6pO"; */
+"nzY-Fy-6pO.text" = "Aucune notification à afficher";
+

@@ -1,0 +1,36 @@
+/* Class = "UILabel"; text = "Label"; ObjectID = "4Av-6h-Rtv"; */
+"4Av-6h-Rtv.text" = "المسمى";
+
+/* Class = "UILabel"; text = "No Grades Recorded"; ObjectID = "4UF-PC-Ico"; */
+"4UF-PC-Ico.text" = "لا توجد درجات مسجلة";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6ad-JB-HWi"; */
+"6ad-JB-HWi.text" = "المسمى";
+
+/* Class = "UIBarButtonItem"; title = "Terms"; ObjectID = "7dp-kM-hAU"; */
+"7dp-kM-hAU.title" = "الفصول الدراسية";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CVH-ev-TDj"; */
+"CVH-ev-TDj.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Kgt-PK-TAd"; */
+"Kgt-PK-TAd.text" = "المسمى";
+
+/* Class = "UILabel"; text = "No Grades Recorded"; ObjectID = "KqY-iF-mie"; */
+"KqY-iF-mie.text" = "لا توجد درجات مسجلة";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "Qk7-HK-Uqh"; */
+"Qk7-HK-Uqh.title" = "التحكم في عرض الأصل";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Xdn-pe-AJg"; */
+"Xdn-pe-AJg.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nnO-LO-vWg"; */
+"nnO-LO-vWg.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wxe-vn-Hgb"; */
+"wxe-vn-Hgb.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zMU-BZ-jZT"; */
+"zMU-BZ-jZT.text" = "المسمى";
+

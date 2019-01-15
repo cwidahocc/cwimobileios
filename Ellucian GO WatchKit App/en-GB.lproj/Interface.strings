@@ -1,0 +1,147 @@
+/* Class = "WKInterfaceLabel"; text = "Name"; ObjectID = "1NZ-xi-AKg"; */
+"1NZ-xi-AKg.text" = "Name";
+
+/* Class = "WKInterfaceLabel"; text = "Website"; ObjectID = "2ac-Oo-nNB"; */
+"2ac-Oo-nNB.text" = "Website";
+
+/* Class = "WKInterfaceLabel"; text = "Retrieving data..."; ObjectID = "3FG-ar-Tjd"; */
+"3FG-ar-Tjd.text" = "Retrieving data...";
+
+/* Class = "WKInterfaceController"; title = "Buildings"; ObjectID = "5X0-AI-Iwc"; */
+"5X0-AI-Iwc.title" = "Buildings";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "8C4-Su-i8r"; */
+"8C4-Su-i8r.text" = "Label";
+
+/* Class = "WKInterfaceLabel"; text = "You do not have permission"; ObjectID = "8Vm-T5-5hs"; */
+"8Vm-T5-5hs.text" = "You do not have permission";
+
+/* Class = "WKInterfaceLabel"; text = "Sign In on iPhone"; ObjectID = "9Wm-9l-EUd"; */
+"9Wm-9l-EUd.text" = "Sign In on iPhone";
+
+/* Class = "WKInterfaceController"; title = "Ellucian GO"; ObjectID = "AgC-eL-Hgc"; */
+"AgC-eL-Hgc.title" = "Ellucian GO";
+
+/* Class = "WKInterfaceLabel"; text = "Choose a school by running the Ellucian GO application on your iPhone."; ObjectID = "AuB-ab-kpA"; */
+"AuB-ab-kpA.text" = "Choose a university by running the Ellucian GO application on your iPhone.";
+
+/* Class = "WKInterfaceLabel"; text = "Policy"; ObjectID = "BGD-wW-f5P"; */
+"BGD-wW-f5P.text" = "Policy";
+
+/* Class = "WKInterfaceLabel"; text = "Alert Label"; ObjectID = "BSV-Tg-w1k"; */
+"BSV-Tg-w1k.text" = "Alert Label";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "CKf-nM-Sp7"; */
+"CKf-nM-Sp7.text" = "Label";
+
+/* Class = "WKInterfaceLabel"; text = "Description"; ObjectID = "Gr5-IE-iwe"; */
+"Gr5-IE-iwe.text" = "Description";
+
+/* Class = "WKInterfaceButton"; title = "Privacy"; ObjectID = "JcY-1R-aF6"; */
+"JcY-1R-aF6.title" = "Privacy";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "KrW-tA-4UR"; */
+"KrW-tA-4UR.text" = "Label";
+
+/* Class = "WKInterfaceButton"; title = "Contact"; ObjectID = "LsY-RT-Hpg"; */
+"LsY-RT-Hpg.title" = "Contact";
+
+/* Class = "WKInterfaceLabel"; text = "No Campuses Available"; ObjectID = "QtY-NN-VBe"; */
+"QtY-NN-VBe.text" = "No Campuses Available";
+
+/* Class = "WKInterfaceLabel"; text = "Retrieving data..."; ObjectID = "S8e-VZ-qeV"; */
+"S8e-VZ-qeV.text" = "Retrieving data...";
+
+/* Class = "WKInterfaceController"; title = "Assignment"; ObjectID = "U7k-99-uUI"; */
+"U7k-99-uUI.title" = "Assignment";
+
+/* Class = "WKInterfaceLabel"; text = "Phone"; ObjectID = "UJd-kN-itA"; */
+"UJd-kN-itA.text" = "Phone";
+
+/* Class = "WKInterfaceLabel"; text = "Policy Label"; ObjectID = "Voz-Gn-DtV"; */
+"Voz-Gn-DtV.text" = "Policy Label";
+
+/* Class = "WKInterfaceController"; title = "Buildings"; ObjectID = "XXh-fR-vtI"; */
+"XXh-fR-vtI.title" = "Buildings";
+
+/* Class = "WKInterfaceLabel"; text = "Alert Label"; ObjectID = "XkS-y5-khE"; */
+"XkS-y5-khE.text" = "Alert Label";
+
+/* Class = "WKInterfaceLabel"; text = "Additional"; ObjectID = "b79-mc-d9E"; */
+"b79-mc-d9E.text" = "Additional";
+
+/* Class = "WKInterfaceLabel"; text = "Retrieving ..."; ObjectID = "bZT-GE-weQ"; */
+"bZT-GE-weQ.text" = "Retrieving ...";
+
+/* Class = "WKInterfaceController"; title = "Policy"; ObjectID = "brU-Qu-q4t"; */
+"brU-Qu-q4t.title" = "Policy";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "c6q-4e-Szd"; */
+"c6q-4e-Szd.text" = "Label";
+
+/* Class = "WKInterfaceLabel"; text = "Configuration"; ObjectID = "cUm-IM-It6"; */
+"cUm-IM-It6.text" = "Configuration";
+
+/* Class = "WKInterfaceLabel"; text = "Email"; ObjectID = "daq-p3-5mT"; */
+"daq-p3-5mT.text" = "Email";
+
+/* Class = "WKInterfaceLabel"; text = "Address"; ObjectID = "gAH-bc-Vqt"; */
+"gAH-bc-Vqt.text" = "Address";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "gG5-ml-ZtX"; */
+"gG5-ml-ZtX.text" = "Label";
+
+/* Class = "WKInterfaceLabel"; text = "Contact"; ObjectID = "iJj-8D-p7V"; */
+"iJj-8D-p7V.text" = "Contact";
+
+/* Class = "WKInterfaceLabel"; text = "Retrieving data..."; ObjectID = "kbg-8F-nGn"; */
+"kbg-8F-nGn.text" = "Retrieving data...";
+
+/* Class = "WKInterfaceLabel"; text = "Sign In on iPhone"; ObjectID = "kpj-c5-Rxc"; */
+"kpj-c5-Rxc.text" = "Sign In on iPhone";
+
+/* Class = "WKInterfaceButton"; title = "Version"; ObjectID = "lGX-g2-tm5"; */
+"lGX-g2-tm5.title" = "Version";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "lfx-gR-i9o"; */
+"lfx-gR-i9o.text" = "Label";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "mRo-eb-Oqf"; */
+"mRo-eb-Oqf.text" = "Label";
+
+/* Class = "WKInterfaceController"; title = "Contact"; ObjectID = "oiQ-42-f52"; */
+"oiQ-42-f52.title" = "Contact";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "p7K-dS-1He"; */
+"p7K-dS-1He.text" = "Label";
+
+/* Class = "WKInterfaceMenuItem"; title = "Add To Calendar"; ObjectID = "qde-x3-ESX"; */
+"qde-x3-ESX.title" = "Add To Calendar";
+
+/* Class = "WKInterfaceLabel"; text = "No Items for today"; ObjectID = "qtz-Ti-5Vq"; */
+"qtz-Ti-5Vq.text" = "No Items for today";
+
+/* Class = "WKInterfaceMenuItem"; title = "Remind Me"; ObjectID = "rAn-nQ-SLw"; */
+"rAn-nQ-SLw.title" = "Remind Me";
+
+/* Class = "WKInterfaceController"; title = "Campuses"; ObjectID = "rEb-yG-gVi"; */
+"rEb-yG-gVi.title" = "Campuses";
+
+/* Class = "WKInterfaceLabel"; text = "-"; ObjectID = "sTA-f8-bTt"; */
+"sTA-f8-bTt.text" = "-";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "vBO-IT-Q8j"; */
+"vBO-IT-Q8j.text" = "Label";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "vHv-sy-hFe"; */
+"vHv-sy-hFe.text" = "Label";
+
+/* Class = "WKInterfaceController"; title = "Version"; ObjectID = "vik-8i-077"; */
+"vik-8i-077.title" = "Version";
+
+/* Class = "WKInterfaceLabel"; text = "Server Version"; ObjectID = "xS6-av-ZFg"; */
+"xS6-av-ZFg.text" = "Server Version";
+
+/* Class = "WKInterfaceLabel"; text = "Client Version"; ObjectID = "zo8-NK-Su9"; */
+"zo8-NK-Su9.text" = "Client Version";
+

@@ -1,0 +1,174 @@
+/* Class = "UILabel"; text = "Detail"; ObjectID = "1vS-Rb-mEe"; */
+"1vS-Rb-mEe.text" = "التفاصيل";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2IA-SC-G6y"; */
+"2IA-SC-G6y.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Instructors have not been assigned"; ObjectID = "2h1-rG-p0i"; */
+"2h1-rG-p0i.text" = "لم يتم تحديد المحاضرين";
+
+/* Class = "UILabel"; text = "Meeting times have not been assigned"; ObjectID = "2ie-Jl-z37"; */
+"2ie-Jl-z37.text" = "لم يتم تحديد مواعيد الاجتماع";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3TR-0j-Al6"; */
+"3TR-0j-Al6.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4Qc-Uz-gjV"; */
+"4Qc-Uz-gjV.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4Rg-SS-t8v"; */
+"4Rg-SS-t8v.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5Ot-7C-GxV"; */
+"5Ot-7C-GxV.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6jm-ZA-fKr"; */
+"6jm-ZA-fKr.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "7xc-0K-Gxl"; */
+"7xc-0K-Gxl.text" = "اللقب";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "09L-bq-veU"; */
+"09L-bq-veU.text" = "المسمى";
+
+/* Class = "UIBarButtonItem"; title = "Terms"; ObjectID = "09v-1V-5Pn"; */
+"09v-1V-5Pn.title" = "الفصول الدراسية";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9wf-e8-pcD"; */
+"9wf-e8-pcD.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "17o-ED-Hrc"; */
+"17o-ED-Hrc.text" = "المسمى";
+
+/* Class = "UIButton"; accessibilityLabel = "Next Day"; ObjectID = "A75-Ik-JHo"; */
+"A75-Ik-JHo.accessibilityLabel" = "اليوم التالي";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AiV-U2-biX"; */
+"AiV-U2-biX.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Remind me on a day"; ObjectID = "BK6-5I-RNl"; */
+"BK6-5I-RNl.text" = "تذكيري يوم";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Co8-Uj-Emz"; */
+"Co8-Uj-Emz.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "D5f-ve-ddG"; */
+"D5f-ve-ddG.text" = "المسمى";
+
+/* Class = "UIButton"; accessibilityHint = "Pick a new day"; ObjectID = "Deo-Id-XBd"; */
+"Deo-Id-XBd.accessibilityHint" = "قم باختيار يوم جديد";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Eeu-5K-wE5"; */
+"Eeu-5K-wE5.text" = "المسمى";
+
+/* Class = "UILabel"; text = "End Date:"; ObjectID = "FCg-hg-gKr"; */
+"FCg-hg-gKr.text" = "تاريخ النهاية:";
+
+/* Class = "UITabBarItem"; title = "Assignments"; ObjectID = "HhG-Wa-Dpy"; */
+"HhG-Wa-Dpy.title" = "الواجبات";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Jij-PU-iCj"; */
+"Jij-PU-iCj.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KgY-dZ-hQ1"; */
+"KgY-dZ-hQ1.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KhA-U8-eE0"; */
+"KhA-U8-eE0.text" = "المسمى";
+
+/* Class = "UITabBarItem"; title = "Announcements"; ObjectID = "Ljt-hl-OqR"; */
+"Ljt-hl-OqR.title" = "الإعلانات";
+
+/* Class = "UILabel"; text = "Alarm"; ObjectID = "MGn-5E-DdI"; */
+"MGn-5E-DdI.text" = "المنبه";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NP7-Hv-WGO"; */
+"NP7-Hv-WGO.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "O4J-KU-FNV"; */
+"O4J-KU-FNV.text" = "المسمى";
+
+/* Class = "UITabBarItem"; title = "Daily View"; ObjectID = "QEQ-m0-qxt"; */
+"QEQ-m0-qxt.title" = "عرض اليوم";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "REv-4f-mvi"; */
+"REv-4f-mvi.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "W5l-OC-5RH"; */
+"W5l-OC-5RH.text" = "المسمى";
+
+/* Class = "UITabBarItem"; title = "Details"; ObjectID = "Yff-ow-vZn"; */
+"Yff-ow-vZn.title" = "التفاصيل";
+
+/* Class = "UINavigationItem"; title = "Terms"; ObjectID = "YlH-xC-0A7"; */
+"YlH-xC-0A7.title" = "الفصول الدراسية";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "aUk-f5-GXf"; */
+"aUk-f5-GXf.text" = "المسمى";
+
+/* Class = "UITabBarItem"; title = "Full Schedule"; ObjectID = "ajc-cg-o0I"; */
+"ajc-cg-o0I.title" = "الجدول الكامل";
+
+/* Class = "UILabel"; text = "Start Date:"; ObjectID = "b2W-Cv-P62"; */
+"b2W-Cv-P62.text" = "تاريخ البدء:";
+
+/* Class = "UINavigationItem"; title = "Add Reminder"; ObjectID = "bcZ-z0-wAr"; */
+"bcZ-z0-wAr.title" = "إضافة تذكير";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cJQ-yV-GLz"; */
+"cJQ-yV-GLz.text" = "المسمى";
+
+/* Class = "UITabBarItem"; title = "Roster"; ObjectID = "cyd-zX-EAQ"; */
+"cyd-zX-EAQ.title" = "القائمة";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ev8-Vg-SC5"; */
+"ev8-Vg-SC5.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fR2-Qj-Q40"; */
+"fR2-Qj-Q40.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gJc-ch-SH9"; */
+"gJc-ch-SH9.text" = "المسمى";
+
+/* Class = "UITabBarItem"; title = "Grades"; ObjectID = "gQV-aW-o6b"; */
+"gQV-aW-o6b.title" = "الدرجات";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "i4a-IQ-rld"; */
+"i4a-IQ-rld.text" = "المسمى";
+
+/* Class = "UILabel"; text = "No Grades Recorded"; ObjectID = "lNR-SH-wLs"; */
+"lNR-SH-wLs.text" = "لا توجد درجات مسجلة";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lcw-kF-LcC"; */
+"lcw-kF-LcC.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lnT-Nh-UCs"; */
+"lnT-Nh-UCs.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "n6a-mr-TBP"; */
+"n6a-mr-TBP.text" = "المسمى";
+
+/* Class = "UIButton"; accessibilityLabel = "Previous Day"; ObjectID = "ob1-uk-4cE"; */
+"ob1-uk-4cE.accessibilityLabel" = "اليوم السابق";
+
+/* Class = "UILabel"; text = "Location:"; ObjectID = "tPe-jc-4j5"; */
+"tPe-jc-4j5.text" = "المكان:";
+
+/* Class = "UILabel"; text = "Reminder List"; ObjectID = "tv4-i6-3Wg"; */
+"tv4-i6-3Wg.text" = "قائمة التذكير";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wju-Gz-sdw"; */
+"wju-Gz-sdw.text" = "المسمى";
+
+/* Class = "UITabBarItem"; title = "Events"; ObjectID = "wx8-ah-lSq"; */
+"wx8-ah-lSq.title" = "الفعاليات";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "x3v-wd-jS0"; */
+"x3v-wd-jS0.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "x7L-Og-ECF"; */
+"x7L-Og-ECF.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zrl-W4-IYY"; */
+"zrl-W4-IYY.text" = "المسمى";
+

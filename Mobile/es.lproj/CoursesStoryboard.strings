@@ -1,0 +1,174 @@
+/* Class = "UILabel"; text = "Detail"; ObjectID = "1vS-Rb-mEe"; */
+"1vS-Rb-mEe.text" = "Detalle";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2IA-SC-G6y"; */
+"2IA-SC-G6y.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Instructors have not been assigned"; ObjectID = "2h1-rG-p0i"; */
+"2h1-rG-p0i.text" = "No se han asignado instructores";
+
+/* Class = "UILabel"; text = "Meeting times have not been assigned"; ObjectID = "2ie-Jl-z37"; */
+"2ie-Jl-z37.text" = "No se han asignado las horas de reunión";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3TR-0j-Al6"; */
+"3TR-0j-Al6.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4Qc-Uz-gjV"; */
+"4Qc-Uz-gjV.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4Rg-SS-t8v"; */
+"4Rg-SS-t8v.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5Ot-7C-GxV"; */
+"5Ot-7C-GxV.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6jm-ZA-fKr"; */
+"6jm-ZA-fKr.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "7xc-0K-Gxl"; */
+"7xc-0K-Gxl.text" = "Título";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "09L-bq-veU"; */
+"09L-bq-veU.text" = "Etiqueta";
+
+/* Class = "UIBarButtonItem"; title = "Terms"; ObjectID = "09v-1V-5Pn"; */
+"09v-1V-5Pn.title" = "Periodos";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9wf-e8-pcD"; */
+"9wf-e8-pcD.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "17o-ED-Hrc"; */
+"17o-ED-Hrc.text" = "Etiqueta";
+
+/* Class = "UIButton"; accessibilityLabel = "Next Day"; ObjectID = "A75-Ik-JHo"; */
+"A75-Ik-JHo.accessibilityLabel" = "Día siguiente";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AiV-U2-biX"; */
+"AiV-U2-biX.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Remind me on a day"; ObjectID = "BK6-5I-RNl"; */
+"BK6-5I-RNl.text" = "Recuérdeme el";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Co8-Uj-Emz"; */
+"Co8-Uj-Emz.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "D5f-ve-ddG"; */
+"D5f-ve-ddG.text" = "Etiqueta";
+
+/* Class = "UIButton"; accessibilityHint = "Pick a new day"; ObjectID = "Deo-Id-XBd"; */
+"Deo-Id-XBd.accessibilityHint" = "Elegir un nuevo día";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Eeu-5K-wE5"; */
+"Eeu-5K-wE5.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "End Date:"; ObjectID = "FCg-hg-gKr"; */
+"FCg-hg-gKr.text" = "Fecha de fin:";
+
+/* Class = "UITabBarItem"; title = "Assignments"; ObjectID = "HhG-Wa-Dpy"; */
+"HhG-Wa-Dpy.title" = "Asignaciones";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Jij-PU-iCj"; */
+"Jij-PU-iCj.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KgY-dZ-hQ1"; */
+"KgY-dZ-hQ1.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KhA-U8-eE0"; */
+"KhA-U8-eE0.text" = "Etiqueta";
+
+/* Class = "UITabBarItem"; title = "Announcements"; ObjectID = "Ljt-hl-OqR"; */
+"Ljt-hl-OqR.title" = "Anuncios";
+
+/* Class = "UILabel"; text = "Alarm"; ObjectID = "MGn-5E-DdI"; */
+"MGn-5E-DdI.text" = "Alarma";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NP7-Hv-WGO"; */
+"NP7-Hv-WGO.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "O4J-KU-FNV"; */
+"O4J-KU-FNV.text" = "Etiqueta";
+
+/* Class = "UITabBarItem"; title = "Daily View"; ObjectID = "QEQ-m0-qxt"; */
+"QEQ-m0-qxt.title" = "Vista diaria";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "REv-4f-mvi"; */
+"REv-4f-mvi.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "W5l-OC-5RH"; */
+"W5l-OC-5RH.text" = "Etiqueta";
+
+/* Class = "UITabBarItem"; title = "Details"; ObjectID = "Yff-ow-vZn"; */
+"Yff-ow-vZn.title" = "Detalles";
+
+/* Class = "UINavigationItem"; title = "Terms"; ObjectID = "YlH-xC-0A7"; */
+"YlH-xC-0A7.title" = "Periodos";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "aUk-f5-GXf"; */
+"aUk-f5-GXf.text" = "Etiqueta";
+
+/* Class = "UITabBarItem"; title = "Full Schedule"; ObjectID = "ajc-cg-o0I"; */
+"ajc-cg-o0I.title" = "Horario completo";
+
+/* Class = "UILabel"; text = "Start Date:"; ObjectID = "b2W-Cv-P62"; */
+"b2W-Cv-P62.text" = "Fecha de inicio:";
+
+/* Class = "UINavigationItem"; title = "Add Reminder"; ObjectID = "bcZ-z0-wAr"; */
+"bcZ-z0-wAr.title" = "Agregar recordatorio";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cJQ-yV-GLz"; */
+"cJQ-yV-GLz.text" = "Etiqueta";
+
+/* Class = "UITabBarItem"; title = "Roster"; ObjectID = "cyd-zX-EAQ"; */
+"cyd-zX-EAQ.title" = "Lista de clases";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ev8-Vg-SC5"; */
+"ev8-Vg-SC5.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fR2-Qj-Q40"; */
+"fR2-Qj-Q40.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gJc-ch-SH9"; */
+"gJc-ch-SH9.text" = "Etiqueta";
+
+/* Class = "UITabBarItem"; title = "Grades"; ObjectID = "gQV-aW-o6b"; */
+"gQV-aW-o6b.title" = "Calificaciones";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "i4a-IQ-rld"; */
+"i4a-IQ-rld.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "No Grades Recorded"; ObjectID = "lNR-SH-wLs"; */
+"lNR-SH-wLs.text" = "No hay calificaciones registradas";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lcw-kF-LcC"; */
+"lcw-kF-LcC.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lnT-Nh-UCs"; */
+"lnT-Nh-UCs.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "n6a-mr-TBP"; */
+"n6a-mr-TBP.text" = "Etiqueta";
+
+/* Class = "UIButton"; accessibilityLabel = "Previous Day"; ObjectID = "ob1-uk-4cE"; */
+"ob1-uk-4cE.accessibilityLabel" = "Día anterior";
+
+/* Class = "UILabel"; text = "Location:"; ObjectID = "tPe-jc-4j5"; */
+"tPe-jc-4j5.text" = "Ubicación:";
+
+/* Class = "UILabel"; text = "Reminder List"; ObjectID = "tv4-i6-3Wg"; */
+"tv4-i6-3Wg.text" = "Lista de recordatorio";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wju-Gz-sdw"; */
+"wju-Gz-sdw.text" = "Etiqueta";
+
+/* Class = "UITabBarItem"; title = "Events"; ObjectID = "wx8-ah-lSq"; */
+"wx8-ah-lSq.title" = "Eventos";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "x3v-wd-jS0"; */
+"x3v-wd-jS0.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "x7L-Og-ECF"; */
+"x7L-Og-ECF.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zrl-W4-IYY"; */
+"zrl-W4-IYY.text" = "Etiqueta";
+

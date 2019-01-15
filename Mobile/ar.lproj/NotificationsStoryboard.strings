@@ -1,0 +1,18 @@
+/* Class = "UILabel"; text = "Label"; ObjectID = "5Y8-30-Ol6"; */
+"5Y8-30-Ol6.text" = "المسمى";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7LJ-e8-Lyp"; */
+"7LJ-e8-Lyp.normalTitle" = "زر";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IpV-uS-wka"; */
+"IpV-uS-wka.text" = "المسمى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LQ1-Pm-ak8"; */
+"LQ1-Pm-ak8.text" = "المسمى";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "bbb-S5-uYb"; */
+"bbb-S5-uYb.title" = "التحكم في عرض الأصل";
+
+/* Class = "UILabel"; text = "No Notifications to display"; ObjectID = "nzY-Fy-6pO"; */
+"nzY-Fy-6pO.text" = "لا توجد تنبيهات للعرض";
+

@@ -1,0 +1,309 @@
+/* Class = "UILabel"; text = "Section ID:"; ObjectID = "0r0-Zi-Ifz"; */
+"0r0-Zi-Ifz.text" = "ID de sección:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1CK-Rx-Vwf"; */
+"1CK-Rx-Vwf.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Available Seats:"; ObjectID = "1oH-hb-pyb"; */
+"1oH-hb-pyb.text" = "Lugares disponibles:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3xX-L2-fn3"; */
+"3xX-L2-fn3.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3zm-ep-Nxd"; */
+"3zm-ep-Nxd.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4Rh-O0-Xs9"; */
+"4Rh-O0-Xs9.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4TW-bx-cDi"; */
+"4TW-bx-cDi.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Section ID:"; ObjectID = "4ap-F7-Vmy"; */
+"4ap-F7-Vmy.text" = "ID de sección:";
+
+/* Class = "UILabel"; text = "Grading:"; ObjectID = "5TQ-qa-ymN"; */
+"5TQ-qa-ymN.text" = "Modo de calificar:";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "8tp-s3-oyy"; */
+"8tp-s3-oyy.text" = "Descripción";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9Mc-6a-gDc"; */
+"9Mc-6a-gDc.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9QN-MZ-0sg"; */
+"9QN-MZ-0sg.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "35t-l8-2LF"; */
+"35t-l8-2LF.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Faculty"; ObjectID = "39M-Ib-Gvn"; */
+"39M-Ib-Gvn.text" = "Docente";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "58f-3E-CTN"; */
+"58f-3E-CTN.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "696-Bg-Vla"; */
+"696-Bg-Vla.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Cii-0i-y7R"; */
+"Cii-0i-y7R.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Academic Levels:"; ObjectID = "Diu-D6-0FB"; */
+"Diu-D6-0FB.text" = "Niveles:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FAL-zW-o2D"; */
+"FAL-zW-o2D.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Fpo-KK-JEF"; */
+"Fpo-KK-JEF.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "GB7-vY-nBG"; */
+"GB7-vY-nBG.text" = "Descripción";
+
+/* Class = "UILabel"; text = "Grading:"; ObjectID = "Gmn-LE-lR9"; */
+"Gmn-LE-lR9.text" = "Modo de calificar:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "H4k-On-5Ly"; */
+"H4k-On-5Ly.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "We're Sorry."; ObjectID = "I2k-R4-900"; */
+"I2k-R4-900.text" = "Lo sentimos.";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "IFn-Py-Hfb"; */
+"IFn-Py-Hfb.text" = "Título";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ikn-we-XIr"; */
+"Ikn-we-XIr.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JAM-Iq-W2d"; */
+"JAM-Iq-W2d.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KQd-l2-uy3"; */
+"KQd-l2-uy3.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LQ3-h3-xmh"; */
+"LQ3-h3-xmh.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Section Number"; ObjectID = "LSE-d9-y1h"; */
+"LSE-d9-y1h.text" = "Número de sección";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "NW4-rN-o2Q"; */
+"NW4-rN-o2Q.text" = "Descripción";
+
+/* Class = "UILabel"; text = "Faculty"; ObjectID = "PWk-t6-xSL"; */
+"PWk-t6-xSL.text" = "Docente";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QS1-UT-QIs"; */
+"QS1-UT-QIs.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "S0P-yP-dnX"; */
+"S0P-yP-dnX.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Credits:"; ObjectID = "S68-6x-6HO"; */
+"S68-6x-6HO.text" = "Créditos:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "T4o-xi-9Lh"; */
+"T4o-xi-9Lh.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "T7m-XS-EtO"; */
+"T7m-XS-EtO.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ubi-kb-vAm"; */
+"Ubi-kb-vAm.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VCg-7o-fHG"; */
+"VCg-7o-fHG.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Credits:"; ObjectID = "VRh-Kl-CwZ"; */
+"VRh-Kl-CwZ.text" = "Créditos:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Vee-IV-xWF"; */
+"Vee-IV-xWF.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VlD-Nw-eqe"; */
+"VlD-Nw-eqe.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "W6e-RY-xNR"; */
+"W6e-RY-xNR.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WJU-l6-w4o"; */
+"WJU-l6-w4o.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WTH-lf-Rp1"; */
+"WTH-lf-Rp1.text" = "Etiqueta";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "WtM-Y5-Jw1"; */
+"WtM-Y5-Jw1.title" = "Elemento";
+
+/* Class = "UILabel"; text = "Search criteria"; ObjectID = "XU3-FU-Pq7"; */
+"XU3-FU-Pq7.text" = "Criterios de búsqueda";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Xsi-ai-4vO"; */
+"Xsi-ai-4vO.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Section ID:"; ObjectID = "Y3w-d1-exZ"; */
+"Y3w-d1-exZ.text" = "ID de sección:";
+
+/* Class = "UILabel"; text = "Term"; ObjectID = "YVN-su-c3w"; */
+"YVN-su-c3w.text" = "Periodo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Z3R-Yf-xqL"; */
+"Z3R-Yf-xqL.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Z6O-uU-0fs"; */
+"Z6O-uU-0fs.text" = "Título";
+
+/* Class = "UILabel"; text = "Select a Term and enter Search criteria"; ObjectID = "Z7a-PW-0lx"; */
+"Z7a-PW-0lx.text" = "Seleccionar un periodo e ingresar los criterios de búsqueda";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZND-Mu-F1p"; */
+"ZND-Mu-F1p.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Credits:"; ObjectID = "ZfQ-sd-jYJ"; */
+"ZfQ-sd-jYJ.text" = "Créditos:";
+
+/* Class = "UILabel"; text = "Meeting Information"; ObjectID = "b4s-TH-tKU"; */
+"b4s-TH-tKU.text" = "Información de reunión";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bAc-JY-i3p"; */
+"bAc-JY-i3p.text" = "Etiqueta";
+
+/* Class = "UIButton"; normalTitle = "Refine Search"; ObjectID = "bV8-j2-w49"; */
+"bV8-j2-w49.normalTitle" = "Mejorar la búsqueda";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cF5-6s-Nkw"; */
+"cF5-6s-Nkw.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "cRH-6x-2r8"; */
+"cRH-6x-2r8.text" = "Título";
+
+/* Class = "UILabel"; text = "Meeting Information"; ObjectID = "cRJ-0a-q6i"; */
+"cRJ-0a-q6i.text" = "Información de reunión";
+
+/* Class = "UITextField"; placeholder = "Tap to Select"; ObjectID = "dKP-hl-IAS"; */
+"dKP-hl-IAS.placeholder" = "Pulsar para seleccionar";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dYu-hL-EX5"; */
+"dYu-hL-EX5.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "e32-y5-dm4"; */
+"e32-y5-dm4.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eE2-jT-lyc"; */
+"eE2-jT-lyc.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Section ID:"; ObjectID = "eKs-mh-XSW"; */
+"eKs-mh-XSW.text" = "ID de sección:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "f9u-9p-nB4"; */
+"f9u-9p-nB4.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fY9-eT-CmT"; */
+"fY9-eT-CmT.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fs7-pL-m93"; */
+"fs7-pL-m93.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "g1Q-6e-iBu"; */
+"g1Q-6e-iBu.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Faculty"; ObjectID = "glz-1T-QfB"; */
+"glz-1T-QfB.text" = "Docente";
+
+/* Class = "UILabel"; text = "Meeting Information"; ObjectID = "hBm-p7-2VH"; */
+"hBm-p7-2VH.text" = "Información de reunión";
+
+/* Class = "UILabel"; text = "Grading:"; ObjectID = "hNt-7T-nt9"; */
+"hNt-7T-nt9.text" = "Modo de calificar:";
+
+/* Class = "UILabel"; text = "Academic Levels:"; ObjectID = "jGx-5p-sqy"; */
+"jGx-5p-sqy.text" = "Niveles académicos:";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "jmp-kD-D9o"; */
+"jmp-kD-D9o.text" = "Título";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "k8q-Td-hPU"; */
+"k8q-Td-hPU.normalTitle" = "Buscar";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kIn-T8-Tkv"; */
+"kIn-T8-Tkv.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kV4-WC-MF3"; */
+"kV4-WC-MF3.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mbv-lp-170"; */
+"mbv-lp-170.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nTv-Ed-8sB"; */
+"nTv-Ed-8sB.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Ineligible for Registration"; ObjectID = "nbc-20-7dD"; */
+"nbc-20-7dD.text" = "Inelegible para inscripción";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "otW-v7-irB"; */
+"otW-v7-irB.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ozP-lz-Jd5"; */
+"ozP-lz-Jd5.text" = "Etiqueta";
+
+/* Class = "UITabBarItem"; title = "Registered"; ObjectID = "qJA-E1-sjv"; */
+"qJA-E1-sjv.title" = "Inscrito";
+
+/* Class = "UITabBarItem"; title = "Search"; ObjectID = "sSy-HI-DTq"; */
+"sSy-HI-DTq.title" = "Buscar";
+
+/* Class = "UILabel"; text = "Section Number"; ObjectID = "t0t-I7-XAE"; */
+"t0t-I7-XAE.text" = "Número de sección";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ual-Va-pzd"; */
+"ual-Va-pzd.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "unE-sH-fqi"; */
+"unE-sH-fqi.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Section Number"; ObjectID = "uuL-aq-TgN"; */
+"uuL-aq-TgN.text" = "Número de sección";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "v5u-C0-Eye"; */
+"v5u-C0-Eye.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vba-cV-Yff"; */
+"vba-cV-Yff.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vqy-w5-kCI"; */
+"vqy-w5-kCI.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "w9i-KX-E7W"; */
+"w9i-KX-E7W.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Credits:"; ObjectID = "wG5-pn-CaP"; */
+"wG5-pn-CaP.text" = "Créditos:";
+
+/* Class = "UITableViewController"; title = "Events Selector"; ObjectID = "wID-0z-046"; */
+"wID-0z-046.title" = "Selector de eventos";
+
+/* Class = "UITabBarItem"; title = "Cart"; ObjectID = "wMw-p9-BS9"; */
+"wMw-p9-BS9.title" = "Carrito";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "wv6-JC-xRR"; */
+"wv6-JC-xRR.title" = "Elemento";
+
+/* Class = "UILabel"; text = "Faculty"; ObjectID = "yPh-fT-0zm"; */
+"yPh-fT-0zm.text" = "Docente";
+
+/* Class = "UILabel"; text = "Section Number"; ObjectID = "yTP-rU-pYP"; */
+"yTP-rU-pYP.text" = "Número de sección";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "yYF-P4-pNh"; */
+"yYF-P4-pNh.text" = "Descripción";
+
+/* Class = "UILabel"; text = "Meeting Information"; ObjectID = "yzp-Qf-Uhg"; */
+"yzp-Qf-Uhg.text" = "Información de reunión";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "z0H-aa-WnJ"; */
+"z0H-aa-WnJ.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Grading:"; ObjectID = "zeP-SA-vCJ"; */
+"zeP-SA-vCJ.text" = "Modo de calificar:";
+

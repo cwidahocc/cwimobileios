@@ -1,0 +1,147 @@
+/* Class = "WKInterfaceLabel"; text = "Name"; ObjectID = "1NZ-xi-AKg"; */
+"1NZ-xi-AKg.text" = "الاسم";
+
+/* Class = "WKInterfaceLabel"; text = "Website"; ObjectID = "2ac-Oo-nNB"; */
+"2ac-Oo-nNB.text" = "الموقع الإلكتروني";
+
+/* Class = "WKInterfaceLabel"; text = "Retrieving data..."; ObjectID = "3FG-ar-Tjd"; */
+"3FG-ar-Tjd.text" = "جاري استرجاع البيانات...";
+
+/* Class = "WKInterfaceController"; title = "Buildings"; ObjectID = "5X0-AI-Iwc"; */
+"5X0-AI-Iwc.title" = "المباني";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "8C4-Su-i8r"; */
+"8C4-Su-i8r.text" = "المسمى";
+
+/* Class = "WKInterfaceLabel"; text = "You do not have permission"; ObjectID = "8Vm-T5-5hs"; */
+"8Vm-T5-5hs.text" = "ليس لديك إذن";
+
+/* Class = "WKInterfaceLabel"; text = "Sign In on iPhone"; ObjectID = "9Wm-9l-EUd"; */
+"9Wm-9l-EUd.text" = "تسجيل الدخول على جهاز iPhone";
+
+/* Class = "WKInterfaceController"; title = "Ellucian GO"; ObjectID = "AgC-eL-Hgc"; */
+"AgC-eL-Hgc.title" = "Ellucian GO";
+
+/* Class = "WKInterfaceLabel"; text = "Choose a school by running the Ellucian GO application on your iPhone."; ObjectID = "AuB-ab-kpA"; */
+"AuB-ab-kpA.text" = "قم اختيار الجامعة من خلال تشغيل تطبيق Ellucian GO على جهاز iPhone الخاص بك.";
+
+/* Class = "WKInterfaceLabel"; text = "Policy"; ObjectID = "BGD-wW-f5P"; */
+"BGD-wW-f5P.text" = "سياسة";
+
+/* Class = "WKInterfaceLabel"; text = "Alert Label"; ObjectID = "BSV-Tg-w1k"; */
+"BSV-Tg-w1k.text" = "مسمى التنبيه";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "CKf-nM-Sp7"; */
+"CKf-nM-Sp7.text" = "المسمى";
+
+/* Class = "WKInterfaceLabel"; text = "Description"; ObjectID = "Gr5-IE-iwe"; */
+"Gr5-IE-iwe.text" = "الوصف";
+
+/* Class = "WKInterfaceButton"; title = "Privacy"; ObjectID = "JcY-1R-aF6"; */
+"JcY-1R-aF6.title" = "الخصوصية";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "KrW-tA-4UR"; */
+"KrW-tA-4UR.text" = "المسمى";
+
+/* Class = "WKInterfaceButton"; title = "Contact"; ObjectID = "LsY-RT-Hpg"; */
+"LsY-RT-Hpg.title" = "للتواصل";
+
+/* Class = "WKInterfaceLabel"; text = "No Campuses Available"; ObjectID = "QtY-NN-VBe"; */
+"QtY-NN-VBe.text" = "لا توجد فروع متاحة";
+
+/* Class = "WKInterfaceLabel"; text = "Retrieving data..."; ObjectID = "S8e-VZ-qeV"; */
+"S8e-VZ-qeV.text" = "جاري استرجاع البيانات...";
+
+/* Class = "WKInterfaceController"; title = "Assignment"; ObjectID = "U7k-99-uUI"; */
+"U7k-99-uUI.title" = "واجب";
+
+/* Class = "WKInterfaceLabel"; text = "Phone"; ObjectID = "UJd-kN-itA"; */
+"UJd-kN-itA.text" = "رقم الهاتف";
+
+/* Class = "WKInterfaceLabel"; text = "Policy Label"; ObjectID = "Voz-Gn-DtV"; */
+"Voz-Gn-DtV.text" = "مسمى السياسة";
+
+/* Class = "WKInterfaceController"; title = "Buildings"; ObjectID = "XXh-fR-vtI"; */
+"XXh-fR-vtI.title" = "المباني";
+
+/* Class = "WKInterfaceLabel"; text = "Alert Label"; ObjectID = "XkS-y5-khE"; */
+"XkS-y5-khE.text" = "مسمى التنبيه";
+
+/* Class = "WKInterfaceLabel"; text = "Additional"; ObjectID = "b79-mc-d9E"; */
+"b79-mc-d9E.text" = "إضافي";
+
+/* Class = "WKInterfaceLabel"; text = "Retrieving ..."; ObjectID = "bZT-GE-weQ"; */
+"bZT-GE-weQ.text" = "جاري استرجاع ...";
+
+/* Class = "WKInterfaceController"; title = "Policy"; ObjectID = "brU-Qu-q4t"; */
+"brU-Qu-q4t.title" = "سياسة";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "c6q-4e-Szd"; */
+"c6q-4e-Szd.text" = "المسمى";
+
+/* Class = "WKInterfaceLabel"; text = "Configuration"; ObjectID = "cUm-IM-It6"; */
+"cUm-IM-It6.text" = "التهيئة";
+
+/* Class = "WKInterfaceLabel"; text = "Email"; ObjectID = "daq-p3-5mT"; */
+"daq-p3-5mT.text" = "البريد الإلكتروني";
+
+/* Class = "WKInterfaceLabel"; text = "Address"; ObjectID = "gAH-bc-Vqt"; */
+"gAH-bc-Vqt.text" = "العنوان";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "gG5-ml-ZtX"; */
+"gG5-ml-ZtX.text" = "المسمى";
+
+/* Class = "WKInterfaceLabel"; text = "Contact"; ObjectID = "iJj-8D-p7V"; */
+"iJj-8D-p7V.text" = "للتواصل";
+
+/* Class = "WKInterfaceLabel"; text = "Retrieving data..."; ObjectID = "kbg-8F-nGn"; */
+"kbg-8F-nGn.text" = "جاري استرجاع البيانات...";
+
+/* Class = "WKInterfaceLabel"; text = "Sign In on iPhone"; ObjectID = "kpj-c5-Rxc"; */
+"kpj-c5-Rxc.text" = "تسجيل الدخول على جهاز iPhone";
+
+/* Class = "WKInterfaceButton"; title = "Version"; ObjectID = "lGX-g2-tm5"; */
+"lGX-g2-tm5.title" = "الإصدار";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "lfx-gR-i9o"; */
+"lfx-gR-i9o.text" = "المسمى";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "mRo-eb-Oqf"; */
+"mRo-eb-Oqf.text" = "المسمى";
+
+/* Class = "WKInterfaceController"; title = "Contact"; ObjectID = "oiQ-42-f52"; */
+"oiQ-42-f52.title" = "للتواصل";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "p7K-dS-1He"; */
+"p7K-dS-1He.text" = "المسمى";
+
+/* Class = "WKInterfaceMenuItem"; title = "Add To Calendar"; ObjectID = "qde-x3-ESX"; */
+"qde-x3-ESX.title" = "الإضافة إلى التقويم";
+
+/* Class = "WKInterfaceLabel"; text = "No Items for today"; ObjectID = "qtz-Ti-5Vq"; */
+"qtz-Ti-5Vq.text" = "لا توجد بنود اليوم";
+
+/* Class = "WKInterfaceMenuItem"; title = "Remind Me"; ObjectID = "rAn-nQ-SLw"; */
+"rAn-nQ-SLw.title" = "ذكرني";
+
+/* Class = "WKInterfaceController"; title = "Campuses"; ObjectID = "rEb-yG-gVi"; */
+"rEb-yG-gVi.title" = "الفروع";
+
+/* Class = "WKInterfaceLabel"; text = "-"; ObjectID = "sTA-f8-bTt"; */
+"sTA-f8-bTt.text" = "-";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "vBO-IT-Q8j"; */
+"vBO-IT-Q8j.text" = "المسمى";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "vHv-sy-hFe"; */
+"vHv-sy-hFe.text" = "المسمى";
+
+/* Class = "WKInterfaceController"; title = "Version"; ObjectID = "vik-8i-077"; */
+"vik-8i-077.title" = "الإصدار";
+
+/* Class = "WKInterfaceLabel"; text = "Server Version"; ObjectID = "xS6-av-ZFg"; */
+"xS6-av-ZFg.text" = "إصدار الخادم";
+
+/* Class = "WKInterfaceLabel"; text = "Client Version"; ObjectID = "zo8-NK-Su9"; */
+"zo8-NK-Su9.text" = "إصدار العميل";
+

@@ -1,0 +1,17 @@
+/* Localized versions of Info.plist keys */
+
+NSLocationWhenInUseUsageDescription = "Vos informations de localisation permettent d'afficher votre position sur les plans du campus et de vous avertir lorsque vous êtes proche d'un lieu proposant informations ou services utiles.";
+
+NSLocationAlwaysUsageDescription = "Cette application nécessite vos informations de localisation pour vous avertir lorsque vous êtes proche d'un lieu sur le campus proposant informations ou services utiles.  En n'autorisant la géolocalisation uniquement lorsque l'application est en cours d'utilisation, certaines fonctionnalités risquent d'échouer lorsque l'application est en arrière-plan.";
+
+NSCalendarsUsageDescription = "Votre calendrier est utilisé lors de l'ajout d'un élément depuis des événements ou cours.";
+
+NSContactsUsageDescription = "Vos contacts sont utilisés lors de l'ajout d'un contact depuis l'annuaire.";
+
+NSRemindersUsageDescription = "Vos rappels sont utilisés lors de l'ajout d'un rappel de devoir.";
+
+NSBluetoothPeripheralUsageDescription = "Votre établissement utilise Bluetooth pour vous prévenir lorsque vous vous trouvez à proximité d'informations ou services spécifiques.";
+
+NSLocationAlwaysAndWhenInUseUsageDescription = "Cette application nécessite vos informations de localisation pour vous avertir lorsque vous êtes proche d'un lieu sur le campus proposant informations ou services utiles.  En n'autorisant la géolocalisation uniquement lorsque l'application est en cours d'utilisation, certaines fonctionnalités risquent d'échouer lorsque l'application est en arrière-plan.";
+
+NSFaceIDUsageDescription = "Autoriser Face ID afin de vous connecter à l’aide de la technologie de reconnaissance faciale.";

@@ -1,0 +1,108 @@
+/* Class = "UIBarButtonItem"; title = "Groups"; ObjectID = "2VU-tC-1YO"; */
+"2VU-tC-1YO.title" = "Grupos";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5Nf-80-87y"; */
+"5Nf-80-87y.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "8Nq-o3-eKE"; */
+"8Nq-o3-eKE.text" = "Correo-e";
+
+/* Class = "UILabel"; text = "Mobile"; ObjectID = "E32-fp-fWi"; */
+"E32-fp-fWi.text" = "Tel. móvil";
+
+/* Class = "UILabel"; text = "Office"; ObjectID = "ES6-XF-LzY"; */
+"ES6-XF-LzY.text" = "Oficina";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FCy-WJ-R5o"; */
+"FCy-WJ-R5o.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FNX-hT-f2J"; */
+"FNX-hT-f2J.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "I8X-eA-chg"; */
+"I8X-eA-chg.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "No results found."; ObjectID = "Jib-sJ-Rca"; */
+"Jib-sJ-Rca.text" = "No encontró resultados.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Jto-4m-Eof"; */
+"Jto-4m-Eof.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "L85-0L-KJI"; */
+"L85-0L-KJI.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Room"; ObjectID = "Ljf-FS-QkD"; */
+"Ljf-FS-QkD.text" = "Salón";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MvU-fw-yWO"; */
+"MvU-fw-yWO.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "More contact information may be displayed if you are signed in."; ObjectID = "NDu-ar-4zk"; */
+"NDu-ar-4zk.text" = "Si inicia sesión verá más información del contacto.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "P0R-te-cLg"; */
+"P0R-te-cLg.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "R7L-ED-0Bh"; */
+"R7L-ED-0Bh.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UmV-de-XLq"; */
+"UmV-de-XLq.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "W1R-yV-kGy"; */
+"W1R-yV-kGy.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WQs-H5-Q3E"; */
+"WQs-H5-Q3E.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Xzd-qc-Avt"; */
+"Xzd-qc-Avt.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "PO Box\nStreet\nCity State Zip\nCountry"; ObjectID = "Ymg-LR-Cb5"; */
+"Ymg-LR-Cb5.text" = "Casilla postal
+Calle
+Ciudad Estado C.P.
+País";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cqF-p7-CSY"; */
+"cqF-p7-CSY.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cxk-4h-snk"; */
+"cxk-4h-snk.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "g4V-gc-7EX"; */
+"g4V-gc-7EX.text" = "Dirección";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gCd-1c-qLV"; */
+"gCd-1c-qLV.text" = "Etiqueta";
+
+/* Class = "UISearchBar"; placeholder = "Search directory"; ObjectID = "iS4-ME-cUg"; */
+"iS4-ME-cUg.placeholder" = "Buscar en directorio";
+
+/* Class = "UILabel"; text = "To use directory, search above"; ObjectID = "jMG-wT-17h"; */
+"jMG-wT-17h.text" = "Para usar el directorio, buscar arriba.";
+
+/* Class = "UIButton"; accessibilityLabel = "Message"; ObjectID = "nmM-3Q-NFi"; */
+"nmM-3Q-NFi.accessibilityLabel" = "Mensaje";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oeC-Q5-nbg"; */
+"oeC-Q5-nbg.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "ood-Qg-2YL"; */
+"ood-Qg-2YL.text" = "Teléfono";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qS0-X8-pbp"; */
+"qS0-X8-pbp.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "More contact information may be displayed if you are signed in."; ObjectID = "vfI-jE-VD0"; */
+"vfI-jE-VD0.text" = "Si inicia sesión verá más información del contacto.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vgR-xa-ywk"; */
+"vgR-xa-ywk.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "No results found."; ObjectID = "wKT-AS-v7t"; */
+"wKT-AS-v7t.text" = "No encontró resultados.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xgX-ly-yIG"; */
+"xgX-ly-yIG.text" = "Etiqueta";
+

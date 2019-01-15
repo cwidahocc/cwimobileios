@@ -1,0 +1,17 @@
+/* Localized versions of Info.plist keys */
+
+NSLocationWhenInUseUsageDescription = "Su ubicación se usa para desplegarla en los mapas del campus y para notificarle cuando está cerca de información o servicios útiles.";
+
+NSLocationAlwaysUsageDescription = "Esta aplicación necesita su ubicación para notificarle cuando está cerca de información o servicios útiles en el campus.  Con solo permitir el acceso a su ubicación mientras la aplicación está en uso, algunas características pueden no trabajar mientras la app está en segundo plano.";
+
+NSCalendarsUsageDescription = "Su calendario se utiliza cuando agrega un elemento de calendario de eventos o cursos.";
+
+NSContactsUsageDescription = "Sus contactos se utilizan cuando agrega un contacto del directorio.";
+
+NSRemindersUsageDescription = "Sus recordatorios se utilizan cuando agrega un recordatorio de asignación.";
+
+NSBluetoothPeripheralUsageDescription = "El Bluetooth se utiliza en su institución para prevenirle cuando está cerca de información o servicios específicos.";
+
+NSLocationAlwaysAndWhenInUseUsageDescription = "Esta aplicación necesita su ubicación para notificarle cuando está cerca de información o servicios útiles en el campus.  Con solo permitir el acceso a su ubicación mientras la aplicación está en uso, algunas características pueden no trabajar mientras la app está en segundo plano.";
+
+NSFaceIDUsageDescription = "El habilitar Face ID, le permite acceder a esta app utilizando tecnología de reconocimiento facial.";

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Live Configurations URL</key>
+	<string>https://mobile.elluciancloud.com/mobilecloud/api/liveConfigurations/496</string>
+	<key>Use Default Configuration</key>
+	<true/>
+	<key>Enable Version Checking</key>
+	<false/>
+	<key>Default Configuration URL</key>
+	<string>https://mobile.elluciancloud.com/mobilecloud/api/applicationConfigurationByName/496/CWI_TEST</string>
+	<key>Allow Switch School</key>
+	<true/>
+	<key>App Group</key>
+	<string>group.edu.cwi.mobile</string>
+	<key>URL Scheme</key>
+	<string>cwimobile</string>
+	<key>Custom Modules</key>
+	<dict/>
+	<key>Watch Menu Title</key>
+	<string>CWI Mobile</string>
+	<key>iOS Application Name</key>
+	<string>CWI Mobile</string>
+</dict>
+</plist>

@@ -1,0 +1,48 @@
+/* Class = "UILabel"; text = "Label"; ObjectID = "3we-7X-deb"; */
+"3we-7X-deb.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5eZ-cF-X9U"; */
+"5eZ-cF-X9U.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "No News Item Selected"; ObjectID = "BLp-yX-Gil"; */
+"BLp-yX-Gil.text" = "Nenhum item de notícias foi selecionado";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ber-l5-Hbn"; */
+"Ber-l5-Hbn.text" = "Rótulo";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "GAA-gf-Pnm"; */
+"GAA-gf-Pnm.title" = "Controlador de visualização raiz";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HDb-ld-NxX"; */
+"HDb-ld-NxX.text" = "Rótulo";
+
+/* Class = "UIBarButtonItem"; title = "Filter"; ObjectID = "M55-Wv-k4W"; */
+"M55-Wv-k4W.title" = "Filtro";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "N3i-w0-peS"; */
+"N3i-w0-peS.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "So3-s4-x4u"; */
+"So3-s4-x4u.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XpT-z8-ZVk"; */
+"XpT-z8-ZVk.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "afW-Om-5Fq"; */
+"afW-Om-5Fq.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fE2-Dg-YoW"; */
+"fE2-Dg-YoW.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "khg-4S-mit"; */
+"khg-4S-mit.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mbn-4F-O3b"; */
+"mbn-4F-O3b.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nhT-F9-zAM"; */
+"nhT-F9-zAM.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rvK-vk-EfD"; */
+"rvK-vk-EfD.text" = "Rótulo";
+

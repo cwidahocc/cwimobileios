@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13189.4" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13165.3"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="588" height="30"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="CjN-uE-aEv">
+                    <rect key="frame" x="0.0" y="0.0" width="588" height="30"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Instructor Approval Required" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yJU-TT-dF1">
+                            <rect key="frame" x="38" y="4" width="196.5" height="22"/>
+                            <fontDescription key="fontDescription" style="UICTFontTextStyleSubhead"/>
+                            <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ilp-overdue-warning-black" translatesAutoresizingMaskIntoConstraints="NO" id="inH-Dj-e2Q">
+                            <rect key="frame" x="8" y="4" width="22" height="22"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="22" id="Gu7-zT-Pgw"/>
+                                <constraint firstAttribute="width" constant="22" id="QTX-ql-veM"/>
+                            </constraints>
+                        </imageView>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="8Qv-Mz-h5W">
+                            <rect key="frame" x="0.0" y="29" width="588" height="1"/>
+                            <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="1" id="hsg-Sk-uiV"/>
+                            </constraints>
+                        </view>
+                    </subviews>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="30" id="9uA-OE-Dgv"/>
+                        <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="yJU-TT-dF1" secondAttribute="trailing" constant="20" symbolic="YES" id="Dj0-3p-2gJ"/>
+                        <constraint firstItem="8Qv-Mz-h5W" firstAttribute="leading" secondItem="CjN-uE-aEv" secondAttribute="leading" id="K4H-Se-hdh"/>
+                        <constraint firstItem="inH-Dj-e2Q" firstAttribute="leading" secondItem="CjN-uE-aEv" secondAttribute="leadingMargin" id="LxV-kp-AYr"/>
+                        <constraint firstItem="yJU-TT-dF1" firstAttribute="leading" secondItem="inH-Dj-e2Q" secondAttribute="trailing" constant="8" id="M3r-2L-l87"/>
+                        <constraint firstAttribute="trailing" secondItem="8Qv-Mz-h5W" secondAttribute="trailing" id="MmU-k5-Rbr"/>
+                        <constraint firstAttribute="bottom" secondItem="8Qv-Mz-h5W" secondAttribute="bottom" id="aFC-l9-2UZ"/>
+                        <constraint firstItem="yJU-TT-dF1" firstAttribute="top" secondItem="CjN-uE-aEv" secondAttribute="top" constant="4" id="mWh-fc-upv"/>
+                        <constraint firstItem="inH-Dj-e2Q" firstAttribute="centerY" secondItem="CjN-uE-aEv" secondAttribute="centerY" id="nSr-1s-9nU"/>
+                        <constraint firstAttribute="bottom" secondItem="yJU-TT-dF1" secondAttribute="bottom" constant="4" id="sh1-1b-syO"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="0.98431372549019602" green="0.68235294117647061" blue="0.090196078431372548" alpha="1" colorSpace="calibratedRGB"/>
+            <constraints>
+                <constraint firstItem="CjN-uE-aEv" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="hm5-nc-pZ7"/>
+                <constraint firstAttribute="trailing" secondItem="CjN-uE-aEv" secondAttribute="trailing" id="nre-AD-A2e"/>
+                <constraint firstItem="CjN-uE-aEv" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="ozJ-4b-zyP"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="133" y="-840"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="ilp-overdue-warning-black" width="16" height="16"/>
+    </resources>
+</document>
