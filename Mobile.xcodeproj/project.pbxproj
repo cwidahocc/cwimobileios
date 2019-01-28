@@ -130,7 +130,6 @@
 		544BE9451B9738CC008FD51D /* UIViewController+ECSlidingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 544BE9441B9738CC008FD51D /* UIViewController+ECSlidingViewController.m */; };
 		544E64991A715CBD00220746 /* NotificationCenter.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 544E64981A715CBD00220746 /* NotificationCenter.framework */; };
 		544E649E1A715CBD00220746 /* TodayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 544E649D1A715CBD00220746 /* TodayViewController.swift */; };
-		544E64A31A715CBD00220746 /* Assignments Today.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 544E64971A715CBD00220746 /* Assignments Today.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		545196731D77220D0069A923 /* RegistrationCartTableHeaderView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 545196751D77220D0069A923 /* RegistrationCartTableHeaderView.xib */; };
 		545196761D77221C0069A923 /* RegistrationSearchResultsHeaderFooterView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 545196781D77221C0069A923 /* RegistrationSearchResultsHeaderFooterView.xib */; };
 		545196791D7722230069A923 /* RegistrationCartTermHeaderView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5451967B1D7722230069A923 /* RegistrationCartTermHeaderView.xib */; };
@@ -406,7 +405,6 @@
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				544E64A31A715CBD00220746 /* Assignments Today.appex in Embed App Extensions */,
 			);
 			name = "Embed App Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -2080,13 +2078,13 @@
 				TargetAttributes = {
 					5444D0081CB2E33100403AA6 = {
 						CreatedOnToolsVersion = 7.3;
-						DevelopmentTeam = CU629ZRRW3;
+						DevelopmentTeam = H29YCCJ4PP;
 						LastSwiftMigration = 0900;
 						TestTargetID = 54E40B3A1728552E00F661A5;
 					};
 					544E64961A715CBD00220746 = {
 						CreatedOnToolsVersion = 6.1.1;
-						DevelopmentTeam = CU629ZRRW3;
+						DevelopmentTeam = H29YCCJ4PP;
 						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
@@ -2103,7 +2101,7 @@
 					};
 					5494D80B1AEAD8E20030EE4A = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = CU629ZRRW3;
+						DevelopmentTeam = H29YCCJ4PP;
 						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
@@ -2120,11 +2118,11 @@
 					};
 					5494D81A1AEAD8E20030EE4A = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = CU629ZRRW3;
+						DevelopmentTeam = H29YCCJ4PP;
 						ProvisioningStyle = Automatic;
 					};
 					54E40B3A1728552E00F661A5 = {
-						DevelopmentTeam = CU629ZRRW3;
+						DevelopmentTeam = H29YCCJ4PP;
 						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
@@ -3014,7 +3012,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = CU629ZRRW3;
+				DEVELOPMENT_TEAM = H29YCCJ4PP;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -3050,7 +3048,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = CU629ZRRW3;
+				DEVELOPMENT_TEAM = H29YCCJ4PP;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -3088,7 +3086,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Assignments Today/Assignments Today.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = CU629ZRRW3;
+				DEVELOPMENT_TEAM = H29YCCJ4PP;
 				ENABLE_BITCODE = YES;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -3129,9 +3127,9 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CODE_SIGN_ENTITLEMENTS = "Assignments Today/Assignments Today.entitlements";
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Ellucian Inc. (CU629ZRRW3)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = CU629ZRRW3;
+				DEVELOPMENT_TEAM = H29YCCJ4PP;
 				ENABLE_BITCODE = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -3173,7 +3171,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "iPhone Developer";
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = CU629ZRRW3;
+				DEVELOPMENT_TEAM = H29YCCJ4PP;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = NO;
@@ -3218,12 +3216,12 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CODE_SIGN_ENTITLEMENTS = "Ellucian GO WatchKit Extension/Ellucian GO WatchKit Extension.entitlements";
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Ellucian Inc. (CU629ZRRW3)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Ellucian Inc. (CU629ZRRW3)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = CU629ZRRW3;
+				DEVELOPMENT_TEAM = H29YCCJ4PP;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -3272,7 +3270,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "iPhone Developer";
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = CU629ZRRW3;
+				DEVELOPMENT_TEAM = H29YCCJ4PP;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -3311,12 +3309,12 @@
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Ellucian Inc. (CU629ZRRW3)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Ellucian Inc. (CU629ZRRW3)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = CU629ZRRW3;
+				DEVELOPMENT_TEAM = H29YCCJ4PP;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -3350,7 +3348,7 @@
 				"CODE_SIGN_IDENTITY[sdk=*]" = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = CU629ZRRW3;
+				DEVELOPMENT_TEAM = H29YCCJ4PP;
 				ENABLE_BITCODE = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Mobile/Mobile-Prefix.pch";
@@ -3387,12 +3385,12 @@
 				CLANG_ANALYZER_LOCALIZABILITY_EMPTY_CONTEXT = YES;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = "Mobile/Ellucian GO.entitlements";
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Ellucian Inc. (CU629ZRRW3)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				CURRENT_PROJECT_VERSION = 4.1.1.6;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = CU629ZRRW3;
+				DEVELOPMENT_TEAM = H29YCCJ4PP;
 				ENABLE_BITCODE = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Mobile/Mobile-Prefix.pch";

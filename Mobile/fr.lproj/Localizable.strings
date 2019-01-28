@@ -457,7 +457,7 @@
 "Unable to access contacts" = "Impossible d'accéder aux contacts";
 
 /* unable to access contacts alert view message. Settings application is part of iOS.  Apple translates this to be Arabic = الإعدادات Spanish/Portuguese=Ajustes French=Réglages */
-"Unable to access contacts. Go to Settings to grant permission to Ellucian GO" = "Impossible d'accéder aux contacts. Autoriser l'accès à Ellucian GO depuis le menu Réglages";
+"Unable to access contacts. Go to Settings to grant permission to Ellucian GO" = "Impossible d'accéder aux contacts. Autoriser l'accès à CWI Mobile depuis le menu Réglages";
 
 /* unable to download configuration message */
 "Unable to download the configuration from that link" = "Impossible de télécharger la configuration depuis ce lien";
