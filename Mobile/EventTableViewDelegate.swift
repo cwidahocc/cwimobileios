@@ -53,16 +53,16 @@ class EventTableViewDelegate: NSObject, UITableViewDataSource, UITableViewDelega
         newIndexPath: IndexPath?) {
             switch type {
             case .insert:
-                eventTableView.insertRows(at: [newIndexPath as IndexPath!], with: .fade)
+                eventTableView.insertRows(at: [newIndexPath!], with: .fade)
             case .update:
-                let cell = self.eventTableView.cellForRow(at: indexPath as IndexPath!)
-                configureCell(cell!, atIndexPath: indexPath as IndexPath!)
-                eventTableView.reloadRows(at: [indexPath as IndexPath!], with: .fade)
+                let cell = self.eventTableView.cellForRow(at: indexPath!)
+                configureCell(cell!, atIndexPath: indexPath!)
+                eventTableView.reloadRows(at: [indexPath!], with: .fade)
             case .move:
-                eventTableView.deleteRows(at: [indexPath as IndexPath!], with: .fade)
-                eventTableView.insertRows(at: [newIndexPath as IndexPath!], with: .fade)
+                eventTableView.deleteRows(at: [indexPath!], with: .fade)
+                eventTableView.insertRows(at: [newIndexPath!], with: .fade)
             case .delete:
-                eventTableView.deleteRows(at: [indexPath as IndexPath!], with: .fade)
+                eventTableView.deleteRows(at: [indexPath!], with: .fade)
             }
     }
     

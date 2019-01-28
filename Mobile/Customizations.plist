@@ -9,9 +9,9 @@
 	<key>Enable Version Checking</key>
 	<false/>
 	<key>Default Configuration URL</key>
-	<string>https://mobile.elluciancloud.com/mobilecloud/api/applicationConfigurationByName/496/CWI_TEST</string>
+	<string>https://mobile.elluciancloud.com/mobilecloud/api/applicationConfigurationByName/496/CWI_PROD</string>
 	<key>Allow Switch School</key>
-	<true/>
+	<false/>
 	<key>App Group</key>
 	<string>group.edu.cwi.mobile</string>
 	<key>URL Scheme</key>

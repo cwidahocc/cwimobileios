@@ -54,7 +54,7 @@ class MapsController: WKInterfaceController {
         for (index, campus) in campuses.enumerated() {
             haveMapsData = true
             let row = mapsTable.rowController(at: index) as! CampusTableRowController
-            row.campusNameLabel.setText(campus["name"] as! String!)
+            row.campusNameLabel.setText((campus["name"] as! String))
         }
         
         noCampusesLabel.setHidden(haveMapsData)
@@ -93,7 +93,7 @@ class MapsController: WKInterfaceController {
                 self.spinner.stopAnimating()
                 self.spinner.setHidden(true)
                 
-                self.campuses = data["campuses"] as! [[String:AnyObject]]
+                self.campuses = (data["campuses"] as! [[String:AnyObject]])
                 self.cache?.store(self.campuses)
                 self.populateTable()
             })

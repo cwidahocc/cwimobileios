@@ -33,18 +33,18 @@ class ILPAssignmentsDetailController: WKInterfaceController {
         self.assignment = context as? Dictionary<String, AnyObject>
         
         if let assignment = self.assignment {
-            self.titleLabel.setText(assignment["name"] as! String!)
+            self.titleLabel.setText((assignment["name"] as! String))
             
             if assignment["courseName"] != nil && assignment["courseSectionNumber"] != nil {
-                if let courseNameString = assignment["courseName"] as! String!, let courseSectionNumberString = assignment["courseSectionNumber"] as! String! {
+                if let courseNameString = assignment["courseName"] as? String, let courseSectionNumberString = assignment["courseSectionNumber"] as? String {
                     self.courseNameLabel.setText("\(courseNameString)-\(courseSectionNumberString)")
                 }
             } else if assignment["courseName"] != nil {
-                self.courseNameLabel.setText(assignment["courseName"] as! String!)
+                self.courseNameLabel.setText((assignment["courseName"] as! String))
             }
             
             if assignment["dueDate"] != nil {
-                if let assignmentDate = assignment["dueDate"] as! Date! {
+                if let assignmentDate = assignment["dueDate"] as? Date {
                     let time = (self.datetimeOutputFormatter.string(from: assignmentDate))
                     self.timeLabel.setText(time)
                 }
@@ -52,7 +52,7 @@ class ILPAssignmentsDetailController: WKInterfaceController {
                 self.timeLabel.setHidden(true)
             }
 
-            self.descriptionLabel.setText(assignment["assignmentDescription"] as! String!)
+            self.descriptionLabel.setText((assignment["assignmentDescription"] as! String))
         }
     }
     
@@ -111,21 +111,21 @@ class ILPAssignmentsDetailController: WKInterfaceController {
             if (granted) && (error == nil) {
                 
                 let event:EKEvent = EKEvent(eventStore: eventStore)
-                event.title = self.assignment!["name"] as! String!
-                if let dueDate = self.assignment!["dueDate"] as! Date! {
+                event.title = (self.assignment!["name"] as! String)
+                if let dueDate = self.assignment!["dueDate"] as? Date {
                     event.startDate = dueDate
                     event.endDate = dueDate
                 }
-                event.notes = self.assignment!["assignmentDescription"] as! String!
+                event.notes = (self.assignment!["assignmentDescription"] as! String)
                 event.calendar = eventStore.defaultCalendarForNewEvents
                 
                 var location : String?
                 if self.assignment!["courseName"] != nil && self.assignment!["courseSectionNumber"] != nil {
-                    if let courseNameString = self.assignment!["courseName"] as! String!, let courseSectionNumberString = self.assignment!["courseSectionNumber"] as! String! {
+                    if let courseNameString = self.assignment!["courseName"] as? String, let courseSectionNumberString = self.assignment!["courseSectionNumber"] as? String {
                         location = ("\(courseNameString)-\(courseSectionNumberString)")
                     }
                 } else if self.assignment!["courseName"] != nil {
-                    location = (self.assignment!["courseName"] as! String!)
+                    location = (self.assignment!["courseName"] as! String)
                 }
                 
                 event.location = location

@@ -271,10 +271,22 @@
     }
 }
 
+//Implementing deprecated method
+/*
 -(void) didRotateFromInterfaceOrientation:(UIInterfaceOrientation)fromInterfaceOrientation
 {
     self.widthConstraint.constant = [UIScreen mainScreen].bounds.size.width;
     [self.scrollView setContentOffset:CGPointZero animated:YES];
+}
+*/
+- (void) viewWillTransitionToSize:(CGSize)size withTransitionCoordinator:(id<UIViewControllerTransitionCoordinator>)coordinator {
+    [super viewWillTransitionToSize:size withTransitionCoordinator:coordinator];
+    [coordinator animateAlongsideTransition:nil completion:^(id<UIViewControllerTransitionCoordinatorContext>  _Nonnull context) {
+        if (@available(iOS 11.0, *)) {
+            self.widthConstraint.constant = [UIScreen mainScreen].bounds.size.width;
+            [self.scrollView setContentOffset:CGPointZero animated:YES];
+        }
+    }];
 }
 
 @end

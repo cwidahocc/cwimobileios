@@ -24,7 +24,7 @@ class MapsBuildingsController: WKInterfaceController {
         
         if let campus = campus {
             setTitle(campus["name"] as? String)
-            self.poiArray = campus["buildings"]  as! [Dictionary<String, AnyObject>]
+            self.poiArray = (campus["buildings"]  as! [Dictionary<String, AnyObject>])
             
             self.poiArray = self.poiArray.sorted {
                 return ($0["name"] as! String) < ($1["name"] as! String)

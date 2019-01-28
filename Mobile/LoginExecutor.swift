@@ -161,7 +161,7 @@
                         case LAError.userFallback:
                             print("User chose to try a password")
                             doLoginUsingController(controller, successCompletionHandler: successCompletionHandler)
-                        case LAError.touchIDLockout:
+                        case LAError.biometryLockout:
                             print("TouchID lockout")
                             doLoginUsingController(controller, successCompletionHandler: successCompletionHandler)
                         default:
@@ -172,9 +172,9 @@
             } else {
                 // Unable to access local device authentication
                 switch touchIDError!.code {
-                case LAError.touchIDNotEnrolled.rawValue:
+                case LAError.biometryNotEnrolled.rawValue:
                     print("Touch ID is not enrolled")
-                case LAError.touchIDNotAvailable.rawValue:
+                case LAError.biometryNotAvailable.rawValue:
                     print("Touch ID not available")
                 case LAError.passcodeNotSet.rawValue:
                     print("Passcode has not been set")

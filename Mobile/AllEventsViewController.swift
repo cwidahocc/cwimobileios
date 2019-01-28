@@ -104,13 +104,13 @@ class AllEventsViewController : UIViewController, UITableViewDataSource, UITable
             
             switch type {
             case .insert:
-                allEventsTableView.insertRows(at: [newIndexPath as IndexPath!], with: .fade)
+                allEventsTableView.insertRows(at: [newIndexPath!], with: .fade)
             case .update:
-                let cell = self.allEventsTableView.cellForRow(at: indexPath as IndexPath!)
-                configureCell(cell!, atIndexPath: indexPath as IndexPath!)
-                allEventsTableView.reloadRows(at: [indexPath as IndexPath!], with: .fade)
+                let cell = self.allEventsTableView.cellForRow(at: indexPath!)
+                configureCell(cell!, atIndexPath: indexPath!)
+                allEventsTableView.reloadRows(at: [indexPath!], with: .fade)
             case .delete:
-                allEventsTableView.deleteRows(at: [indexPath as IndexPath!], with: .fade)
+                allEventsTableView.deleteRows(at: [indexPath!], with: .fade)
             default:
                 break
             }

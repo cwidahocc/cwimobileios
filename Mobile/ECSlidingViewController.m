@@ -197,18 +197,16 @@
     return NO;
 }
 
-- (BOOL)shouldAutomaticallyForwardRotationMethods {
-    return YES;
-}
+- (void)unwindForSegue:(UIStoryboardSegue *)unwindSegue towardsViewController:(UIViewController *)subsequentVC{
 
-- (UIStoryboardSegue *)segueForUnwindingToViewController:(UIViewController *)toViewController fromViewController:(UIViewController *)fromViewController identifier:(NSString *)identifier {
-    if ([self.underLeftViewController isMemberOfClass:[toViewController class]] || [self.underRightViewController isMemberOfClass:[toViewController class]]) {
-        ECSlidingSegue *unwindSegue = [[ECSlidingSegue alloc] initWithIdentifier:identifier source:fromViewController destination:toViewController];
-        [unwindSegue setValue:@YES forKey:@"isUnwinding"];
-        return unwindSegue;
+    if ([self.underLeftViewController isMemberOfClass:[subsequentVC class]] || [self.underRightViewController isMemberOfClass:[subsequentVC class]]) {
+        ECSlidingSegue *unwindSeguee = [[ECSlidingSegue alloc] initWithIdentifier:unwindSegue.identifier source:self destination:subsequentVC];
+        [unwindSeguee setValue:@YES forKey:@"isUnwinding"];
+
     } else {
-        return [super segueForUnwindingToViewController:toViewController fromViewController:fromViewController identifier:identifier];
+        [self unwindForSegue:unwindSegue towardsViewController:subsequentVC];
     }
+
 }
 
 - (UIViewController *)childViewControllerForStatusBarHidden {
@@ -501,13 +499,14 @@
     CGRect containerViewFrame = self.view.bounds;
     
     if (!(self.topViewController.edgesForExtendedLayout & UIRectEdgeTop)) {
-        CGFloat topLayoutGuideLength = [self.topLayoutGuide length];
+        
+        CGFloat topLayoutGuideLength = self.view.safeAreaInsets.top;
         containerViewFrame.origin.y     = topLayoutGuideLength;
         containerViewFrame.size.height -= topLayoutGuideLength;
     }
     
     if (!(self.topViewController.edgesForExtendedLayout & UIRectEdgeBottom)) {
-        CGFloat bottomLayoutGuideLength = [self.bottomLayoutGuide length];
+        CGFloat bottomLayoutGuideLength = self.view.safeAreaInsets.bottom;
         containerViewFrame.size.height -= bottomLayoutGuideLength;
     }
     
@@ -533,13 +532,13 @@
     CGRect containerViewFrame = self.view.bounds;
     
     if (!(self.underLeftViewController.edgesForExtendedLayout & UIRectEdgeTop)) {
-        CGFloat topLayoutGuideLength    = [self.topLayoutGuide length];
+        CGFloat topLayoutGuideLength    = self.view.safeAreaInsets.top;
         containerViewFrame.origin.y     = topLayoutGuideLength;
         containerViewFrame.size.height -= topLayoutGuideLength;
     }
     
     if (!(self.underLeftViewController.edgesForExtendedLayout & UIRectEdgeBottom)) {
-        CGFloat bottomLayoutGuideLength = [self.bottomLayoutGuide length];
+        CGFloat bottomLayoutGuideLength = self.view.safeAreaInsets.bottom;
         containerViewFrame.size.height -= bottomLayoutGuideLength;
     }
     
@@ -558,13 +557,13 @@
     CGRect containerViewFrame = self.view.bounds;
     
     if (!(self.underRightViewController.edgesForExtendedLayout & UIRectEdgeTop)) {
-        CGFloat topLayoutGuideLength    = [self.topLayoutGuide length];
+        CGFloat topLayoutGuideLength    = self.view.safeAreaInsets.top;
         containerViewFrame.origin.y     = topLayoutGuideLength;
         containerViewFrame.size.height -= topLayoutGuideLength;
     }
     
     if (!(self.underRightViewController.edgesForExtendedLayout & UIRectEdgeBottom)) {
-        CGFloat bottomLayoutGuideLength = [self.bottomLayoutGuide length];
+        CGFloat bottomLayoutGuideLength = self.view.safeAreaInsets.bottom;
         containerViewFrame.size.height -= bottomLayoutGuideLength;
     }
     
@@ -1011,13 +1010,18 @@
     self.coordinatorCompletion = completion;
     return YES;
 }
-
+/*
+ //Deprecated - "Use notifyWhenInteractionChangesUsingBlock"
+ 
+ //Commenting this code - Creates new warning
+ //"Class 'ECSlidingViewController' does not conform to protocol 'UIViewControllerTransitionCoordinator'"
+ 
 - (void)notifyWhenInteractionEndsUsingBlock:(void(^)(id<UIViewControllerTransitionCoordinatorContext>context))handler {
     self.coordinatorInteractionEnded = handler;
 }
-
+*/
 - (void)notifyWhenInteractionChangesUsingBlock:(nonnull void (^)(id<UIViewControllerTransitionCoordinatorContext> _Nonnull))handler {
-    
+    self.coordinatorInteractionEnded = handler;
 }
 
 

@@ -19,11 +19,11 @@ class LaunchBeacon: GoBeacon {
         super.init(goBeaconEntity: launchBeaconEntity)
     }
 
-    override var hashValue: Int {
-        get {
-            return moduleKey.hashValue
-        }
-    }
+//    override var hashValue: Int {
+//        get {
+//            return moduleKey.hashValue
+//        }
+//    }
 
     @nonobjc static func ==(lhs: LaunchBeacon, rhs: LaunchBeacon) -> Bool {
         return lhs.moduleKey == rhs.moduleKey

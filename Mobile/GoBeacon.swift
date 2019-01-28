@@ -35,11 +35,11 @@ class GoBeacon: NSObject {
         return BeaconManager.beaconId(uuidString: uuid, major: major, minor: minor)
     }
     
-    override var hashValue: Int {
-        get {
-            return id().hashValue
-        }
-    }
+//    override var hashValue: Int {
+//        get {
+//            return id().hashValue
+//        }
+//    }
     
     @nonobjc static func ==(lhs: GoBeacon, rhs: GoBeacon) -> Bool {
         return lhs.id() == rhs.id()

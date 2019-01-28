@@ -385,11 +385,6 @@
 }
 
 
--(BOOL)splitViewController:(UISplitViewController *)svc shouldHideViewController:(UIViewController *)vc inOrientation:(UIInterfaceOrientation)orientation
-{
-    return NO;
-}
-
 -(void) reloadData:(id)sender
 {
     dispatch_async(dispatch_get_main_queue(), ^{

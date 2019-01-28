@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13196" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
     <device id="retina5_9" orientation="landscape">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13173"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -37,17 +37,17 @@
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uNn-lo-hcn">
-                                                <rect key="frame" x="683" y="34.666666666666671" width="31" height="14.333333333333329"/>
+                                                <rect key="frame" x="683" y="34.666666666666671" width="31" height="14.333333333333336"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="12"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Client Version" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="evF-VH-GMi">
-                                                <rect key="frame" x="594.66666666666652" y="10" width="78.333333333333371" height="14.666666666666664"/>
+                                                <rect key="frame" x="594.66666666666663" y="10" width="78.333333333333371" height="14.666666666666664"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="12"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Server Version" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Unv-BZ-jCN">
-                                                <rect key="frame" x="590.66666666666652" y="34.666666666666671" width="82.333333333333371" height="14.333333333333329"/>
+                                                <rect key="frame" x="590.66666666666663" y="34.666666666666671" width="82.333333333333371" height="14.333333333333336"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="12"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
@@ -72,7 +72,7 @@
                                                                 </constraints>
                                                             </imageView>
                                                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" horizontalCompressionResistancePriority="751" text="Phone" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VE7-5E-OVa">
-                                                                <rect key="frame" x="10" y="10" width="52.666666666666671" height="17"/>
+                                                                <rect key="frame" x="9.9999999999999964" y="10" width="52.666666666666657" height="17"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
@@ -111,7 +111,7 @@
                                                                 </constraints>
                                                             </imageView>
                                                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" horizontalCompressionResistancePriority="751" text="Email" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zq1-Vn-YjD">
-                                                                <rect key="frame" x="10" y="10" width="52.666666666666671" height="17"/>
+                                                                <rect key="frame" x="9.9999999999999964" y="10" width="52.666666666666657" height="17"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
@@ -150,7 +150,7 @@
                                                                 </constraints>
                                                             </imageView>
                                                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" horizontalCompressionResistancePriority="751" text="Website" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yxJ-it-tJJ">
-                                                                <rect key="frame" x="10" y="10" width="52.666666666666671" height="17"/>
+                                                                <rect key="frame" x="9.9999999999999964" y="10" width="52.666666666666657" height="17"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
@@ -189,7 +189,7 @@
                                                                 </constraints>
                                                             </imageView>
                                                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" horizontalCompressionResistancePriority="751" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xLQ-Zx-ewm">
-                                                                <rect key="frame" x="10" y="10" width="35.666666666666671" height="17"/>
+                                                                <rect key="frame" x="10" y="10" width="35.666666666666664" height="17"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
@@ -300,7 +300,7 @@
                                 <items>
                                     <barButtonItem style="plain" id="1Io-6B-qFa">
                                         <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="W9v-QP-EPK">
-                                            <rect key="frame" x="64" y="8.6666666666666856" width="130" height="15"/>
+                                            <rect key="frame" x="64" y="8.6666666666666643" width="130" height="15"/>
                                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                             <fontDescription key="fontDescription" type="system" pointSize="9"/>
                                             <inset key="contentEdgeInsets" minX="-5" minY="0.0" maxX="-3" maxY="0.0"/>
@@ -317,7 +317,7 @@
                                     <barButtonItem style="plain" systemItem="flexibleSpace" id="g09-Vw-hbY"/>
                                     <barButtonItem style="plain" id="5JL-Ie-Tqm">
                                         <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="WUk-Hg-02u">
-                                            <rect key="frame" x="650" y="4.6666666666666856" width="98" height="23"/>
+                                            <rect key="frame" x="650" y="4.6666666666666679" width="98" height="23"/>
                                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                             <fontDescription key="fontDescription" type="system" pointSize="9"/>
                                             <state key="normal" title="Ellucian Privacy Policy"/>
@@ -394,7 +394,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="ellucian-powered-by" width="73" height="15"/>
+        <image name="ellucian-powered-by" width="73.5" height="15"/>
         <image name="icon-email-grey" width="25" height="25"/>
         <image name="icon-launch-external-grey" width="25" height="25"/>
         <image name="icon-phone-grey" width="25" height="25"/>

@@ -48,12 +48,7 @@ class AudioViewController: UIViewController, AVAudioPlayerDelegate, EllucianMobi
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        if let hudView = self.view {
-            hud = MBProgressHUD.showAdded(to: hudView, animated: true)
-            let loadingString = NSLocalizedString("Loading", comment: "loading message while waiting for data to load")
-            hud.label.text = loadingString
-            UIAccessibilityPostNotification(UIAccessibilityAnnouncementNotification, loadingString)
-        }
+        
         
         self.shortDescription.accessibilityTraits = UIAccessibilityTraitButton
         self.shortDescription.accessibilityHint = NSLocalizedString("Expands description.", comment: "VoiceOver hint for button that expands a text description")
@@ -62,6 +57,14 @@ class AudioViewController: UIViewController, AVAudioPlayerDelegate, EllucianMobi
         
         let urlString = module!.property(forKey: "audio")
         if let urlString = urlString, let url = URL(string: urlString) {
+            
+            if let hudView = self.view {
+                hud = MBProgressHUD.showAdded(to: hudView, animated: true)
+                let loadingString = NSLocalizedString("Loading", comment: "loading message while waiting for data to load")
+                hud.label.text = loadingString
+                UIAccessibilityPostNotification(UIAccessibilityAnnouncementNotification, loadingString)
+            }
+            
             let asset = AVURLAsset(url: url)
             let playerItem = AVPlayerItem(asset: asset)
             
@@ -147,7 +150,7 @@ class AudioViewController: UIViewController, AVAudioPlayerDelegate, EllucianMobi
     }
 
     func updateNowPlaying() {
-        
+         
         if let audioPlayer = SingletonAVPlayer.shared.player {
             let playbackDuration = CMTimeGetSeconds(audioPlayer.currentItem!.duration)
             let playbackTime = CMTimeGetSeconds(audioPlayer.currentItem!.currentTime())
@@ -248,8 +251,10 @@ class AudioViewController: UIViewController, AVAudioPlayerDelegate, EllucianMobi
     }
     
     override func observeValue(forKeyPath keyPath: String?, of object: Any?, change: [NSKeyValueChangeKey : Any]?, context: UnsafeMutableRawPointer?) {
+        
         if let player = SingletonAVPlayer.shared.player, let status = player.currentItem?.status {
             if status == .readyToPlay {
+                
                 self.hud.hide(animated: true)
                 let _ = player.currentItem?.duration
                 
@@ -264,6 +269,7 @@ class AudioViewController: UIViewController, AVAudioPlayerDelegate, EllucianMobi
                     currentItem.removeObserver(self, forKeyPath: "status")
                 }
             } else if status == .failed {
+                
                 if let error = player.currentItem?.error, error._code == NSURLErrorTimedOut {
                     let alertController = UIAlertController(title: NSLocalizedString("Poor Network Connection", comment: "title when data cannot load due to a poor netwrok connection"), message: NSLocalizedString("Data could not be retrieved.", comment: "message when data cannot load due to a poor netwrok connection"), preferredStyle: .alert)
                     let OKAction = UIAlertAction(title: NSLocalizedString("OK", comment: "OK"), style: .default, handler: nil)
@@ -283,6 +289,8 @@ class AudioViewController: UIViewController, AVAudioPlayerDelegate, EllucianMobi
                 
                 self.hud.hide(animated: true)
             }
+        }else{
+            print("Invalid")
         }
     }
     

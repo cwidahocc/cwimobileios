@@ -443,11 +443,33 @@ class EventsViewController : UITableViewController, UISearchResultsUpdating , NS
                 dateLabel.text = self.timeFormatter.string(from: event.startDate)
             }
         }
-        let categoriesArray = event.category.map{ m -> String in
+        /*
+         print(event.category)
+         
+         let dummy : NSSet = event.category! as NSSet
+         
+         let object: EventCategory = dummy.allObjects[0] as! EventCategory
+         
+         let objectName = object.name as String
+         
+         print(objectName)
+         */
+        
+        //Changed for iOS 11 & 12 - version 5.3
+        let categoriesArray = (event.category as NSSet).map { (m) -> String in
+            
             let category = m as! EventCategory
+            
             return category.name
         }
+        
+        //        let categoriesArray = event.category.map{ m -> String in
+        //            let category = m as! EventCategory
+        //            return category.name
+        //        }
+        
         let categories = categoriesArray.joined(separator: ", ")
+        // print("categories : \(categories)")
         
         categoryLabel.text = categories
         locationLabel.text = event.location

@@ -8,9 +8,9 @@
 
 import Foundation
 
-let kSchoolCustomizationPrimaryColor = "#331640"
+let kSchoolCustomizationPrimaryColor = "#5353D1" //"#331640" - PreviousColor
 let kSchoolCustomizationHeaderColor = "#FFFFFF"
-let kSchoolCustomizationAccentColor = "#D9C696"
+let kSchoolCustomizationAccentColor = "#D9D9D9" //"#51ABFF" - PreviousColor
 let kSchoolCustomizationSubheaderColor = "#736357"
 
 extension UIColor {

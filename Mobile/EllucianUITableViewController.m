@@ -85,13 +85,16 @@
     self.noDataView.hidden = YES;
 }
 
-- (void)didRotateFromInterfaceOrientation:(UIInterfaceOrientation)fromInterfaceOrientation
-{
-    if(self.noDataView && self.noDataView.hidden == NO) {
-        [_noDataView removeFromSuperview];
-        _noDataView = nil;
-        self.noDataView.hidden = NO;
-    }
+- (void) viewWillTransitionToSize:(CGSize)size withTransitionCoordinator:(id<UIViewControllerTransitionCoordinator>)coordinator {
+    [super viewWillTransitionToSize:size withTransitionCoordinator:coordinator];
+    [coordinator animateAlongsideTransition:nil completion:^(id<UIViewControllerTransitionCoordinatorContext>  _Nonnull context) {
+        
+        if(self.noDataView && self.noDataView.hidden == NO) {
+            [self->_noDataView removeFromSuperview];
+            self->_noDataView = nil;
+            self.noDataView.hidden = NO;
+        }
+    }];
 }
 
 @end

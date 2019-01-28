@@ -459,12 +459,23 @@ class FeedViewController : UITableViewController, UISearchResultsUpdating , NSFe
         contentLabel.preferredMaxLayoutWidth = contentLabel.frame.width
         titleLabel.text = feed.title.convertingHTMLToPlainText()
         dateLabel.text = feed.postDateTime.timeAgo
-        let categoriesArray = feed.category.map{ m -> String in
+        
+        //Changed for iOS 11 & 12 - version 5.3 
+        let categoriesArray = (feed.category as NSSet).map { (m) -> String in
+            
             let category = m as! FeedCategory
+            
             return category.name
         }
-        let categories = categoriesArray.joined(separator: ", ")
         
+        /*
+         let categoriesArray = feed.category.map{ m -> String in
+         let category = m as! FeedCategory
+         return category.name
+         }
+         */
+        
+        let categories = categoriesArray.joined(separator: ", ")
         categoryLabel.text = categories
         contentLabel.text = feed.content?.convertingHTMLToPlainText()
         cell.layoutIfNeeded()
